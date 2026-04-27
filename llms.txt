@@ -11,6 +11,7 @@ This file is an index of documentation pages. For all content in a single file, 
 
 ## Research
 
+- [Board Briefing](https://ajdench.github.io/cqc-league/research/board-briefing.md)
 - [CQC Governance Baseline](https://ajdench.github.io/cqc-league/research/cqc-governance-baseline.md)
 - [CQC Assurance Domains and Quality Statements](https://ajdench.github.io/cqc-league/research/cqc-assurance-domains-quality-statements.md)
 - [CQC Registration Edge Cases](https://ajdench.github.io/cqc-league/research/cqc-registration-edge-cases.md)
