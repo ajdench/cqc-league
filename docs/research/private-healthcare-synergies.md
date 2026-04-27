@@ -2,7 +2,7 @@
 
 ## Why private healthcare is the right comparator
 
-CQC defines independent healthcare as healthcare provided by organisations that are not NHS trusts or NHS GP services. This includes private companies, charities, social enterprises, voluntary and faith-based organisations, and individual providers of care.
+CQC defines [independent healthcare](https://www.cqc.org.uk/guidance-providers/independent-healthcare/independent-healthcare-services) as healthcare provided by organisations that are not NHS trusts or NHS GP services. This includes private companies, charities, social enterprises, voluntary and faith-based organisations, and individual providers of care.
 
 A professional Rugby League club with a medical department is not a typical private clinic, but the comparator becomes strong where the club:
 
@@ -17,7 +17,7 @@ A professional Rugby League club with a medical department is not a typical priv
 
 ### Provider-level accountability
 
-Independent healthcare providers need clear legal-entity accountability. A club should mirror this by naming:
+Independent healthcare providers need clear [legal-entity accountability](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity). A club should mirror this by naming:
 
 - the legal entity that owns the medical service;
 - the board member or executive accountable for clinical quality;
@@ -27,7 +27,7 @@ Independent healthcare providers need clear legal-entity accountability. A club 
 
 ### Statement of purpose discipline
 
-CQC registration applications require a clear description of services, regulated activities, locations, and service types. Even outside registration, a club should maintain a "medical service statement of purpose" that defines:
+CQC registration applications require a clear description of services, regulated activities, locations, and service types. Even outside registration, a club should maintain a [medical service statement of purpose](https://www.cqc.org.uk/guidance-regulation/providers/registration/statement-purpose) that defines:
 
 - who the service is for;
 - what services are and are not provided;
@@ -38,7 +38,7 @@ CQC registration applications require a clear description of services, regulated
 
 ### Governance evidence pack
 
-Independent healthcare providers are expected to show systems before registration and during inspection. A club can reuse the same evidence structure:
+Independent healthcare providers are expected to show systems before registration and during inspection. CQC's [new provider guidance](https://www.cqc.org.uk/guidance-regulation/registration/applying-new-provider-guidance) is useful as a checklist even where a club concludes registration is not required. A club can reuse the same evidence structure:
 
 - policies: consent, records, medicines, safeguarding, chaperones, infection prevention, complaints, duty of candour, incident reporting, data protection, business continuity;
 - people: professional registration, indemnity, DBS where needed, training, supervision, appraisal, scope of practice;
@@ -48,7 +48,7 @@ Independent healthcare providers are expected to show systems before registratio
 
 ### Risk and performance information
 
-CQC's well-led quality statement expects leaders to use information about risk, performance, and outcomes. For a club, useful indicators include:
+CQC's [well-led governance quality statement](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability) expects leaders to use information about risk, performance, and outcomes. For a club, useful indicators include:
 
 - serious injuries, head injury assessments, concussions, failed return-to-play steps, and recurrent injuries;
 - emergency transfers and ambulance activations;
@@ -62,7 +62,7 @@ CQC's well-led quality statement expects leaders to use information about risk, 
 
 ### Registration boundary discipline
 
-Independent healthcare providers define their regulated activities, locations, service users, and statement of purpose before operating. A club should borrow that discipline even where its core player-only service is excluded from CQC registration. The biggest private-healthcare synergy is to require a new scope assessment before adding public access, diagnostics, injections, IV services, prescribing pathways, remote triage, or paid clinic services.
+Independent healthcare providers define their regulated activities, locations, service users, and statement of purpose before operating. A club should borrow that discipline even where its core player-only service is excluded from CQC registration. The biggest private-healthcare synergy is to require a new [scope assessment](registration-decision-model.md) before adding public access, diagnostics, injections, IV services, prescribing pathways, remote triage, or paid clinic services.
 
 ## Contracting synergies
 
@@ -86,6 +86,12 @@ The private healthcare model creates a helpful separation between **clinical jud
 - coaches and executives may receive fitness information only within consent, confidentiality, and data protection rules;
 - players can raise concerns without selection or contract retaliation;
 - medical governance reports to the board, not solely through performance staff.
+
+## Related pages
+
+- [CQC Registration Edge Cases](cqc-registration-edge-cases.md) identifies the private-healthcare triggers most likely to matter for a club.
+- [Governance Operating Model](governance-operating-model.md) turns independent-healthcare governance into committee routines.
+- [Assurance Pack Templates](assurance-pack-templates.md) includes a statement of purpose and contractor due diligence checklist.
 
 ## Sources
 

@@ -2,13 +2,13 @@
 
 ## Why this is high risk
 
-Medicines sit at the sharpest interface between CQC governance, professional duties, player welfare, and anti-doping. A club medical department may hold emergency medicines, prescribe or administer pain relief, use injections, manage asthma medication, advise on supplements, handle concussion medication restrictions, and support TUE applications.
+Medicines sit at the sharpest interface between CQC governance, professional duties, player welfare, and anti-doping. A club medical department may hold emergency medicines, prescribe or administer pain relief, use injections, manage asthma medication, advise on supplements, handle concussion medication restrictions, and support Therapeutic Use Exemption (TUE) applications through [UKAD's medicine and TUE guidance](https://www.ukad.org.uk/medicine).
 
 The governance aim is simple: no medicine should be prescribed, supplied, stored, administered, reported, or disclosed unless the club can explain the clinical indication, professional authority, anti-doping status, consent, record, and follow-up.
 
 ## CQC medicines optimisation standard
 
-CQC's medicines optimisation quality statement expects medicines and treatments to be safe and to meet people's needs, capacities, and preferences. The statement covers involvement in medicines decisions, best practice, lawful prescribing/supply/administration, accurate medicines information during transfers of care, and controlled-drugs oversight.
+CQC's [medicines optimisation quality statement](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/safe/medicines-optimisation) expects medicines and treatments to be safe and to meet people's needs, capacities, and preferences. The statement covers involvement in medicines decisions, best practice, lawful prescribing/supply/administration, accurate medicines information during transfers of care, and controlled-drugs oversight.
 
 For a Rugby League club this means:
 
@@ -22,9 +22,9 @@ For a Rugby League club this means:
 
 ## RFL anti-doping controls
 
-The RFL Medical Standards 2026 require medical staff to be aware of anti-doping rules and the WADA Prohibited List. They make checking medication and supplements mandatory. They direct use of Global DRO for medicines and highlight that supplements cannot be checked the same way because they are not licensed medicines.
+The [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) require medical staff to be aware of anti-doping rules and the WADA Prohibited List. They make checking medication and supplements mandatory. They direct use of [Global DRO through UKAD's Search Check Apply process](https://www.ukad.org.uk/searchcheckapply) for medicines and highlight that supplements cannot be checked the same way because they are not licensed medicines.
 
-Professional players are treated as being in the UKAD National TUE Pool under the RFL standards, so TUE timing matters. If a medication contains a prohibited substance and there is clinical need, a TUE may be needed before use except in emergencies or defined retroactive scenarios.
+Professional players are treated as being in the UKAD National TUE Pool under the RFL standards, so TUE timing matters. If a medication contains a prohibited substance and there is clinical need, a TUE may be needed before use except in emergencies or defined retroactive scenarios. The RFL's [anti-doping page](https://www.rugby-league.com/governance/rules-and-regulations/anti-doping-integrity-betting) is the sport-specific reference point.
 
 ## Club medicines governance model
 
@@ -56,7 +56,7 @@ Each medicine should state:
 
 Minimum controls:
 
-- prescribe only after adequate assessment and access to relevant medical history where needed;
+- prescribe only after adequate assessment and access to relevant medical history where needed, consistent with [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices);
 - check allergy status, current medication, contraindications, and interaction risk;
 - check Global DRO before prescribing or advising use where anti-doping applies;
 - check whether the player needs a TUE using UKAD guidance or the TUE Wizard;
@@ -100,7 +100,7 @@ Club control:
 
 ## Supplements
 
-UKAD warns that no supplement can be guaranteed free of prohibited substances. A club should:
+UKAD warns in its [supplement risk guidance](https://www.ukad.org.uk/athletes/managing-supplement-risks) that no supplement can be guaranteed free of prohibited substances. A club should:
 
 - require documented need assessment before supplement use;
 - prefer food-first nutrition and clinician/dietitian review;
@@ -131,6 +131,12 @@ The RFL standards require doctors to consider whether pharmacological agents or 
 - Are players given enough information to make informed choices?
 - Are supplement risks governed through medical/nutrition, not performance pressure?
 
+## Related pages
+
+- [CQC Registration Edge Cases](cqc-registration-edge-cases.md) explains when prescribing, injections, IV services and medicines administration can become registration questions.
+- [RFL Medical Standards Map](rfl-medical-standards-map.md) identifies the RFL controls that feed into medicines assurance.
+- [Assurance Pack Templates](assurance-pack-templates.md#7-medicines-and-anti-doping-log) includes a medicines and anti-doping log.
+
 ## Sources
 
 - [CQC: Medicines optimisation](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/safe/medicines-optimisation)
@@ -142,4 +148,3 @@ The RFL standards require doctors to consider whether pharmacological agents or 
 - [UKAD: Search Check Apply](https://www.ukad.org.uk/searchcheckapply)
 - [UKAD: Managing Supplement Risks](https://www.ukad.org.uk/athletes/managing-supplement-risks)
 - [GMC: Good practice in prescribing and managing medicines and devices](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices)
-

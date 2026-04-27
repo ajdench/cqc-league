@@ -2,6 +2,8 @@
 
 ## Board-to-clinical structure
 
+This operating model translates [CQC Regulation 17: Good governance](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-17), the [well-led governance quality statement](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability), and the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into club routines.
+
 ```mermaid
 flowchart TB
   Board["Club Board / Ownership Entity"] --> Risk["Board Risk or Medical Governance Committee"]
@@ -50,7 +52,7 @@ flowchart TB
 
 The board should receive a concise dashboard with:
 
-- a five-domain CQC-style view: safe, effective, caring, responsive, and well-led;
+- a five-domain CQC-style view: safe, effective, caring, responsive, and well-led, using [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md);
 - current CQC scope assessment and any service changes;
 - RFL medical standards compliance;
 - medical risk register top five;
@@ -99,3 +101,9 @@ Escalate immediately if any of these occur:
 9. Report quarterly to the board and annually refresh the CQC scope analysis.
 
 Use [Assurance Pack Templates](assurance-pack-templates.md) for the practical document set.
+
+## Related pages
+
+- [RFL Medical Standards Map](rfl-medical-standards-map.md) provides the sport-specific evidence source.
+- [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) gives the controls for the medicines risk line in the dashboard.
+- [Registration Decision Model](registration-decision-model.md) keeps new services from drifting across the registration boundary unnoticed.

@@ -2,7 +2,7 @@
 
 ## Provider assurance framework
 
-For registered providers, CQC's current assessment framework retains the five key questions. These are the practical domains of assurance:
+For registered providers, [CQC's current assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework) retains the five key questions. These are the practical domains of assurance:
 
 1. **Safe**: people are protected from avoidable harm, abuse, neglect, discrimination, unsafe environments, unsafe staffing, infection risks, and medicines risks.
 2. **Effective**: care and treatment are evidence based, coordinated, consented to, outcome focused, and based on assessed needs.
@@ -10,7 +10,7 @@ For registered providers, CQC's current assessment framework retains the five ke
 4. **Responsive**: services are organised around people, accessible, continuous, inclusive, and able to respond to feedback and complaints.
 5. **Well-led**: leadership, culture, governance, risk management, partnership working, learning, and sustainability support safe and high-quality care.
 
-CQC's quality statements are written as "we" statements. They describe the commitments providers, commissioners, and system leaders are expected to live up to. They replaced the older key lines of enquiry.
+CQC's [34 quality statements](https://www.cqc.org.uk/publications/review-cqcs-single-assessment-framework-and-its-implementation/appendix-1-34-quality-statements) are written as "we" statements. They describe the commitments providers, commissioners, and system leaders are expected to live up to. They replaced the older key lines of enquiry.
 
 ## The 34 provider quality statements
 
@@ -24,7 +24,7 @@ CQC's quality statements are written as "we" statements. They describe the commi
 
 ## Evidence categories
 
-CQC groups assessment evidence into six categories:
+CQC groups assessment evidence into [six evidence categories](https://www.cqc.org.uk/guidance-regulation/providers/assessment/evidence-categories):
 
 - people's experience of health and care services;
 - feedback from staff and leaders;
@@ -33,7 +33,7 @@ CQC groups assessment evidence into six categories:
 - processes;
 - outcomes.
 
-For a club medical service, these categories are useful even where the activity is outside CQC registration because they convert governance into inspectable evidence. For example, a concussion protocol is a process; player feedback is people's experience; RFL, ambulance, hospital, or contractor feedback is partner evidence; medical-room checks are observation/process evidence; return-to-play and reinjury rates are outcomes.
+For a club medical service, these categories are useful even where the activity is outside CQC registration because they convert governance into inspectable evidence. For example, a concussion protocol is a process; player feedback is people's experience; RFL, ambulance, hospital, or contractor feedback is partner evidence; medical-room checks are observation/process evidence; return-to-play and reinjury rates are outcomes. The [RFL Medical Standards Map](rfl-medical-standards-map.md) shows how RFL evidence can be organised under these domains.
 
 ## Rugby League medical evidence map
 
@@ -56,19 +56,19 @@ A club medical governance model should give special attention to these statement
 | Safeguarding | Academy players, young professionals, vulnerable adults, and power imbalances require explicit safeguarding controls. |
 | Safe environments | Stadium and training-ground medical rooms, equipment, technology, cleaning, storage, and emergency access need regular assurance. |
 | Safe and effective staffing | Club cover depends on qualified, competent, indemnified, and supervised doctors, physiotherapists, therapists, rehabilitators, paramedics, and first aiders. |
-| Medicines optimisation | Pain relief, injections, prescribing, emergency medicines, anti-doping implications, and storage controls are high-risk in elite sport. |
+| [Medicines optimisation](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/safe/medicines-optimisation) | Pain relief, injections, prescribing, emergency medicines, anti-doping implications, and storage controls are high-risk in elite sport. |
 | Delivering evidence-based care and treatment | Clinical decisions should be based on current medical evidence and sport-specific standards, not selection pressure. |
 | Monitoring and improving outcomes | Injury recurrence, return-to-play outcomes, concussion metrics, complaints, and player experience should drive improvement. |
 | Consent to care and treatment | Consent must cover treatment, examination, referrals, information sharing with coaches, and the limits of confidentiality. |
 | Listening to and involving people | Players need safe routes to raise concerns about care, pressure to play, confidentiality, and welfare. |
 | Equity in access, experiences and outcomes | Academy, women's, disability, reserve, overseas, neurodivergent, and injured players should not receive weaker medical access or outcomes. |
-| Governance, management and sustainability | This is the central board assurance statement: roles, accountability, risk, performance, records, audits, and sustainability. |
+| [Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability) | This is the central board assurance statement: roles, accountability, risk, performance, records, audits, and sustainability. |
 | Freedom to speak up | Players and clinicians need a route to escalate safety concerns without fear of selection, contract, or employment consequences. |
 | Partnerships and communities | The club must work well with RFL, hospitals, ambulance services, private clinics, insurers, schools, and safeguarding agencies. |
 
 ## Local authority assurance is different
 
-CQC also has a separate local authority assurance framework for duties under Part 1 of the Care Act 2014. That framework uses four themes and nine quality statements. It is not the main framework for a professional sports club or private healthcare provider, but it is relevant terminology because CQC calls it "assurance."
+CQC also has a separate [local authority assessment framework](https://www.cqc.org.uk/guidance-regulation/local-authorities/assessment-framework) for duties under Part 1 of the Care Act 2014. That framework uses four themes and nine quality statements. It is not the main framework for a professional sports club or private healthcare provider, but it is relevant terminology because CQC calls it "assurance."
 
 The four local authority assurance themes are:
 
@@ -88,6 +88,12 @@ Use the five provider domains as the headings for board assurance:
 - Caring: are players treated as people, not only performance assets?
 - Responsive: does the service adapt, listen, and stay accessible?
 - Well-led: can the board prove the medical system is governed, learning, and sustainable?
+
+## Related pages
+
+- [CQC Governance Baseline](cqc-governance-baseline.md) explains the legal and provider-governance foundation.
+- [Governance Operating Model](governance-operating-model.md) uses these domains in the board dashboard.
+- [Assurance Pack Templates](assurance-pack-templates.md) includes a board report template structured around the five domains.
 
 ## Key sources
 
