@@ -9,6 +9,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 
 ## How to use this wiki
 
+- Use [Board Briefing](research/board-briefing.md) as the initial board-facing summary from the Head of Medical.
 - Start with [CQC Governance Baseline](research/cqc-governance-baseline.md) for the regulatory architecture.
 - Read [CQC Assurance Domains and Quality Statements](research/cqc-assurance-domains-quality-statements.md) for the assessment lens CQC uses to judge quality.
 - Use [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md) for diagnostics, injections, remote advice, ambulance transport, contractors, and public clinic services.
@@ -32,6 +33,7 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 ## External reference anchors
 
 - Current CQC registration scope starts with [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration).
+- The initial board-facing output is [Board Briefing](research/board-briefing.md).
 - The sport-specific regulatory boundary is explored in [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md).
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).

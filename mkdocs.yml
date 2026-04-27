@@ -43,6 +43,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Research:
+      - Board Briefing: research/board-briefing.md
       - CQC Governance Baseline: research/cqc-governance-baseline.md
       - CQC Assurance Domains and Quality Statements: research/cqc-assurance-domains-quality-statements.md
       - CQC Registration Edge Cases: research/cqc-registration-edge-cases.md
