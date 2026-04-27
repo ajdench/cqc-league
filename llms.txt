@@ -15,6 +15,7 @@ This file is an index of documentation pages. For all content in a single file, 
 - [CQC Assurance Domains and Quality Statements](https://ajdench.github.io/cqc-league/research/cqc-assurance-domains-quality-statements.md)
 - [CQC Registration Edge Cases](https://ajdench.github.io/cqc-league/research/cqc-registration-edge-cases.md)
 - [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
+- [Worked Examples](https://ajdench.github.io/cqc-league/research/worked-examples.md)
 - [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
 - [Private Healthcare Synergies](https://ajdench.github.io/cqc-league/research/private-healthcare-synergies.md)
 - [Medicines, Prescribing, and Anti-Doping](https://ajdench.github.io/cqc-league/research/medicines-prescribing-anti-doping.md)

@@ -13,6 +13,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Read [CQC Assurance Domains and Quality Statements](research/cqc-assurance-domains-quality-statements.md) for the assessment lens CQC uses to judge quality.
 - Use [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md) for diagnostics, injections, remote advice, ambulance transport, contractors, and public clinic services.
 - Use [Professional Rugby League Application](research/rugby-league-application.md) to map sports-club medical provision to likely CQC triggers and exclusions.
+- Use [Worked Examples](research/worked-examples.md) to test realistic club service models against the registration and assurance logic.
 - Use [RFL Medical Standards Map](research/rfl-medical-standards-map.md) to connect the 2026 RFL Medical Standards to CQC-style assurance.
 - Use [Private Healthcare Synergies](research/private-healthcare-synergies.md) to borrow governance controls from independent healthcare providers.
 - Use [Medicines, Prescribing, and Anti-Doping](research/medicines-prescribing-anti-doping.md) for the highest-risk operational interface between clinical care and elite sport.
@@ -32,5 +33,6 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 
 - Current CQC registration scope starts with [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration).
 - The sport-specific regulatory boundary is explored in [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md).
+- Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
