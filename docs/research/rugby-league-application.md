@@ -85,6 +85,7 @@ For a professional Rugby League club, the prudent position is not "CQC never app
 ## Related pages
 
 - [CQC Governance Baseline](cqc-governance-baseline.md) explains the provider-registration foundation.
+- [Worked Examples](worked-examples.md) applies this page to player-only care, public clinics, concussion, contractor cover, and academy pathways.
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) covers the highest-risk treatment interface.
 - [Assurance Pack Templates](assurance-pack-templates.md) provides the scope assessment, incident, contractor, and concussion templates.
 

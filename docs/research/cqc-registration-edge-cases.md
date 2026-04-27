@@ -102,6 +102,7 @@ Use the [CQC scope assessment template](assurance-pack-templates.md#1-cqc-scope-
 ## Related pages
 
 - [Professional Rugby League Application](rugby-league-application.md) applies these edge cases to the club setting.
+- [Worked Examples](worked-examples.md) tests realistic club service models against the edge-case logic.
 - [Private Healthcare Synergies](private-healthcare-synergies.md) explains how independent providers control similar risks.
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) expands the injection, IV, prescribing and TUE risks.
 

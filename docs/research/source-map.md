@@ -43,3 +43,10 @@ This page records the main sources used and the point each source supports.
 | [LLM Wiki](https://llm-wiki.org/) | Reference pattern for a Material for MkDocs-based LLM-facing wiki. |
 | [mkdocs-llms-source on PyPI](https://pypi.org/project/mkdocs-llms-source/) | LLM outputs: `/llms.txt`, `/llms-full.txt`, and per-page Markdown copies. |
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Documentation theme and site structure. |
+
+## Internal application pages
+
+| Page | Used for |
+| --- | --- |
+| [Worked Examples](worked-examples.md) | Scenario testing for player-only care, public clinics, diagnostics, concussion, medicines, remote triage, contractors, and academy pathways. |
+| [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |

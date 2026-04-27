@@ -171,5 +171,6 @@ Agenda:
 ## Related pages
 
 - [Governance Operating Model](governance-operating-model.md) explains where these templates sit in board and committee routines.
+- [Worked Examples](worked-examples.md) shows when to use each template in practical club scenarios.
 - [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) provides the assurance structure behind the board report.
 - [Source Map](source-map.md) lists the full external source set.
