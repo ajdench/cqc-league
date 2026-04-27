@@ -18,6 +18,20 @@ CQC's scope guidance for [Treatment of disease, disorder or injury](https://www.
 
 That exclusion is central. A professional Rugby League club is less likely to need CQC registration merely because it provides pitch-side emergency care, match-day doctor cover, or training-ground treatment solely for players and attendees within the sports-ground/event context. The edge cases around public clinics, diagnostics, remote advice and contractor control are set out in [CQC Registration Edge Cases](cqc-registration-edge-cases.md).
 
+### Professional sport is not automatically outside the exclusion
+
+The CQC wording does not distinguish amateur sport from professional sport. It refers to treatment in a sports ground or gymnasium, associated premises, people taking part in or attending sporting activities and events, and temporary sporting-event arrangements. On that wording, the exclusion can apply to professional Rugby League where the facts meet those conditions.
+
+For a Super League or Championship club, the professional nature of the service increases the need for evidence, but does not by itself remove the exclusion. The board should document:
+
+- the relevant location or temporary event;
+- the user group, limited to players, participants, match officials, staff necessary to the event, or attendees as relevant;
+- that the care is not advertised or operated as a public/private clinic;
+- that diagnostics, remote triage, ambulance transport to hospital, public treatment, or paid non-player services have been separately assessed;
+- which legal entity controls the service and any contractor.
+
+The conclusion should be phrased carefully: **professional pitch-side/player care may be excluded from CQC registration for Treatment of disease, disorder or injury; the club's wider medical service model may still create CQC registration duties.**
+
 ## Where CQC risk can re-enter
 
 The sports exclusion is not a blanket immunity for all healthcare run by a club. CQC's [scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration) should be reassessed if the club does any of the following:

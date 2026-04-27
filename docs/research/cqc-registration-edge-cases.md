@@ -43,6 +43,26 @@ The important sport-specific exclusions are:
 
 The exclusion should be documented, not assumed. The more a service resembles a public clinic, commercial treatment service, diagnostics business, or routine healthcare pathway, the weaker the sports-exclusion argument becomes.
 
+## Professional pitch-side care
+
+The sports-ground and temporary sporting-event exclusions can apply to professional sport. CQC's wording is not limited to amateur, volunteer, community, or non-commercial sport. For Rugby League, the right question is not whether the club is professional; it is whether the treatment is:
+
+- provided in a sports ground, gymnasium, associated premises, or temporary sporting-event arrangement;
+- solely for people taking part in or attending sporting activities and events;
+- confined to the relevant treatment activity rather than a broader healthcare service.
+
+This means a Championship or Super League club can reasonably document an exclusion rationale for pitch-side care, match-day treatment, and participant-only training-ground care. But that rationale does not automatically cover:
+
+- a public sports injury clinic;
+- diagnostics or screening carried on as a separate activity;
+- remote triage services;
+- ambulance transport from the event ground to hospital;
+- IV wellness or recovery services;
+- treatment of sponsors, schools, community users, or staff families;
+- an external provider whose own regulated activity is not covered by the club's sports context.
+
+For board papers, the safest formulation is: **the pitch-side sports exclusion can apply to professional Rugby League, but it is conditional and service-specific.**
+
 ## Diagnostics and screening
 
 Diagnostics are a likely expansion point. CQC's [diagnostic and screening procedures guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures) includes radiation, ultrasound, MRI, most forms of endoscopy, sample removal or examination for diagnostic reasons, and physiological measurement needed to plan or deliver care.

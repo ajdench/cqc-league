@@ -10,7 +10,7 @@ This is not a conclusion that Sheffield Eagles, or any other Championship club, 
 
 CQC is the independent regulator of health and adult social care in England. It registers providers carrying on regulated activities, assesses quality and safety, publishes ratings and reports for many services, and can take enforcement action where legal requirements are breached.
 
-For a Rugby League club, CQC is most relevant where the club medical service moves beyond participant-only sport care into private healthcare, diagnostics, remote triage, prescribing/injections, public clinic services, or contractor-controlled regulated activity. Core match-day and training-ground care for players will often sit within CQC's sports or first-aid exclusions for [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury), but that exclusion should be evidenced, not assumed.
+For a Rugby League club, CQC is most relevant where the club medical service moves beyond participant-only sport care into private healthcare, diagnostics, remote triage, prescribing/injections, public clinic services, or contractor-controlled regulated activity. Core match-day and training-ground care for players can sit within CQC's sports or first-aid exclusions for [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury), but that exclusion should be evidenced, not assumed.
 
 The board should direct the Head of Medical to maintain:
 
@@ -55,6 +55,20 @@ See [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality
 For a Championship club, core medical provision usually includes match-day cover, training-ground treatment, rehabilitation, concussion management, emergency action plans, mandatory equipment, and return-to-play controls. For example, the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) require medical staff, note keeping, emergency action planning, mandatory medical equipment, anti-doping controls, concussion management, and cardiac screening obligations.
 
 That core player/participant care may fall within the sports-ground, gymnasium, first-aid, or temporary sporting-event exclusions in CQC's treatment guidance. The club still needs a written rationale and a governance pack because CQC, insurers, RFL, legal advisers, or the board may ask how that conclusion was reached.
+
+### Does the pitch-side sports exclusion apply to professional sport?
+
+Yes, it can. CQC's current treatment guidance excludes treatment provided in a sports ground or gymnasium, including associated premises, where it is provided for the sole benefit of people taking part in or attending sporting activities and events. It also excludes treatment provided through temporary arrangements for sporting or cultural events. The wording does not say that professional sport is excluded from the exclusion.
+
+The professional status of the competition is therefore not the decisive test. The decisive questions are:
+
+- is the care treatment of disease, disorder or injury?
+- is it provided at a sports ground, gymnasium, associated premises, or temporary sporting event?
+- is it solely for people taking part in or attending the sporting activity or event?
+- is the service only pitch-side/event/player care, or has it become a broader clinic, diagnostic, remote triage, ambulance, or private healthcare service?
+- who is directing and controlling the care?
+
+For a professional club, the practical board position should be: **the pitch-side sports exclusion can apply to professional Rugby League, but only within its conditions and only for the relevant regulated activity**. The club should not treat it as a blanket exemption for all medical services.
 
 ### Sheffield Eagles / Championship operating context
 
