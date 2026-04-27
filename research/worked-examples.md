@@ -25,7 +25,7 @@ The club operates a treatment room at its training ground. Club-employed or cont
 
 ### Likely posture
 
-This is usually lower CQC registration risk if the activity is solely for people taking part in sporting activity and is delivered at a sports ground, gymnasium, or associated premises. The relevant external source is CQC's [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) guidance, which includes sport and first-aid exclusions.
+This is usually lower CQC registration risk if the activity is solely for people taking part in sporting activity and is delivered at a sports ground, gymnasium, or associated premises. The relevant external source is CQC's [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) guidance, which includes sport and first-aid exclusions. The same analysis can apply in professional sport; the professional status of the club does not, by itself, defeat the exclusion.
 
 ### Why
 
@@ -107,7 +107,7 @@ Lower CQC registration risk in the match-event context, but high clinical govern
 
 ### Why
 
-The service likely sits inside the sporting-event or participant-care setting. The risk is not public registration. It is handover, reporting, records, medication masking symptoms, return-to-play pressure, and missed specialist referral.
+The service likely sits inside the sporting-event or participant-care setting, even in a professional fixture, because CQC's sports/event wording is not limited to amateur sport. The risk is not usually public registration for the pitch-side assessment itself. It is handover, reporting, records, medication masking symptoms, return-to-play pressure, and missed specialist referral.
 
 ### Evidence to hold
 
@@ -190,7 +190,7 @@ Medium risk. Match-day sports treatment may be excluded, but transport, ambulanc
 
 ### Why
 
-The club may be the organiser, the contractor may be the clinical provider, or responsibilities may be shared. If the contract is vague, the club may not know who owns incidents, complaints, clinical records, safeguarding escalation, duty of candour, or CQC notifications if a regulated activity is carried on.
+The club may be the organiser, the contractor may be the clinical provider, or responsibilities may be shared. The professional status of the fixture does not decide CQC registration; the contractor's activities, locations, users, transport arrangements, and clinical control do. If the contract is vague, the club may not know who owns incidents, complaints, clinical records, safeguarding escalation, duty of candour, or CQC notifications if a regulated activity is carried on.
 
 ### Evidence to hold
 

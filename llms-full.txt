@@ -64,7 +64,7 @@ This is not a conclusion that Sheffield Eagles, or any other Championship club, 
 
 CQC is the independent regulator of health and adult social care in England. It registers providers carrying on regulated activities, assesses quality and safety, publishes ratings and reports for many services, and can take enforcement action where legal requirements are breached.
 
-For a Rugby League club, CQC is most relevant where the club medical service moves beyond participant-only sport care into private healthcare, diagnostics, remote triage, prescribing/injections, public clinic services, or contractor-controlled regulated activity. Core match-day and training-ground care for players will often sit within CQC's sports or first-aid exclusions for [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury), but that exclusion should be evidenced, not assumed.
+For a Rugby League club, CQC is most relevant where the club medical service moves beyond participant-only sport care into private healthcare, diagnostics, remote triage, prescribing/injections, public clinic services, or contractor-controlled regulated activity. Core match-day and training-ground care for players can sit within CQC's sports or first-aid exclusions for [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury), but that exclusion should be evidenced, not assumed.
 
 The board should direct the Head of Medical to maintain:
 
@@ -109,6 +109,20 @@ See [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality
 For a Championship club, core medical provision usually includes match-day cover, training-ground treatment, rehabilitation, concussion management, emergency action plans, mandatory equipment, and return-to-play controls. For example, the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) require medical staff, note keeping, emergency action planning, mandatory medical equipment, anti-doping controls, concussion management, and cardiac screening obligations.
 
 That core player/participant care may fall within the sports-ground, gymnasium, first-aid, or temporary sporting-event exclusions in CQC's treatment guidance. The club still needs a written rationale and a governance pack because CQC, insurers, RFL, legal advisers, or the board may ask how that conclusion was reached.
+
+### Does the pitch-side sports exclusion apply to professional sport?
+
+Yes, it can. CQC's current treatment guidance excludes treatment provided in a sports ground or gymnasium, including associated premises, where it is provided for the sole benefit of people taking part in or attending sporting activities and events. It also excludes treatment provided through temporary arrangements for sporting or cultural events. The wording does not say that professional sport is excluded from the exclusion.
+
+The professional status of the competition is therefore not the decisive test. The decisive questions are:
+
+- is the care treatment of disease, disorder or injury?
+- is it provided at a sports ground, gymnasium, associated premises, or temporary sporting event?
+- is it solely for people taking part in or attending the sporting activity or event?
+- is the service only pitch-side/event/player care, or has it become a broader clinic, diagnostic, remote triage, ambulance, or private healthcare service?
+- who is directing and controlling the care?
+
+For a professional club, the practical board position should be: **the pitch-side sports exclusion can apply to professional Rugby League, but only within its conditions and only for the relevant regulated activity**. The club should not treat it as a blanket exemption for all medical services.
 
 ### Sheffield Eagles / Championship operating context
 
@@ -527,6 +541,26 @@ The important sport-specific exclusions are:
 
 The exclusion should be documented, not assumed. The more a service resembles a public clinic, commercial treatment service, diagnostics business, or routine healthcare pathway, the weaker the sports-exclusion argument becomes.
 
+## Professional pitch-side care
+
+The sports-ground and temporary sporting-event exclusions can apply to professional sport. CQC's wording is not limited to amateur, volunteer, community, or non-commercial sport. For Rugby League, the right question is not whether the club is professional; it is whether the treatment is:
+
+- provided in a sports ground, gymnasium, associated premises, or temporary sporting-event arrangement;
+- solely for people taking part in or attending sporting activities and events;
+- confined to the relevant treatment activity rather than a broader healthcare service.
+
+This means a Championship or Super League club can reasonably document an exclusion rationale for pitch-side care, match-day treatment, and participant-only training-ground care. But that rationale does not automatically cover:
+
+- a public sports injury clinic;
+- diagnostics or screening carried on as a separate activity;
+- remote triage services;
+- ambulance transport from the event ground to hospital;
+- IV wellness or recovery services;
+- treatment of sponsors, schools, community users, or staff families;
+- an external provider whose own regulated activity is not covered by the club's sports context.
+
+For board papers, the safest formulation is: **the pitch-side sports exclusion can apply to professional Rugby League, but it is conditional and service-specific.**
+
 ## Diagnostics and screening
 
 Diagnostics are a likely expansion point. CQC's [diagnostic and screening procedures guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures) includes radiation, ultrasound, MRI, most forms of endoscopy, sample removal or examination for diagnostic reasons, and physiological measurement needed to plan or deliver care.
@@ -619,6 +653,20 @@ CQC's scope guidance for [Treatment of disease, disorder or injury](https://www.
 - treatment provided through temporary arrangements for sporting or cultural events.
 
 That exclusion is central. A professional Rugby League club is less likely to need CQC registration merely because it provides pitch-side emergency care, match-day doctor cover, or training-ground treatment solely for players and attendees within the sports-ground/event context. The edge cases around public clinics, diagnostics, remote advice and contractor control are set out in [CQC Registration Edge Cases](cqc-registration-edge-cases.md).
+
+### Professional sport is not automatically outside the exclusion
+
+The CQC wording does not distinguish amateur sport from professional sport. It refers to treatment in a sports ground or gymnasium, associated premises, people taking part in or attending sporting activities and events, and temporary sporting-event arrangements. On that wording, the exclusion can apply to professional Rugby League where the facts meet those conditions.
+
+For a Super League or Championship club, the professional nature of the service increases the need for evidence, but does not by itself remove the exclusion. The board should document:
+
+- the relevant location or temporary event;
+- the user group, limited to players, participants, match officials, staff necessary to the event, or attendees as relevant;
+- that the care is not advertised or operated as a public/private clinic;
+- that diagnostics, remote triage, ambulance transport to hospital, public treatment, or paid non-player services have been separately assessed;
+- which legal entity controls the service and any contractor.
+
+The conclusion should be phrased carefully: **professional pitch-side/player care may be excluded from CQC registration for Treatment of disease, disorder or injury; the club's wider medical service model may still create CQC registration duties.**
 
 ## Where CQC risk can re-enter
 
@@ -727,7 +775,7 @@ The club operates a treatment room at its training ground. Club-employed or cont
 
 ### Likely posture
 
-This is usually lower CQC registration risk if the activity is solely for people taking part in sporting activity and is delivered at a sports ground, gymnasium, or associated premises. The relevant external source is CQC's [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) guidance, which includes sport and first-aid exclusions.
+This is usually lower CQC registration risk if the activity is solely for people taking part in sporting activity and is delivered at a sports ground, gymnasium, or associated premises. The relevant external source is CQC's [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) guidance, which includes sport and first-aid exclusions. The same analysis can apply in professional sport; the professional status of the club does not, by itself, defeat the exclusion.
 
 ### Why
 
@@ -809,7 +857,7 @@ Lower CQC registration risk in the match-event context, but high clinical govern
 
 ### Why
 
-The service likely sits inside the sporting-event or participant-care setting. The risk is not public registration. It is handover, reporting, records, medication masking symptoms, return-to-play pressure, and missed specialist referral.
+The service likely sits inside the sporting-event or participant-care setting, even in a professional fixture, because CQC's sports/event wording is not limited to amateur sport. The risk is not usually public registration for the pitch-side assessment itself. It is handover, reporting, records, medication masking symptoms, return-to-play pressure, and missed specialist referral.
 
 ### Evidence to hold
 
@@ -892,7 +940,7 @@ Medium risk. Match-day sports treatment may be excluded, but transport, ambulanc
 
 ### Why
 
-The club may be the organiser, the contractor may be the clinical provider, or responsibilities may be shared. If the contract is vague, the club may not know who owns incidents, complaints, clinical records, safeguarding escalation, duty of candour, or CQC notifications if a regulated activity is carried on.
+The club may be the organiser, the contractor may be the clinical provider, or responsibilities may be shared. The professional status of the fixture does not decide CQC registration; the contractor's activities, locations, users, transport arrangements, and clinical control do. If the contract is vague, the club may not know who owns incidents, complaints, clinical records, safeguarding escalation, duty of candour, or CQC notifications if a regulated activity is carried on.
 
 ### Evidence to hold
 
@@ -1772,7 +1820,7 @@ This page records the main sources used and the point each source supports.
 | --- | --- |
 | [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration) | Registration trigger, offence risk, decision questions, latest guidance caveat. |
 | [CQC: The regulated activities](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities) | Need to register for each relevant regulated activity; no hierarchy of activities. |
-| [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) | Current 2026 sports exclusions, first-aid exclusions, medicines administration, supervision, and professional role scope. |
+| [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) | Current 2026 sports exclusions, first-aid exclusions, medicines administration, supervision, and professional role scope. The sports-ground/event wording is not limited to amateur sport. |
 | [CQC: Diagnostic and screening procedures](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures) | Imaging, ultrasound, sample analysis, physiological measurement, remote reporting, and sports medicine diagnostics. |
 | [CQC: Transport services, triage and medical advice provided remotely](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided) | Ambulance/event-site transport boundary and urgent remote advice/triage registration trigger. |
 | [CQC: Types of service provider or legal entity](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity) | Hosting, subcontracting, joint ventures, and control/accountability tests. |
