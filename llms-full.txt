@@ -1,0 +1,1239 @@
+# CQC League Governance Wiki
+
+> Research notes on CQC governance requirements, private healthcare registration patterns, and application to professional Rugby League club medical provision in England.
+
+
+## Home
+
+### Home
+
+# CQC League Governance Wiki
+
+This wiki captures research on Care Quality Commission (CQC) governance requirements and how they may apply to professional Rugby League club medical services in England.
+
+The core conclusion is practical: most match-day and training-ground treatment for players is likely to sit inside CQC's sports-ground or temporary sporting-event exclusions, but a club can still create CQC exposure if it operates a broader private healthcare service, diagnostics pathway, clinic, remote triage service, or subcontracted service where the club controls regulated healthcare activity.
+
+!!! warning "Scope"
+    This is a research and governance design aid, not legal advice. Registration decisions should be checked against the latest CQC guidance and, for borderline service models, with specialist regulatory counsel or CQC.
+
+## How to use this wiki
+
+- Start with [CQC Governance Baseline](research/cqc-governance-baseline.md) for the regulatory architecture.
+- Read [CQC Assurance Domains and Quality Statements](research/cqc-assurance-domains-quality-statements.md) for the assessment lens CQC uses to judge quality.
+- Use [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md) for diagnostics, injections, remote advice, ambulance transport, contractors, and public clinic services.
+- Use [Professional Rugby League Application](research/rugby-league-application.md) to map sports-club medical provision to likely CQC triggers and exclusions.
+- Use [RFL Medical Standards Map](research/rfl-medical-standards-map.md) to connect the 2026 RFL Medical Standards to CQC-style assurance.
+- Use [Private Healthcare Synergies](research/private-healthcare-synergies.md) to borrow governance controls from independent healthcare providers.
+- Use [Medicines, Prescribing, and Anti-Doping](research/medicines-prescribing-anti-doping.md) for the highest-risk operational interface between clinical care and elite sport.
+- Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
+- Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
+- Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
+
+## LLM Wiki outputs
+
+The MkDocs build is configured to publish:
+
+- `/llms.txt`: curated LLM index generated from the navigation.
+- `/llms-full.txt`: concatenated source content for LLM context.
+- per-page Markdown copies alongside the HTML pages.
+
+## Research
+
+### CQC Governance Baseline
+
+# CQC Governance Baseline
+
+## What CQC regulates
+
+CQC registration is activity-based. A provider may need to register if it provides, or intends to provide, health or adult social care activities in England. CQC states that this can apply even where the service is not regular or permanent, and that carrying on a regulated activity without registration is an offence.
+
+The practical test is:
+
+1. Is a regulated activity being carried on?
+2. Who is directing and controlling it?
+3. Does an exception or exemption apply?
+4. Where is the activity carried on at or from?
+5. Is a registered manager required?
+
+For professional sports medical provision, the most relevant regulated activity is usually **Treatment of disease, disorder or injury**. Depending on the service model, other activities may also matter, especially diagnostic and screening procedures, surgical procedures, transport services, remote triage or medical advice, and any treatment delivered from a clinic not covered by a sports-specific exclusion.
+
+## Provider, location, and control
+
+CQC registration follows the legal entity that carries on the regulated activity. That may be an individual, partnership, company, charity, voluntary body, NHS body, or other organisation.
+
+For sports clubs this matters because medical provision often involves several parties:
+
+- the club operating medical rooms and employing or contracting clinicians;
+- an independent sports medicine clinic providing services at club premises;
+- a governing body setting medical standards but not directing individual care;
+- event medical providers covering fixtures;
+- NHS or private hospitals receiving referrals;
+- contracted imaging, blood testing, rehabilitation, or occupational health providers.
+
+CQC expects providers to be clear in contracts and service level agreements about who has responsibility for direction and control of regulated activities. If multiple entities carry on a regulated activity, each may need to consider registration separately.
+
+## Governance requirements
+
+The main governance anchor is **Regulation 17: Good governance**. CQC guidance expects providers to have systems and processes to assess, monitor, and improve quality and safety; assess, monitor, and mitigate risk; keep accurate records; maintain staff and management records; and use accurate information to run the service.
+
+For a club medical service, Regulation 17 translates into:
+
+- a named accountable executive or board committee for medical quality and safety;
+- a clinical governance lead with authority independent of sporting performance pressure;
+- a risk register covering player welfare, match-day care, medicines, diagnostics, referrals, infection prevention, safeguarding, data protection, emergency response, and contractor oversight;
+- routine clinical audit, incident review, complaints review, and learning actions;
+- contemporaneous clinical records and secure information governance;
+- evidence that concerns are escalated and acted on without delay.
+
+## Fundamental standards most relevant to club medicine
+
+| Regulation | Relevance to club medical provision |
+| --- | --- |
+| Regulation 9: Person-centred care | Care planning, player preferences, equality, and individual needs. |
+| Regulation 11: Need for consent | Consent for examination, treatment, information sharing, imaging, injections, and return-to-play decisions. |
+| Regulation 12: Safe care and treatment | Risk assessment, medicines, infection prevention, emergency plans, equipment safety, and clinician competence. |
+| Regulation 13: Safeguarding | Children, academy players, vulnerable adults, abuse, coercion, and improper treatment. |
+| Regulation 15: Premises and equipment | Medical rooms, pitch-side equipment, storage, calibration, cleaning, and maintenance. |
+| Regulation 16: Complaints | Accessible complaint routes for players and others receiving care. |
+| Regulation 17: Good governance | Quality assurance, audits, records, risk management, and accountability. |
+| Regulation 18: Staffing | Sufficient suitably qualified, competent, skilled, and experienced staff. |
+| Regulation 19: Fit and proper persons employed | Recruitment checks, professional registration, indemnity, scope of practice, and ongoing fitness. |
+| Regulation 20: Duty of candour | Openness after notifiable safety incidents where CQC-regulated care is being provided. |
+
+## CQC assessment lens
+
+CQC's assessment framework asks whether services are safe, effective, caring, responsive, and well-led. These five key questions are the practical assurance domains for registered providers. CQC now assesses them through quality statements, which replace the former key lines of enquiry.
+
+The most directly relevant quality statement for governance is **Governance, management and sustainability**, which looks for clear responsibilities, accountability, risk and performance information, robust data arrangements, and use of recognised standards. See [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) for the full framework and a sports-club evidence map.
+
+For sports clubs, the evidence bundle should therefore be built around what CQC would recognise:
+
+- documented responsibilities and escalation routes;
+- clinical policies and protocols;
+- clinician credentials and CPD records;
+- incident, concussion, safeguarding, and complaint logs;
+- audit schedules and action tracking;
+- medicines and equipment governance;
+- player feedback and staff feedback;
+- contractual oversight of independent providers;
+- board reports that show risk, performance, outcomes, and learning.
+
+## Key sources
+
+- [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration)
+- [CQC: The regulated activities](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities)
+- [CQC: What is a location?](https://www.cqc.org.uk/guidance-providers/registration/what-location)
+- [CQC: Regulation 17, Good governance](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-17)
+- [CQC: Regulation 12, Safe care and treatment](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-12)
+- [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework)
+- [CQC: Governance, management and sustainability quality statement](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability)
+
+### CQC Assurance Domains and Quality Statements
+
+# CQC Assurance Domains and Quality Statements
+
+## Provider assurance framework
+
+For registered providers, CQC's current assessment framework retains the five key questions. These are the practical domains of assurance:
+
+1. **Safe**: people are protected from avoidable harm, abuse, neglect, discrimination, unsafe environments, unsafe staffing, infection risks, and medicines risks.
+2. **Effective**: care and treatment are evidence based, coordinated, consented to, outcome focused, and based on assessed needs.
+3. **Caring**: people are treated with kindness, compassion, dignity, choice, control, and respect for individual needs.
+4. **Responsive**: services are organised around people, accessible, continuous, inclusive, and able to respond to feedback and complaints.
+5. **Well-led**: leadership, culture, governance, risk management, partnership working, learning, and sustainability support safe and high-quality care.
+
+CQC's quality statements are written as "we" statements. They describe the commitments providers, commissioners, and system leaders are expected to live up to. They replaced the older key lines of enquiry.
+
+## The 34 provider quality statements
+
+| Domain | Quality statements |
+| --- | --- |
+| Safe | Learning culture; Safe systems, pathways and transitions; Safeguarding; Involving people to manage risks; Safe environments; Safe and effective staffing; Infection prevention and control; Medicines optimisation. |
+| Effective | Assessing needs; Delivering evidence-based care and treatment; How staff, teams and services work together; Supporting people to live healthier lives; Monitoring and improving outcomes; Consent to care and treatment. |
+| Caring | Kindness, compassion and dignity; Treating people as individuals; Independence, choice and control; Responding to people's immediate needs; Workforce wellbeing and enablement. |
+| Responsive | Person-centred care; Care provision, integration and continuity; Providing information; Listening to and involving people; Equity in access; Equity in experiences and outcomes; Planning for the future. |
+| Well-led | Shared direction and culture; Capable, compassionate and inclusive leaders; Freedom to speak up; Workforce equality, diversity and inclusion; Governance, management and sustainability; Partnerships and communities; Learning, improvement and innovation; Environmental sustainability and sustainable development. |
+
+## Evidence categories
+
+CQC groups assessment evidence into six categories:
+
+- people's experience of health and care services;
+- feedback from staff and leaders;
+- feedback from partners;
+- observation;
+- processes;
+- outcomes.
+
+For a club medical service, these categories are useful even where the activity is outside CQC registration because they convert governance into inspectable evidence. For example, a concussion protocol is a process; player feedback is people's experience; RFL, ambulance, hospital, or contractor feedback is partner evidence; medical-room checks are observation/process evidence; return-to-play and reinjury rates are outcomes.
+
+## Rugby League medical evidence map
+
+| CQC domain | What assurance should look like in a professional Rugby League club |
+| --- | --- |
+| Safe | Match-day and training emergency action plans; safeguarding escalation; concussion and return-to-play controls; medical-room risk assessments; emergency equipment checks; infection prevention; medicines storage, prescribing, injections, and adverse-event review; sufficient IMMOFP/iIMMOFP and allied health cover. |
+| Effective | Clinical assessment standards; evidence-based injury management; referral pathways to imaging, hospitals, specialists, and rehabilitation; multidisciplinary reviews; consent for treatment and information sharing; outcome tracking for return to play, reinjury, and clinical recovery. |
+| Caring | Player dignity, privacy, informed choices, confidentiality, chaperone use, psychological safety, and respectful handling of selection-pressure conflicts; staff wellbeing for clinicians working in high-pressure sport environments. |
+| Responsive | Accessible complaint and concern routes; timely treatment after injury; accessible information for players and academy families; adaptation for disability, language, culture, neurodiversity, and age; joined-up care across club, governing body, NHS, private providers, and away fixtures. |
+| Well-led | Board ownership of medical risk; independent clinical authority; clinical governance committee; risk register; incident learning; credentialing; contractor assurance; Freedom to Speak Up route; equality and inclusion; audit; sustainability of medical staffing and facilities. |
+
+## Priority quality statements for club governance
+
+A club medical governance model should give special attention to these statements:
+
+| Quality statement | Why it matters for a Rugby League club |
+| --- | --- |
+| Learning culture | Serious injuries, near misses, concussion events, failed processes, and emergency transfers need logged learning and closed actions. |
+| Safe systems, pathways and transitions | Players move between pitch-side care, club medical rooms, ambulance services, emergency departments, imaging, specialists, surgery, rehabilitation, and return to play. |
+| Safeguarding | Academy players, young professionals, vulnerable adults, and power imbalances require explicit safeguarding controls. |
+| Safe environments | Stadium and training-ground medical rooms, equipment, technology, cleaning, storage, and emergency access need regular assurance. |
+| Safe and effective staffing | Club cover depends on qualified, competent, indemnified, and supervised doctors, physiotherapists, therapists, rehabilitators, paramedics, and first aiders. |
+| Medicines optimisation | Pain relief, injections, prescribing, emergency medicines, anti-doping implications, and storage controls are high-risk in elite sport. |
+| Delivering evidence-based care and treatment | Clinical decisions should be based on current medical evidence and sport-specific standards, not selection pressure. |
+| Monitoring and improving outcomes | Injury recurrence, return-to-play outcomes, concussion metrics, complaints, and player experience should drive improvement. |
+| Consent to care and treatment | Consent must cover treatment, examination, referrals, information sharing with coaches, and the limits of confidentiality. |
+| Listening to and involving people | Players need safe routes to raise concerns about care, pressure to play, confidentiality, and welfare. |
+| Equity in access, experiences and outcomes | Academy, women's, disability, reserve, overseas, neurodivergent, and injured players should not receive weaker medical access or outcomes. |
+| Governance, management and sustainability | This is the central board assurance statement: roles, accountability, risk, performance, records, audits, and sustainability. |
+| Freedom to speak up | Players and clinicians need a route to escalate safety concerns without fear of selection, contract, or employment consequences. |
+| Partnerships and communities | The club must work well with RFL, hospitals, ambulance services, private clinics, insurers, schools, and safeguarding agencies. |
+
+## Local authority assurance is different
+
+CQC also has a separate local authority assurance framework for duties under Part 1 of the Care Act 2014. That framework uses four themes and nine quality statements. It is not the main framework for a professional sports club or private healthcare provider, but it is relevant terminology because CQC calls it "assurance."
+
+The four local authority assurance themes are:
+
+1. Working with people.
+2. Providing support.
+3. How the local authority ensures safety within the system.
+4. Leadership.
+
+When discussing club medical services, avoid importing the local authority framework unless the issue is partnership with council adult social care or safeguarding systems. For club/private healthcare governance, use the five provider domains above.
+
+## Practical use
+
+Use the five provider domains as the headings for board assurance:
+
+- Safe: are immediate risks controlled?
+- Effective: does clinical care follow evidence and achieve outcomes?
+- Caring: are players treated as people, not only performance assets?
+- Responsive: does the service adapt, listen, and stay accessible?
+- Well-led: can the board prove the medical system is governed, learning, and sustainable?
+
+## Key sources
+
+- [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework)
+- [CQC: Appendix 1, the 34 quality statements](https://www.cqc.org.uk/publications/review-cqcs-single-assessment-framework-and-its-implementation/appendix-1-34-quality-statements)
+- [CQC: Evidence categories](https://www.cqc.org.uk/guidance-regulation/providers/assessment/evidence-categories)
+- [CQC: Local authority assessment framework](https://www.cqc.org.uk/guidance-regulation/local-authorities/assessment-framework)
+
+### CQC Registration Edge Cases
+
+# CQC Registration Edge Cases
+
+## Why this page matters
+
+The largest CQC risk for a professional Rugby League club is not ordinary pitch-side first aid. It is service creep: the medical department gradually becomes a private healthcare provider, diagnostic provider, remote triage service, or controller of outsourced regulated activity.
+
+CQC's current guidance is activity-based. The question is not "is this sport?" but:
+
+1. What regulated activity is being carried on?
+2. Which legal entity directs and controls it?
+3. Is the activity excluded or exempt?
+4. Where is the activity carried on at or from?
+5. Is a registered manager, nominated individual, statement of purpose, location, or controlled-drugs licence needed?
+
+## Edge-case matrix
+
+| Scenario | CQC registration risk | Practical position |
+| --- | --- | --- |
+| Pitch-side emergency care during a fixture | Lower | Usually first-aid/event context. Keep emergency action plan, equipment checks, incident records, and onward transfer records. |
+| Training-ground injury assessment for contracted players | Lower to medium | Likely sports-ground/gym/associated-premises context if solely for participants. Document the exclusion rationale and keep clinical governance controls. |
+| Club medical room treats sponsors, staff families, schools, community players, or public paying patients | High | This looks like private healthcare. Run a formal CQC scope assessment before launch. |
+| Diagnostic ultrasound, X-ray, MRI referral pathway, cardiac screening, blood tests sent to a lab | Medium to high | Diagnostic and screening procedures may apply depending on who performs, analyses, reports, and controls the pathway. Use registered providers or register where required. |
+| Physiotherapist-only standalone treatment | Often lower for Treatment of disease, disorder or injury | Physiotherapists are not listed for that specific regulated activity, but ultrasound by registered physiotherapists has specific diagnostic exemptions and other activities may still be triggered. |
+| Club doctor prescribing, administering injections, IV products, or emergency medicines | Medium to high | Treatment of disease, disorder or injury may apply when prescribing/administering medicines requires a listed healthcare professional, unless the sports exclusion clearly covers the activity. Medicines governance is still required. |
+| IV hydration or wellness infusions for athletes | High | CQC treats IV administration of prescription-only/wellness products as potentially registrable treatment when delivered by or under a listed healthcare professional and claimed to alter physiological state. Anti-doping risk is also high. |
+| Remote injury triage hotline or urgent medical advice service | Medium to high | CQC regulates remote medical advice/triage where immediate action or prioritisation is provided by a body established for that purpose. Occasional informal advice is different. |
+| Ambulance or medical vehicle only moves an injured player within the event boundary | Lower for transport activity | CQC says event-site internal movement is outside the transport regulated activity. Movement from the event ground to hospital can trigger ambulance registration. |
+| Contractor provides imaging, event medical cover, or clinic sessions at club premises | Medium to high | The entity with operational policies, staffing, clinical governance, complaints, and quality assurance may need registration. Contracts must identify control. |
+| Club hosts an independent registered sports medicine clinic | Medium | Hosting alone does not require the host to register, but unclear responsibility can pull the host into accountability. Use written hosting agreements. |
+| Academy medical care | Medium | Sports exclusions may still apply, but safeguarding, consent, records, confidentiality, and parent/guardian communication need stronger controls. |
+
+## Treatment of disease, disorder or injury
+
+This is the main activity to test for club medical departments. CQC guidance says it covers treatment by or under the supervision of a listed healthcare professional or a relevant multidisciplinary team, for a disease, disorder, or injury. It includes emergency treatment, ongoing treatment, physical and mental health treatment, vaccinations, immunisations, and palliative care.
+
+The important sport-specific exclusions are:
+
+- first aid in unexpected or potentially dangerous situations requiring immediate action;
+- first aid by trained non-healthcare professionals;
+- first aid by organisations established to provide first aid;
+- treatment in a sports ground or gymnasium, including associated premises, solely for people taking part in or attending sporting activities and events;
+- temporary treatment arrangements for sporting or cultural events.
+
+The exclusion should be documented, not assumed. The more a service resembles a public clinic, commercial treatment service, diagnostics business, or routine healthcare pathway, the weaker the sports-exclusion argument becomes.
+
+## Diagnostics and screening
+
+Diagnostics are a likely expansion point. CQC's diagnostic and screening activity includes radiation, ultrasound, MRI, most forms of endoscopy, sample removal or examination for diagnostic reasons, and physiological measurement needed to plan or deliver care.
+
+Practical implications for clubs:
+
+- a club that performs musculoskeletal ultrasound as a club-controlled diagnostic service should assess scope carefully;
+- a registered physiotherapist's use of ultrasound has a specific exemption, but this does not automatically exempt a doctor-led or club-controlled diagnostic service;
+- if a third party reports images remotely, that reporting provider may also need registration;
+- if the club sends athletes to an external registered imaging provider, the club should keep referral and result-governance controls rather than duplicating registration unnecessarily;
+- cardiac screening is a governance obligation under the RFL Medical Standards for some clubs, and the provider/control model must be clear.
+
+## Remote advice and triage
+
+CQC's remote triage activity is narrower than ordinary remote communication. It covers medical advice or triage by telephone or email where immediate attention, action, or prioritisation is needed and where the body is established for that purpose.
+
+Club risk increases if the medical department offers:
+
+- a formal injury triage line;
+- an app-based urgent advice service;
+- remote prescribing;
+- immediate-priority decision making for people beyond the club's own players;
+- advice to the public, schools, sponsors, or partner clubs.
+
+Occasional remote follow-up with a known player may be lower risk, but it still needs records, consent, confidentiality, escalation, and safety-netting.
+
+## Hosted and subcontracted services
+
+CQC distinguishes hosting from carrying on the regulated activity. A host can make facilities available to another provider, but the provider carrying on the regulated activity must register. If responsibilities are unclear, the host can be exposed because it controls the premises or pathway.
+
+For clubs, contracts should answer:
+
+- who owns clinical policies and protocols?
+- who recruits, credentials, supervises, and appraises clinicians?
+- whose clinical governance system covers the care?
+- who handles complaints, incidents, safeguarding, records, duty of candour, and notifications?
+- who controls medicines, equipment, diagnostics, and referrals?
+- who pays, invoices, and sets service eligibility?
+
+If the club keeps clinical governance and day-to-day control, it should not rely on the contractor's registration analysis without checking the position.
+
+## Registration-readiness triggers
+
+Escalate for legal/CQC review before launch if any of these apply:
+
+- the service treats anyone who is not a player, participant, match official, staff member needing occupational-style advice, or event attendee;
+- the service is advertised externally as a clinic;
+- the club charges fees for medical care;
+- imaging, blood tests, cardiac screening, injections, IV products, minor procedures, or remote triage are added;
+- services are delivered away from the stadium, training ground, gym, or associated premises;
+- the provider/control model is unclear;
+- controlled drugs will be stored or administered;
+- children or academy players are treated outside normal club medical arrangements.
+
+## Sources
+
+- [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury)
+- [CQC: Diagnostic and screening procedures](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures)
+- [CQC: Transport services, triage and medical advice provided remotely](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided)
+- [CQC: Types of service provider or legal entity](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity)
+- [CQC: Register as a provider](https://www.cqc.org.uk/guidance-regulation/registration/register-provider)
+
+### Professional Rugby League Application
+
+# Professional Rugby League Application
+
+## Starting point
+
+Professional Rugby League medical services are sophisticated healthcare environments, even when delivered for a closed athlete population. The Rugby Football League (RFL) describes professional game medical provision as including at least one Immediate Medical Management on the Field of Play (IMMOFP) qualified doctor at professional games, with physiotherapists, sports rehabilitators, and therapists also undergoing field-of-play training.
+
+The governance challenge is that sports regulation, employment obligations, athlete welfare, and healthcare regulation overlap but do not fully substitute for each other.
+
+## CQC sports exclusions
+
+CQC's scope guidance for **Treatment of disease, disorder or injury** expressly excludes:
+
+- first aid delivered by healthcare professionals in unexpected or potentially dangerous situations requiring immediate action;
+- first aid by trained non-healthcare professionals;
+- first aid by organisations established for first-aid provision;
+- treatment provided in a sports ground or gymnasium, including associated premises, where it is solely for people taking part in or attending sporting activities and events;
+- treatment provided through temporary arrangements for sporting or cultural events.
+
+That exclusion is central. A professional Rugby League club is less likely to need CQC registration merely because it provides pitch-side emergency care, match-day doctor cover, or training-ground treatment solely for players and attendees within the sports-ground/event context.
+
+## Where CQC risk can re-enter
+
+The sports exclusion is not a blanket immunity for all healthcare run by a club. A club should reassess CQC registration if it does any of the following:
+
+- runs a clinic for members of the public, staff, sponsors, academy parents, schools, or other third parties;
+- charges for physiotherapy, sports medicine, diagnostics, injections, screening, or rehabilitation outside the club's participant/attendee population;
+- operates treatment from premises that function as a private clinic rather than a sports ground, gymnasium, or associated sports premises;
+- provides remote triage, medical advice, or treatment plans as a service beyond match/training participation;
+- carries out diagnostic and screening procedures as a sole or main activity;
+- arranges imaging, blood tests, injections, prescribing, or minor procedures under the club's own clinical governance rather than merely referring to an external registered provider;
+- contracts clinicians but retains direction and control over regulated healthcare activities;
+- provides services to children or academy players in a way that raises both healthcare and safeguarding governance obligations.
+
+## Rugby League governance already in place
+
+RFL requirements create useful governance inputs:
+
+- IMMOFP and iIMMOFP training routes;
+- professional registration expectations for doctors, physiotherapists, paramedics, sports therapists, and sports rehabilitators;
+- indemnity expectations for working in sport;
+- concussion rules, return-to-play protocols, and reporting;
+- clinical groups and CPD activity;
+- first-aider registration and match-day monitoring in the community game.
+
+These are strong sport-specific controls. The CQC-style gap is that they do not, by themselves, prove that the club has a full healthcare provider governance system covering legal entity accountability, regulated activity scope, clinical records, complaints, duty of candour, audit, risk management, data protection, premises, equipment, medicines, and provider-level board assurance.
+
+## Applied governance map
+
+| Club medical activity | Likely CQC posture | Governance control |
+| --- | --- | --- |
+| Pitch-side emergency treatment during fixtures | Usually within first-aid or temporary sporting-event exclusion | Event medical plan, IMMOFP rota, equipment checks, incident log, escalation to ambulance/ED. |
+| Training-ground player treatment in club medical room | Likely sports-ground/gym exclusion if solely for participants and associated premises | Medical-room SOPs, records, consent, safeguarding, concussion protocol, medicines control. |
+| Rehabilitation for contracted players only | Often sports participant context, but check premises and clinical control | Rehab governance, clinical supervision, scope of practice, outcomes and re-injury audit. |
+| Private sports clinic open to public | Likely CQC assessment needed if regulated activity is provided | Treat as independent healthcare provider; register if no exemption applies. |
+| Diagnostic ultrasound, imaging, blood testing, cardiac screening | Potential diagnostic/screening regulated activity depending on model | Decide who is provider; use CQC-registered diagnostic provider or register. |
+| Club doctor prescribing/injections for players | May be covered if within sports-ground participant treatment, but high governance risk | Prescribing policy, PGDs where relevant, medicines storage, consent, adverse incident review. |
+| Academy medical care for children | Sports exclusion may still matter, but safeguarding bar is higher | Safeguarding lead, parental consent, chaperones, DBS, child records, escalation routes. |
+| Contracted event medical company | Provider may be contractor, club, or both depending on control | Contract must state clinical control, registration status, standards, records, incidents, indemnity. |
+
+## Decision diagram
+
+```mermaid
+flowchart TD
+  A["Medical activity proposed by club"] --> B{"Is it health care for disease, disorder, injury, diagnostics, screening, surgery, transport, or triage?"}
+  B -- "No" --> C["CQC registration unlikely; manage through sport, H&S, safeguarding, and employment governance"]
+  B -- "Yes" --> D{"Is it solely for players/participants/attendees at sports ground, gym, associated premises, or temporary sporting event?"}
+  D -- "Yes" --> E["Likely sports/first-aid exclusion; document rationale and keep CQC-style governance controls"]
+  D -- "No or unclear" --> F{"Who directs and controls the care?"}
+  F --> G["Club"]
+  F --> H["Independent provider"]
+  F --> I["Shared or unclear"]
+  G --> J["Club should assess CQC registration and regulated activities"]
+  H --> K["Verify provider registration/exemption, contract, records, incident duties, and indemnity"]
+  I --> L["Resolve control in contract; multiple entities may need registration analysis"]
+```
+
+## Practical conclusion
+
+For a professional Rugby League club, the prudent position is not "CQC never applies to sport." It is:
+
+1. Core pitch-side and participant-only care may be excluded from CQC registration.
+2. Wider private healthcare, diagnostics, and clinic-style services can fall back into CQC scope.
+3. Even where excluded, CQC governance standards are a useful benchmark for quality, safety, and board assurance.
+
+## Key sources
+
+- [CQC: Scope of Registration Guidance May 2022, Treatment of disease, disorder or injury exclusions](https://www.cqc.org.uk/sites/default/files/2022-05/20220517%20Scope%20of%20Registration%20Guidance%20May%202022.pdf)
+- [RFL: Medical Management](https://www.rugby-league.com/governance/medical/medical-management)
+- [RFL: Concussion Statement](https://www.rugby-league.com/governance/medical/concussion/concussion-statement)
+- [Fieldfisher: Sports organisations and CQC registration](https://www.fieldfisher.com/en/services/public-and-regulatory/public-regulatory-law-blog/sports-organisations-and-cqc-registration)
+
+### RFL Medical Standards Map
+
+# RFL Medical Standards Map
+
+## Source
+
+This page maps the **RFL Medical Standards 2026** to CQC-style assurance. The standards are part of the RFL Operational Rules and are mandatory where marked as mandatory.
+
+The 2026 standards expressly say they should be applied in accordance with UK healthcare legislation, professional regulator guidance, recognised professional bodies, best practice, and clinical governance standards such as CQC. That makes a CQC-style governance map appropriate even where the club is outside CQC registration.
+
+## RFL structure and CQC alignment
+
+| RFL Medical Standards section | Core requirement | CQC-style assurance domain |
+| --- | --- | --- |
+| Section A: Medical personnel | Registration with the RFL, role definitions, prehospital trauma training, attendance at matches/training, match-day responsibilities. | Safe; Effective; Well-led. |
+| Section B: Ethics, governance, planning, information and data | Medical note keeping, sharing information, serious injury/death reporting, emergency action plans, pre-match briefing, on-field processes. | Safe; Responsive; Well-led. |
+| Section C: Equipment and facilities | Mandatory medical equipment, mandatory drugs box, clinical waste, treatment-room standards. | Safe; Effective. |
+| Section D: Anti-doping | Medication and supplement checking, prohibited substances, TUEs, IV infusions, special topics. | Safe; Effective; Well-led. |
+| Section E: Concussion and head injuries | Baselines, recognise and remove, HIA, post-match/training management, GRTP, reporting, SCOAT. | Safe; Effective; Caring; Well-led. |
+| Section F: RFL medical policies | Blood-borne diseases, cardiac screening, turning players, mental health, social and non-prescribed prescription drugs, infection control. | Safe; Effective; Caring; Responsive. |
+| Appendix 1: IMMOFP | Course eligibility, recertification, assessment, field-of-play competence. | Safe and effective staffing. |
+| Appendix 2: Education | CPD and anti-doping education expectations. | Effective; Well-led. |
+
+## Mandatory governance controls to evidence
+
+### Medical personnel
+
+Club board assurance should evidence:
+
+- every clinician is registered with the RFL where required;
+- doctors, physiotherapists, paramedics, sports rehabilitators, and sports therapists operate within scope of practice;
+- IMMOFP or accepted equivalent qualifications are current;
+- locums and second medics receive induction and reporting instructions;
+- staff are protected from inappropriate pressure over medical decisions;
+- match-day and training cover is planned before fixtures are accepted.
+
+### Medical records and information
+
+The 2026 standards require clear, contemporaneous medical records, preferably electronic, encrypted, and secure. Records must be kept for any player receiving medical care or advice, including ad-hoc match cover.
+
+Governance evidence:
+
+- named clinical record system;
+- access-control matrix;
+- retention schedule;
+- locum handover process;
+- consent and confidentiality policy;
+- loan-player information-sharing protocol;
+- audit of record completeness.
+
+### Emergency action planning
+
+Every club must have written medical emergency action plans for matches and training, covering grounds and training facilities used by the club.
+
+Evidence:
+
+- site-specific emergency action plans;
+- ambulance access details and venue postcode/access points;
+- communication method with emergency services;
+- treatment-room and emergency department details;
+- next-of-kin notification arrangements;
+- arrangements for concussed players not driving home;
+- documented sharing with opposition medical staff;
+- pre-match briefing record.
+
+### Equipment and facilities
+
+RFL requires mandatory medical equipment and a mandatory drugs box at games and training, with home and away club obligations. Treatment rooms must meet defined standards including access for stretchers, handwashing, cleanable surfaces, sharps/clinical waste, and internet access for note keeping.
+
+Evidence:
+
+- equipment inventory and expiry checks;
+- oxygen and AED checks;
+- mandatory drugs box expiry and stock checks;
+- equipment failure log;
+- treatment-room checklist;
+- clinical waste disposal contract/process;
+- infection-prevention audit.
+
+### Concussion
+
+The RFL standards require annual baseline SCAT6 and Cognigram before contact activity, recognise-and-remove controls, HIA processes, GRTP, reporting within defined timescales, return-to-play forms, and specialist review in defined circumstances.
+
+Evidence:
+
+- valid baseline register before contact training;
+- HIA/concussion reports within 24 hours;
+- parent-club notification within 12 hours where only the home doctor is present or the player is on loan;
+- GRTP oversight by a doctor;
+- doctor confirmation before progression to higher-risk stages;
+- return-to-play form submitted before match participation;
+- post-injury Cognigram file;
+- specialist reports and player/parent acknowledgment where required;
+- audit of missed, late, or non-compliant concussion steps.
+
+### Cardiac screening
+
+The 2026 standards make cardiac screening mandatory for Super League, Women's Super League, and Championship clubs. This creates both clinical governance and potential diagnostics/provider-control questions.
+
+Evidence:
+
+- annual screening plan;
+- provider contract and registration/exemption analysis;
+- attendance register;
+- abnormal result escalation pathway;
+- player communication and records;
+- transfer/loan communication where relevant;
+- board-level assurance that screening is complete before relevant participation.
+
+## CQC-style board dashboard from RFL standards
+
+| Dashboard item | Evidence source |
+| --- | --- |
+| Medical staff compliance | RFL registration, professional registration, IMMOFP status, indemnity, DBS where relevant, CPD. |
+| Match and training cover | Fixture cover rota, EAPs, pre-match briefings, locum induction. |
+| Records | Record audit, loan-player handovers, encryption/access checks. |
+| Serious incidents | Death/serious injury notifications, emergency transfers, incident reviews. |
+| Equipment and facilities | Mandatory medical equipment checks, drugs box checks, treatment-room audit. |
+| Concussion | Baseline completion, HIA reports, GRTP compliance, RTP forms, specialist referrals. |
+| Medicines and anti-doping | Global DRO checks, TUE status, supplement risk controls, emergency medicine governance. |
+| Infection and blood-borne disease | BBV protocols, clinical waste, infection control audit. |
+| Mental health | mandatory mental health training, counselling access, welfare escalation. |
+
+## Gap from RFL rules to CQC evidence
+
+The RFL standards are strong sport-specific controls. The CQC-style additions are:
+
+- explicit legal entity accountability;
+- provider/control assessment for each healthcare service;
+- statement of purpose discipline;
+- complaints and duty-of-candour process where regulated care is provided;
+- medicines governance beyond match-day minimum kit;
+- contractor quality assurance;
+- board risk register and formal closure of audit actions;
+- equality and player-experience evidence;
+- Freedom to Speak Up route for clinicians and players.
+
+## Sources
+
+- [RFL: Medical Standards 2026 PDF](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf)
+- [RFL: Medical Management](https://www.rugby-league.com/governance/medical/medical-management)
+- [RFL: Concussion Statement](https://www.rugby-league.com/governance/medical/concussion/concussion-statement)
+- [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework)
+- [CQC: Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability)
+
+### Private Healthcare Synergies
+
+# Private Healthcare Synergies
+
+## Why private healthcare is the right comparator
+
+CQC defines independent healthcare as healthcare provided by organisations that are not NHS trusts or NHS GP services. This includes private companies, charities, social enterprises, voluntary and faith-based organisations, and individual providers of care.
+
+A professional Rugby League club with a medical department is not a typical private clinic, but the comparator becomes strong where the club:
+
+- provides care outside the immediate participant/event context;
+- charges for services;
+- uses clinical rooms as a treatment site;
+- employs or contracts regulated clinicians;
+- controls diagnostics, records, medicines, referrals, or treatment pathways;
+- treats people who are not contracted players.
+
+## Synergies to borrow
+
+### Provider-level accountability
+
+Independent healthcare providers need clear legal-entity accountability. A club should mirror this by naming:
+
+- the legal entity that owns the medical service;
+- the board member or executive accountable for clinical quality;
+- the clinical governance lead;
+- the registered manager or equivalent day-to-day clinical manager where CQC registration applies;
+- the nominated individual where the provider is an organisation applying for registration.
+
+### Statement of purpose discipline
+
+CQC registration applications require a clear description of services, regulated activities, locations, and service types. Even outside registration, a club should maintain a "medical service statement of purpose" that defines:
+
+- who the service is for;
+- what services are and are not provided;
+- locations and mobile/event arrangements;
+- clinical opening hours and emergency cover;
+- referral routes;
+- exclusion boundaries, especially no-public-clinic or no-third-party-treatment rules if relying on sports exclusions.
+
+### Governance evidence pack
+
+Independent healthcare providers are expected to show systems before registration and during inspection. A club can reuse the same evidence structure:
+
+- policies: consent, records, medicines, safeguarding, chaperones, infection prevention, complaints, duty of candour, incident reporting, data protection, business continuity;
+- people: professional registration, indemnity, DBS where needed, training, supervision, appraisal, scope of practice;
+- environment: premises risk assessment, equipment inventory, calibration, cleaning, emergency kit checks;
+- care: clinical records, care plans, return-to-play decisions, referral letters, discharge notes;
+- assurance: audits, incidents, complaints, outcomes, player feedback, medical committee minutes, board reports.
+
+### Risk and performance information
+
+CQC's well-led quality statement expects leaders to use information about risk, performance, and outcomes. For a club, useful indicators include:
+
+- serious injuries, head injury assessments, concussions, failed return-to-play steps, and recurrent injuries;
+- emergency transfers and ambulance activations;
+- medicines incidents and controlled-drug discrepancies where applicable;
+- safeguarding referrals and welfare concerns;
+- equipment failures or missing checks;
+- clinical record completion and audit compliance;
+- clinician credential expiry;
+- complaints, concerns, whistleblowing, and duty-of-candour reviews;
+- service pressure, match congestion, travel, and staffing gaps.
+
+### Registration boundary discipline
+
+Independent healthcare providers define their regulated activities, locations, service users, and statement of purpose before operating. A club should borrow that discipline even where its core player-only service is excluded from CQC registration. The biggest private-healthcare synergy is to require a new scope assessment before adding public access, diagnostics, injections, IV services, prescribing pathways, remote triage, or paid clinic services.
+
+## Contracting synergies
+
+Independent healthcare governance is especially useful when the club outsources. Contracts should specify:
+
+- which entity directs and controls the regulated activity;
+- whether the contractor is CQC registered, exempt, or outside scope, and why;
+- clinician qualifications, professional registration, indemnity, DBS, and CPD requirements;
+- records ownership, access, retention, and subject access handling;
+- incident reporting, safeguarding, complaints, duty of candour, and notification responsibilities;
+- medicines and equipment responsibilities;
+- audit rights and quality reporting cadence;
+- escalation when sporting performance objectives conflict with clinical judgement.
+
+## Cultural synergy
+
+The private healthcare model creates a helpful separation between **clinical judgement** and **commercial or sporting pressure**. A club should make explicit that:
+
+- clinicians owe professional duties to the person receiving care;
+- return-to-play decisions sit with appropriately qualified clinicians;
+- coaches and executives may receive fitness information only within consent, confidentiality, and data protection rules;
+- players can raise concerns without selection or contract retaliation;
+- medical governance reports to the board, not solely through performance staff.
+
+## Sources
+
+- [CQC: Independent healthcare services](https://www.cqc.org.uk/guidance-providers/independent-healthcare/independent-healthcare-services)
+- [CQC: Applying as a new provider guidance](https://www.cqc.org.uk/guidance-regulation/registration/applying-new-provider-guidance)
+- [CQC: Governance, management and sustainability quality statement](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability)
+- [CQC: Regulation 18, Staffing](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-18)
+- [CQC: Regulation 19, Fit and proper persons employed](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-19)
+
+### Medicines, Prescribing, and Anti-Doping
+
+# Medicines, Prescribing, and Anti-Doping
+
+## Why this is high risk
+
+Medicines sit at the sharpest interface between CQC governance, professional duties, player welfare, and anti-doping. A club medical department may hold emergency medicines, prescribe or administer pain relief, use injections, manage asthma medication, advise on supplements, handle concussion medication restrictions, and support TUE applications.
+
+The governance aim is simple: no medicine should be prescribed, supplied, stored, administered, reported, or disclosed unless the club can explain the clinical indication, professional authority, anti-doping status, consent, record, and follow-up.
+
+## CQC medicines optimisation standard
+
+CQC's medicines optimisation quality statement expects medicines and treatments to be safe and to meet people's needs, capacities, and preferences. The statement covers involvement in medicines decisions, best practice, lawful prescribing/supply/administration, accurate medicines information during transfers of care, and controlled-drugs oversight.
+
+For a Rugby League club this means:
+
+- medicines are clinically indicated, not used to serve selection or convenience;
+- players understand risks, benefits, alternatives, anti-doping status, and follow-up;
+- prescribing is within professional scope and based on adequate assessment;
+- regular and acute medicines are recorded in the clinical record;
+- medicines information follows the player across club, hospital, GP, specialist, loan, and national-team pathways where lawful and necessary;
+- emergency medicines are checked, in date, stored appropriately, and reviewed after use;
+- controlled drugs or medicines liable to abuse/misuse have additional safeguards.
+
+## RFL anti-doping controls
+
+The RFL Medical Standards 2026 require medical staff to be aware of anti-doping rules and the WADA Prohibited List. They make checking medication and supplements mandatory. They direct use of Global DRO for medicines and highlight that supplements cannot be checked the same way because they are not licensed medicines.
+
+Professional players are treated as being in the UKAD National TUE Pool under the RFL standards, so TUE timing matters. If a medication contains a prohibited substance and there is clinical need, a TUE may be needed before use except in emergencies or defined retroactive scenarios.
+
+## Club medicines governance model
+
+### 1. Medicines formulary and scope
+
+Maintain a club medicines formulary:
+
+- emergency medicines required by RFL mandatory equipment/drugs box;
+- medicines carried by the club doctor;
+- medicines supplied or administered by physiotherapists or other clinicians;
+- medicines held for travel;
+- oxygen and medical gases;
+- topical products, wound-care products, local anaesthetic, analgesia, asthma medication, glucose products, and cardiac/emergency medicines;
+- controlled drugs or high-risk medicines, if any.
+
+Each medicine should state:
+
+- indication;
+- legal classification;
+- who may prescribe, supply, administer, or support self-administration;
+- storage condition;
+- expiry check frequency;
+- documentation requirement;
+- anti-doping check requirement;
+- TUE implication;
+- emergency escalation route.
+
+### 2. Prescribing and administration controls
+
+Minimum controls:
+
+- prescribe only after adequate assessment and access to relevant medical history where needed;
+- check allergy status, current medication, contraindications, and interaction risk;
+- check Global DRO before prescribing or advising use where anti-doping applies;
+- check whether the player needs a TUE using UKAD guidance or the TUE Wizard;
+- document dose, route, batch where relevant, indication, consent, advice, and follow-up;
+- inform the player's GP or regular clinician where necessary and with appropriate consent;
+- review medicines after emergency use, adverse effects, or transfer of care;
+- report adverse drug reactions and device incidents through appropriate clinical governance and MHRA Yellow Card routes where relevant.
+
+### 3. Anti-doping decision flow
+
+```mermaid
+flowchart TD
+  A["Medication or treatment proposed"] --> B["Is it clinically necessary?"]
+  B -- "No" --> C["Do not use; consider non-drug alternatives"]
+  B -- "Yes" --> D["Search medication on Global DRO using correct country and formulation"]
+  D --> E{"Status"}
+  E -- "Permitted" --> F["Document search reference, consent, prescription/admin record"]
+  E -- "Conditional" --> G["Check limits, route, dose, timing, in/out of competition, washout"]
+  E -- "Prohibited" --> H["Use UKAD TUE Wizard / seek UKAD or governing body advice"]
+  G --> I{"Within conditions?"}
+  I -- "Yes" --> F
+  I -- "No" --> H
+  H --> J{"Emergency?"}
+  J -- "Yes" --> K["Treat first; compile medical file for retroactive TUE if needed"]
+  J -- "No" --> L["Apply for TUE before use; consider permitted alternatives"]
+```
+
+## IV products and injections
+
+This is a red-flag area for both CQC and anti-doping:
+
+- CQC can treat IV administration of prescription-only or wellness products as registrable treatment where it is delivered by or under a listed healthcare professional and claimed to alter physiological state.
+- RFL standards state that intravenous infusions are prohibited at all times except in specified legitimate medical situations such as emergency intervention, blood replacement, surgical procedures, or administration where other routes are unavailable, and not for exercise-induced dehydration.
+- Injections may be permitted as a method if the substance is not prohibited and volume limits are met, but the clinical governance and anti-doping checks still apply.
+
+Club control:
+
+- no IV wellness, recovery, hydration, or performance service without board approval, CQC scope review, UKAD review, and medical governance sign-off;
+- every injection must have indication, consent, anti-doping check, route, dose, volume, batch where relevant, clinician, and follow-up recorded;
+- any glucocorticoid, beta-2 agonist, opioid analgesic, stimulant, hormone, or controlled drug should trigger enhanced review.
+
+## Supplements
+
+UKAD warns that no supplement can be guaranteed free of prohibited substances. A club should:
+
+- require documented need assessment before supplement use;
+- prefer food-first nutrition and clinician/dietitian review;
+- use batch-tested products where supplements are used;
+- record batch number, supplier, date, player, rationale, and risk discussion;
+- make clear that strict liability remains with the athlete;
+- avoid coaches, sponsors, or commercial partners introducing supplements outside the medical/nutrition governance route.
+
+## Concussion-specific medication control
+
+The RFL standards require doctors to consider whether pharmacological agents or medicines may mask or modify concussion symptoms when determining symptom-free status. Governance controls:
+
+- record all medication taken after head injury;
+- advise against medicines that mask deterioration unless clinically justified;
+- include medication review before GRTP progression;
+- include medication status on return-to-play sign-off;
+- document player advice about driving, alcohol, sedating medication, and escalation.
+
+## Board assurance questions
+
+- Is there a named medicines lead?
+- Is the mandatory drugs box complete, checked, in date, and reconciled?
+- Are controlled drugs present? If yes, is the Home Office and governance position clear?
+- Are all prescribing clinicians working within scope and indemnity?
+- Are Global DRO checks and TUE decisions recorded?
+- Are emergency medicines reviewed after use?
+- Are adverse incidents and near misses reviewed?
+- Are players given enough information to make informed choices?
+- Are supplement risks governed through medical/nutrition, not performance pressure?
+
+## Sources
+
+- [CQC: Medicines optimisation](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/safe/medicines-optimisation)
+- [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury)
+- [CQC: Register as a provider](https://www.cqc.org.uk/guidance-regulation/registration/register-provider)
+- [RFL: Medical Standards 2026 PDF](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf)
+- [RFL: Anti-Doping](https://www.rugby-league.com/governance/rules-and-regulations/anti-doping-integrity-betting)
+- [UKAD: Medicine and TUE Hub](https://www.ukad.org.uk/medicine)
+- [UKAD: Search Check Apply](https://www.ukad.org.uk/searchcheckapply)
+- [UKAD: Managing Supplement Risks](https://www.ukad.org.uk/athletes/managing-supplement-risks)
+- [GMC: Good practice in prescribing and managing medicines and devices](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices)
+
+### Registration Decision Model
+
+# Registration Decision Model
+
+Use this model before launching, changing, contracting, or commercialising any club medical service.
+
+For difficult fact patterns, use this page together with [CQC Registration Edge Cases](cqc-registration-edge-cases.md).
+
+## Step 1: Describe the service
+
+Record:
+
+- service name and owner;
+- patient/user group;
+- premises and mobile/event locations;
+- clinicians and professional roles;
+- activities performed;
+- medicines, diagnostics, procedures, records, referrals, and follow-up;
+- whether anyone pays for the service directly or indirectly;
+- whether the service is solely for players, participants, or event attendees.
+
+## Step 2: Identify possible regulated activities
+
+Check whether the service includes:
+
+- treatment of disease, disorder, or injury;
+- diagnostic and screening procedures;
+- surgical procedures;
+- transport, triage, or medical advice provided remotely;
+- maternity or midwifery services;
+- nursing care or personal care in its own right.
+
+Most Rugby League medical services will start with treatment of disease, disorder, or injury, but diagnostics and screening are common expansion points.
+
+## Step 3: Test exclusions and exemptions
+
+For sport, document whether the activity is:
+
+- first aid in an unexpected or dangerous situation requiring immediate action;
+- first aid by trained non-healthcare professionals or a first-aid organisation;
+- treatment at a sports ground, gymnasium, or associated premises;
+- solely for people taking part in or attending sporting activities and events;
+- temporary provision for a sporting event.
+
+If all relevant conditions are met, record the rationale and evidence. If the service also treats the public or provides wider clinic services, do not assume the sports exclusion applies.
+
+## Step 4: Identify who carries on the activity
+
+Ask who controls:
+
+- clinical policy;
+- clinician appointment and supervision;
+- patient eligibility;
+- records system;
+- medicines and equipment;
+- complaints and incidents;
+- data controller decisions;
+- referral pathways;
+- payment and service terms.
+
+If the club controls these features, the club may be the provider for CQC purposes. If a contractor controls them, check the contractor's registration or exemption. If control is shared, clarify it before service launch.
+
+## Step 5: Determine locations
+
+Map whether the activity is carried on:
+
+- at a stadium medical room;
+- at a training ground;
+- at an academy site;
+- from a mobile unit;
+- remotely from an administrative base;
+- from a third-party clinic;
+- at away fixtures or temporary events.
+
+CQC location rules and location conditions can matter even where the legal entity is clear.
+
+## Step 6: Decide the governance route
+
+| Outcome | Action |
+| --- | --- |
+| Clearly outside CQC scope | Keep documented rationale and maintain sport/clinical governance. |
+| Excluded because sports-ground/event conditions apply | Keep evidence that the service is solely for participants/attendees and not a public clinic. |
+| Contractor is responsible and registered | Verify registration, contract clinical governance, and receive quality reports. |
+| Contractor is responsible and says exempt | Require written exemption rationale and review annually. |
+| Club likely carries on regulated activity | Obtain legal/CQC advice, identify activities, locations, nominated individual, registered manager, and evidence pack. |
+| Borderline or mixed model | Pause launch or ring-fence service until control, users, locations, and activities are clear. |
+
+## Minimum documentation pack
+
+- regulated activity analysis;
+- sports exclusion analysis;
+- service statement of purpose;
+- clinical governance structure;
+- policies and SOPs;
+- contracts and service-level agreements;
+- clinician credential register;
+- premises and equipment register;
+- incident, complaint, and safeguarding process;
+- records and data protection process;
+- audit plan and board reporting template.
+
+See [Assurance Pack Templates](assurance-pack-templates.md) for working templates.
+
+### Governance Operating Model
+
+# Governance Operating Model
+
+## Board-to-clinical structure
+
+```mermaid
+flowchart TB
+  Board["Club Board / Ownership Entity"] --> Risk["Board Risk or Medical Governance Committee"]
+  Risk --> Exec["Accountable Executive"]
+  Exec --> CGLead["Clinical Governance Lead"]
+  CGLead --> ClubDoc["Club Doctor / Head of Medical"]
+  CGLead --> Safeguard["Safeguarding Lead"]
+  CGLead --> IG["Information Governance Lead"]
+  CGLead --> Contractors["Independent Providers and Event Medical Contractors"]
+  ClubDoc --> MDT["Doctors, Physios, Therapists, Rehabilitators, Paramedics"]
+  MDT --> Players["Players / Academy / Participants"]
+```
+
+## Standing governance forums
+
+| Forum | Frequency | Core business |
+| --- | --- | --- |
+| Medical governance committee | Monthly in season, quarterly out of season | Risk register, incidents, complaints, audits, safeguarding, concussion, contractor reports. |
+| Match/event medical review | Every home fixture or event block | Cover, equipment, incidents, transfers, learning actions. |
+| Concussion and return-to-play review | As cases arise, with periodic audit | Protocol compliance, clinical sign-off, recurrence, player communication. |
+| Contractor quality review | Quarterly or contract-defined | Registration/exemption status, credentials, incidents, records, audit results. |
+| Board assurance report | Quarterly | Top risks, compliance status, serious incidents, trends, resources, decisions needed. |
+
+## Core policies
+
+- clinical governance and accountability;
+- scope of service and eligibility;
+- consent and confidentiality;
+- medical records and retention;
+- data protection and information sharing with coaching/performance staff;
+- safeguarding children and adults at risk;
+- chaperones and intimate examinations;
+- concussion, head injury, and return to play;
+- emergency action and ambulance transfer;
+- medicines management, prescribing, injections, and storage;
+- infection prevention and control;
+- equipment maintenance and emergency-kit checks;
+- incident reporting, serious incident review, and learning;
+- complaints and concerns;
+- duty of candour where regulated care is provided;
+- contractor approval and monitoring;
+- clinician credentialing, induction, supervision, and CPD;
+- business continuity and major incident response.
+
+## Board assurance template
+
+The board should receive a concise dashboard with:
+
+- a five-domain CQC-style view: safe, effective, caring, responsive, and well-led;
+- current CQC scope assessment and any service changes;
+- RFL medical standards compliance;
+- medical risk register top five;
+- staffing and credential compliance;
+- incidents, near misses, concussions, emergency transfers, and themes;
+- complaints, concerns, safeguarding, whistleblowing, and duty-of-candour cases;
+- audit results and overdue actions;
+- contractor registration/exemption status;
+- medicines/equipment exceptions;
+- decisions needed from the board.
+
+## Five-domain dashboard
+
+| Domain | Suggested board indicators |
+| --- | --- |
+| Safe | Incidents, near misses, safeguarding, concussion events, emergency transfers, medicines exceptions, equipment and premises checks, staffing gaps. |
+| Effective | Clinical audit, referral timeliness, return-to-play outcomes, reinjury rates, evidence-based protocol compliance, consent audit. |
+| Caring | Player feedback, confidentiality concerns, dignity/chaperone audit, clinical independence concerns, clinician wellbeing. |
+| Responsive | Complaints and concerns, access delays, academy/family information, equality issues, pathway delays with external providers. |
+| Well-led | Risk register movement, overdue actions, contractor assurance, credential compliance, governance meeting attendance, board decisions and escalations. |
+
+## Red flags
+
+Escalate immediately if any of these occur:
+
+- medical services are offered to the public without a CQC scope assessment;
+- diagnostics or procedures are added without identifying the regulated activity and provider;
+- no written contract identifies clinical control for outsourced services;
+- clinicians work without verified professional registration, indemnity, or scope of practice;
+- coaches or executives override clinical return-to-play decisions;
+- records are incomplete, inaccessible, or mixed into performance systems without controls;
+- incidents are discussed informally but not logged, investigated, or closed;
+- academy or child-player care lacks safeguarding and consent controls;
+- premises or emergency equipment checks lapse.
+
+## Implementation roadmap
+
+1. Create a complete inventory of all medical services, locations, providers, and user groups.
+2. Run the registration decision model for each service.
+3. Put immediate controls around any public, diagnostic, prescribing, remote-triage, injection, IV, or clinic-like activity.
+4. Approve a medical service statement of purpose.
+5. Establish the medical governance committee and risk register.
+6. Build the evidence pack and dashboard.
+7. Review contractor contracts and registration/exemption evidence.
+8. Audit records, consent, concussion, equipment, and clinician credentials.
+9. Report quarterly to the board and annually refresh the CQC scope analysis.
+
+Use [Assurance Pack Templates](assurance-pack-templates.md) for the practical document set.
+
+### Assurance Pack Templates
+
+# Assurance Pack Templates
+
+These templates turn the research into evidence a club can use repeatedly. They are intentionally concise so they can be copied into board papers, committee packs, contracts, or internal forms.
+
+## 1. CQC scope assessment
+
+| Field | Entry |
+| --- | --- |
+| Service name |  |
+| Legal entity proposing service |  |
+| Service owner |  |
+| Clinical governance lead |  |
+| Locations | Stadium; training ground; academy site; mobile; remote; third-party premises. |
+| User group | Contracted players; academy; staff; officials; public; sponsors; schools; other. |
+| Activities | Treatment; diagnostics; screening; prescribing; injections; remote triage; transport; rehabilitation; mental health; other. |
+| Regulated activity candidates | Treatment of disease, disorder or injury; diagnostic and screening; transport/triage/remote advice; surgical procedures; other. |
+| Sports/event exclusion analysis | Is care solely for participants or attendees at sports ground, gym, associated premises, or temporary event? Evidence? |
+| Provider/control analysis | Who controls clinical policy, staff, records, complaints, incidents, medicines, equipment, referrals, and quality assurance? |
+| Contractor/host analysis | Registered provider? Exemption rationale? Contract responsibility? Audit rights? |
+| Location analysis | Where is the activity delivered, organised, or managed from? |
+| Registered manager needed? |  |
+| Controlled drugs licence issue? |  |
+| Conclusion | Outside scope; excluded; contractor registered; club must register; legal advice needed. |
+| Reviewer and date |  |
+| Next review trigger | New users; public access; diagnostics; prescribing; injections; remote advice; new premises; new contractor. |
+
+## 2. Medical service statement of purpose
+
+| Section | Minimum content |
+| --- | --- |
+| Service purpose | What the club medical service exists to do. |
+| Legal entity | Club company/charity/partnership and address. |
+| Aims and objectives | Player welfare, safe participation, emergency care, rehabilitation, compliance with RFL standards. |
+| People served | First team, reserves, academy, women's teams, scholarship, match officials, staff, public exclusions. |
+| Services provided | Match-day care, training care, injury assessment, rehabilitation, concussion management, emergency care, referrals, screening. |
+| Services not provided | Public clinic, paid private treatment, remote urgent triage, IV wellness, diagnostics, or other exclusions unless approved. |
+| Locations | Stadium, training ground, academy, away fixtures, temporary events, remote administration. |
+| Clinical governance | Board committee, accountable executive, clinical governance lead, head doctor, safeguarding lead, information governance lead. |
+| Records and confidentiality | System, access, retention, player consent, coach information boundaries. |
+| Incidents and complaints | How concerns, complaints, serious incidents, safeguarding, and duty-of-candour reviews are handled. |
+| Contractors | External providers, registration/exemption evidence, audit and reporting. |
+| Review | Annual board approval and update after service change. |
+
+## 3. Board medical assurance report
+
+| Heading | Report content |
+| --- | --- |
+| Executive summary | Top three risks, decisions needed, new service changes. |
+| CQC scope status | Current registration/exclusion assessment and any changes. |
+| RFL compliance | Medical staff, IMMOFP, EAP, equipment, concussion, cardiac screening, anti-doping. |
+| Safe | Incidents, emergency transfers, safeguarding, equipment, medicines, staffing gaps. |
+| Effective | Audit results, referral timeliness, return-to-play outcomes, reinjury, records. |
+| Caring | Player feedback, consent, confidentiality, chaperones, wellbeing, pressure concerns. |
+| Responsive | Complaints, access delays, academy/family communication, equality issues. |
+| Well-led | Risk register, overdue actions, contractor assurance, audit closure, speaking-up cases. |
+| Decisions requested | Funding, staffing, facilities, contractor changes, legal/CQC advice, policy approval. |
+
+## 4. Medical risk register fields
+
+| Field | Example |
+| --- | --- |
+| Risk ID | MED-001 |
+| Risk title | Concussion return-to-play breach |
+| Description | Player returns before RFL GRTP and doctor sign-off complete. |
+| CQC domain | Safe; Effective; Well-led. |
+| RFL standard link | Section E concussion and GRTP. |
+| Cause | Fixture pressure, missing baseline, poor loan-player handover. |
+| Impact | Player harm, RFL sanction, regulatory exposure, litigation. |
+| Controls | Baseline register, HIA report, RTP form, specialist review, board dashboard. |
+| Control owner | Head doctor. |
+| Assurance | Monthly audit; exception reporting to board. |
+| Rating | Inherent and residual likelihood/impact. |
+| Actions | Named action, due date, status, evidence of closure. |
+
+## 5. Incident form
+
+| Field | Entry |
+| --- | --- |
+| Date/time/location |  |
+| Player/person affected |  |
+| Team/category | First team; academy; WSL; reserve; staff; attendee. |
+| Incident type | Injury; concussion; medicines; equipment; safeguarding; data; complaint; contractor; other. |
+| Immediate action |  |
+| Clinical lead |  |
+| RFL reporting required? | Yes/no; report submitted by/date. |
+| CQC notification/duty-of-candour review required? | Yes/no/reason. |
+| Anti-doping/TUE implication? | Yes/no/reason. |
+| Records completed? | Yes/no. |
+| Root cause or contributory factors |  |
+| Learning actions |  |
+| Owner/due date |  |
+| Closure evidence |  |
+
+## 6. Contractor due diligence checklist
+
+| Check | Evidence |
+| --- | --- |
+| Legal entity and trading name | Company/charity/sole trader details. |
+| Service description | What they provide and to whom. |
+| CQC registration status | Provider ID, regulated activities, locations, conditions, or written exemption analysis. |
+| Clinical governance | Policies, incident reporting, complaints, audit, safeguarding, duty of candour. |
+| Clinician credentials | Professional registration, qualifications, indemnity, DBS where relevant, CPD. |
+| Medicines/equipment | Ownership, storage, expiry, controlled-drugs position, maintenance. |
+| Records | System, controller/processor status, access, retention, data sharing, subject access. |
+| Anti-doping | Global DRO/TUE process, supplement controls, athlete education. |
+| Reporting | Monthly/quarterly quality reports, serious incident escalation, RFL reporting. |
+| Audit rights | Club can inspect records/evidence relevant to contract quality and safety. |
+| Conflict escalation | Clinical judgement prevails over sporting or commercial pressure. |
+
+## 7. Medicines and anti-doping log
+
+| Field | Entry |
+| --- | --- |
+| Player |  |
+| Medicine/treatment |  |
+| Indication |  |
+| Prescriber/administering clinician |  |
+| Dose/route/frequency |  |
+| Date/time |  |
+| Allergy/contraindication check |  |
+| Consent recorded |  |
+| Global DRO search reference |  |
+| In-competition/out-of-competition status |  |
+| TUE required? | No; prospective; retroactive; pending. |
+| Batch/expiry where relevant |  |
+| Advice and safety-netting |  |
+| Follow-up/review |  |
+
+## 8. Concussion assurance checklist
+
+| Control | Evidence |
+| --- | --- |
+| Valid annual SCAT6 and Cognigram before contact training | Baseline register. |
+| Recognise-and-remove applied | Match/training incident record. |
+| HIA/concussion report completed within required timescale | RFL submission evidence. |
+| Parent club notified for loan/away scenarios | Handover record. |
+| Player given post-injury advice | Information sheet and record entry. |
+| Medication masking review completed | Clinical note. |
+| GRTP doctor oversight | GRTP log. |
+| Post-injury Cognigram completed before required stage | Report on file. |
+| Specialist review obtained where required | Specialist report and player/parent acknowledgment. |
+| RTP form submitted before match participation | Submission evidence. |
+
+## 9. Annual medical governance review
+
+Agenda:
+
+1. Current CQC registration/exclusion assessment.
+2. RFL Medical Standards compliance.
+3. Clinical governance structure and named leads.
+4. Incidents, complaints, safeguarding, and serious injury reports.
+5. Concussion and return-to-play audit.
+6. Medicines, prescribing, drugs box, anti-doping, and TUE audit.
+7. Cardiac screening and diagnostics provider assurance.
+8. Records, confidentiality, data sharing, and loan-player handovers.
+9. Contractor due diligence and quality reports.
+10. Player experience and clinician speaking-up feedback.
+11. Facilities, equipment, emergency action plans, and infection control.
+12. Risk register and action plan for next season.
+
+### Source Map
+
+# Source Map
+
+This page records the main sources used and the point each source supports.
+
+| Source | Used for |
+| --- | --- |
+| [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration) | Registration trigger, offence risk, decision questions, latest guidance caveat. |
+| [CQC: The regulated activities](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities) | Need to register for each relevant regulated activity; no hierarchy of activities. |
+| [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) | Current 2026 sports exclusions, first-aid exclusions, medicines administration, supervision, and professional role scope. |
+| [CQC: Diagnostic and screening procedures](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures) | Imaging, ultrasound, sample analysis, physiological measurement, remote reporting, and sports medicine diagnostics. |
+| [CQC: Transport services, triage and medical advice provided remotely](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided) | Ambulance/event-site transport boundary and urgent remote advice/triage registration trigger. |
+| [CQC: Types of service provider or legal entity](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity) | Hosting, subcontracting, joint ventures, and control/accountability tests. |
+| [CQC: Register as a provider](https://www.cqc.org.uk/guidance-regulation/registration/register-provider) | Application readiness, supporting documents, registered managers, premises, controlled drugs, and offence warning. |
+| [CQC: Statement of purpose](https://www.cqc.org.uk/guidance-regulation/providers/registration/statement-purpose) | Statement of purpose content and update expectations. |
+| [CQC: Scope of Registration Guidance May 2022 PDF](https://www.cqc.org.uk/sites/default/files/2022-05/20220517%20Scope%20of%20Registration%20Guidance%20May%202022.pdf) | Treatment of disease, disorder or injury and the sports-ground, gymnasium, first-aid, and temporary sporting-event exclusions. |
+| [CQC: What is registration?](https://www.cqc.org.uk/guidance-regulation/providers/registration/what-registration) | Provider legal entity concepts and registration basics. |
+| [CQC: What is a location?](https://www.cqc.org.uk/guidance-providers/registration/what-location) | Provider identity, subcontracting, responsibility, and location analysis. |
+| [CQC: Applying as a new provider guidance](https://www.cqc.org.uk/guidance-regulation/registration/applying-new-provider-guidance) | Nominated individual, registered manager, location details, and need for systems before registration. |
+| [CQC: Regulation 12, Safe care and treatment](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-12) | Risk assessment, competence, medicines, infection prevention, emergency planning. |
+| [CQC: Regulation 15, Premises and equipment](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-15) | Clean, suitable, maintained premises and equipment. |
+| [CQC: Regulation 16, Complaints](https://www.cqc.org.uk/guidance-providers/regulations-enforcement/regulation-16-receiving-acting-complaints) | Accessible complaint system and CQC information requests. |
+| [CQC: Regulation 17, Good governance](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-17) | Governance systems, audit, risk, information, records, staff and management records. |
+| [CQC: Regulation 18, Staffing](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-18) | Sufficient qualified, competent, skilled, experienced staff and support. |
+| [CQC: Regulation 19, Fit and proper persons employed](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-19) | Recruitment checks and fitness for clinical roles. |
+| [CQC: Regulation 20, Duty of candour](https://www.cqc.org.uk/guidance-providers/all-services/regulation-20-duty-candour) | Openness and notifiable safety incident duties for regulated providers. |
+| [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework) | Safe, effective, caring, responsive, and well-led assessment lens. |
+| [CQC: Appendix 1, the 34 quality statements](https://www.cqc.org.uk/publications/review-cqcs-single-assessment-framework-and-its-implementation/appendix-1-34-quality-statements) | Provider quality statement names and mapping across the five key questions. |
+| [CQC: Evidence categories](https://www.cqc.org.uk/guidance-regulation/providers/assessment/evidence-categories) | Six evidence categories used to assess quality statements. |
+| [CQC: Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability) | Well-led quality statement and evidence themes. |
+| [CQC: Medicines optimisation](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/safe/medicines-optimisation) | Medicines safety, best practice, prescribing/supply/administration, transfer information, and controlled-drugs oversight. |
+| [CQC: Independent healthcare services](https://www.cqc.org.uk/guidance-providers/independent-healthcare/independent-healthcare-services) | Definition and examples of independent healthcare providers. |
+| [CQC: Local authority assessment framework](https://www.cqc.org.uk/guidance-regulation/local-authorities/assessment-framework) | Distinction between provider assessment and local authority assurance using four themes and nine quality statements. |
+| [RFL: Medical Management](https://www.rugby-league.com/governance/medical/medical-management) | IMMOFP/iIMMOFP roles, professional registration, indemnity, and training requirements. |
+| [RFL: Medical Standards 2026 PDF](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) | Current RFL mandatory medical personnel, records, information sharing, EAP, equipment, anti-doping, concussion, cardiac screening, and medical policy controls. |
+| [RFL: Concussion Statement](https://www.rugby-league.com/governance/medical/concussion/concussion-statement) | Professional game medical provision, concussion governance, CPD, community first-aider expectations. |
+| [RFL: Anti-Doping](https://www.rugby-league.com/governance/rules-and-regulations/anti-doping-integrity-betting) | Rugby League anti-doping rules, TUEs, testing, and player/support-person obligations. |
+| [UKAD: Medicine and TUE Hub](https://www.ukad.org.uk/medicine) | TUE concept and medicine checking route. |
+| [UKAD: Search Check Apply](https://www.ukad.org.uk/searchcheckapply) | Medication checking, Global DRO, TUE Wizard, and athlete responsibility. |
+| [UKAD: Managing Supplement Risks](https://www.ukad.org.uk/athletes/managing-supplement-risks) | Strict liability and supplement contamination risk. |
+| [GMC: Good practice in prescribing and managing medicines and devices](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices) | Prescribing competence, safe assessment, records, controlled-drugs safeguards, follow-up, and adverse reaction reporting. |
+| [GMC: Confidentiality, employment and similar purposes](https://www.gmc-uk.org/professional-standards/the-professional-standards/confidentiality---disclosing-information-for-employment-insurance-and-similar-purposes/disclosing-information-for-employment-insurance-and-similar-purposes) | Sports-team dual obligations, consent, relevance, reports, and disclosure boundaries. |
+| [Fieldfisher: Sports organisations and CQC registration](https://www.fieldfisher.com/en/services/public-and-regulatory/public-regulatory-law-blog/sports-organisations-and-cqc-registration) | Secondary analysis on sports organisations, registration rarity, and governance burden. |
+| [LLM Wiki](https://llm-wiki.org/) | Reference pattern for a Material for MkDocs-based LLM-facing wiki. |
+| [mkdocs-llms-source on PyPI](https://pypi.org/project/mkdocs-llms-source/) | LLM outputs: `/llms.txt`, `/llms-full.txt`, and per-page Markdown copies. |
+| [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Documentation theme and site structure. |

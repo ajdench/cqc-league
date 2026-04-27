@@ -1,0 +1,24 @@
+# CQC League Governance Wiki
+
+> Research notes on CQC governance requirements, private healthcare registration patterns, and application to professional Rugby League club medical provision in England.
+
+
+This file is an index of documentation pages. For all content in a single file, see [CQC League Governance Wiki full docs](https://ajdench.github.io/cqc-league/llms-full.txt).
+
+## Home
+
+- [Home](https://ajdench.github.io/cqc-league/index.md)
+
+## Research
+
+- [CQC Governance Baseline](https://ajdench.github.io/cqc-league/research/cqc-governance-baseline.md)
+- [CQC Assurance Domains and Quality Statements](https://ajdench.github.io/cqc-league/research/cqc-assurance-domains-quality-statements.md)
+- [CQC Registration Edge Cases](https://ajdench.github.io/cqc-league/research/cqc-registration-edge-cases.md)
+- [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
+- [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
+- [Private Healthcare Synergies](https://ajdench.github.io/cqc-league/research/private-healthcare-synergies.md)
+- [Medicines, Prescribing, and Anti-Doping](https://ajdench.github.io/cqc-league/research/medicines-prescribing-anti-doping.md)
+- [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
+- [Governance Operating Model](https://ajdench.github.io/cqc-league/research/governance-operating-model.md)
+- [Assurance Pack Templates](https://ajdench.github.io/cqc-league/research/assurance-pack-templates.md)
+- [Source Map](https://ajdench.github.io/cqc-league/research/source-map.md)
