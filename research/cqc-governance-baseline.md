@@ -2,7 +2,7 @@
 
 ## What CQC regulates
 
-CQC registration is activity-based. A provider may need to register if it provides, or intends to provide, health or adult social care activities in England. CQC states that this can apply even where the service is not regular or permanent, and that carrying on a regulated activity without registration is an offence.
+[CQC registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/what-registration) is activity-based. Under [CQC's scope of registration guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration), a provider may need to register if it provides, or intends to provide, health or adult social care activities in England. CQC states that this can apply even where the service is not regular or permanent, and that carrying on a regulated activity without registration is an offence.
 
 The practical test is:
 
@@ -12,11 +12,11 @@ The practical test is:
 4. Where is the activity carried on at or from?
 5. Is a registered manager required?
 
-For professional sports medical provision, the most relevant regulated activity is usually **Treatment of disease, disorder or injury**. Depending on the service model, other activities may also matter, especially diagnostic and screening procedures, surgical procedures, transport services, remote triage or medical advice, and any treatment delivered from a clinic not covered by a sports-specific exclusion.
+For professional sports medical provision, the most relevant regulated activity is usually [Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury). Depending on the service model, other activities may also matter, especially [diagnostic and screening procedures](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures), surgical procedures, [transport services, remote triage or medical advice](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided), and any treatment delivered from a clinic not covered by a sports-specific exclusion. The practical boundary cases are developed in [CQC Registration Edge Cases](cqc-registration-edge-cases.md).
 
 ## Provider, location, and control
 
-CQC registration follows the legal entity that carries on the regulated activity. That may be an individual, partnership, company, charity, voluntary body, NHS body, or other organisation.
+CQC registration follows the [legal entity that carries on the regulated activity](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity). That may be an individual, partnership, company, charity, voluntary body, NHS body, or other organisation.
 
 For sports clubs this matters because medical provision often involves several parties:
 
@@ -27,11 +27,11 @@ For sports clubs this matters because medical provision often involves several p
 - NHS or private hospitals receiving referrals;
 - contracted imaging, blood testing, rehabilitation, or occupational health providers.
 
-CQC expects providers to be clear in contracts and service level agreements about who has responsibility for direction and control of regulated activities. If multiple entities carry on a regulated activity, each may need to consider registration separately.
+CQC expects providers to be clear in contracts and service level agreements about who has responsibility for direction and control of regulated activities. If multiple entities carry on a regulated activity, each may need to consider registration separately. For club outsourcing controls, see [Private Healthcare Synergies](private-healthcare-synergies.md) and the [contractor due diligence checklist](assurance-pack-templates.md#6-contractor-due-diligence-checklist).
 
 ## Governance requirements
 
-The main governance anchor is **Regulation 17: Good governance**. CQC guidance expects providers to have systems and processes to assess, monitor, and improve quality and safety; assess, monitor, and mitigate risk; keep accurate records; maintain staff and management records; and use accurate information to run the service.
+The main governance anchor is [Regulation 17: Good governance](https://www.cqc.org.uk/guidance-regulation/providers/regulations-service-providers-and-managers/health-social-care-act/regulation-17). CQC guidance expects providers to have systems and processes to assess, monitor, and improve quality and safety; assess, monitor, and mitigate risk; keep accurate records; maintain staff and management records; and use accurate information to run the service.
 
 For a club medical service, Regulation 17 translates into:
 
@@ -59,9 +59,9 @@ For a club medical service, Regulation 17 translates into:
 
 ## CQC assessment lens
 
-CQC's assessment framework asks whether services are safe, effective, caring, responsive, and well-led. These five key questions are the practical assurance domains for registered providers. CQC now assesses them through quality statements, which replace the former key lines of enquiry.
+CQC's [assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework) asks whether services are safe, effective, caring, responsive, and well-led. These five key questions are the practical assurance domains for registered providers. CQC now assesses them through quality statements, which replace the former key lines of enquiry.
 
-The most directly relevant quality statement for governance is **Governance, management and sustainability**, which looks for clear responsibilities, accountability, risk and performance information, robust data arrangements, and use of recognised standards. See [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) for the full framework and a sports-club evidence map.
+The most directly relevant quality statement for governance is [Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability), which looks for clear responsibilities, accountability, risk and performance information, robust data arrangements, and use of recognised standards. See [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) for the full framework and a sports-club evidence map.
 
 For sports clubs, the evidence bundle should therefore be built around what CQC would recognise:
 
@@ -74,6 +74,12 @@ For sports clubs, the evidence bundle should therefore be built around what CQC 
 - player feedback and staff feedback;
 - contractual oversight of independent providers;
 - board reports that show risk, performance, outcomes, and learning.
+
+## Related pages
+
+- [Professional Rugby League Application](rugby-league-application.md) applies this baseline to club medical services.
+- [Registration Decision Model](registration-decision-model.md) turns the baseline into a service-change checklist.
+- [Governance Operating Model](governance-operating-model.md) translates CQC governance expectations into board and committee routines.
 
 ## Key sources
 

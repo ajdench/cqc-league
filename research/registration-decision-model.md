@@ -1,6 +1,6 @@
 # Registration Decision Model
 
-Use this model before launching, changing, contracting, or commercialising any club medical service.
+Use this model before launching, changing, contracting, or commercialising any club medical service. It operationalises CQC's [scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration) and should be read with [CQC Governance Baseline](cqc-governance-baseline.md).
 
 For difficult fact patterns, use this page together with [CQC Registration Edge Cases](cqc-registration-edge-cases.md).
 
@@ -21,10 +21,10 @@ Record:
 
 Check whether the service includes:
 
-- treatment of disease, disorder, or injury;
-- diagnostic and screening procedures;
+- [treatment of disease, disorder, or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury);
+- [diagnostic and screening procedures](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures);
 - surgical procedures;
-- transport, triage, or medical advice provided remotely;
+- [transport, triage, or medical advice provided remotely](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided);
 - maternity or midwifery services;
 - nursing care or personal care in its own right.
 
@@ -56,7 +56,7 @@ Ask who controls:
 - referral pathways;
 - payment and service terms.
 
-If the club controls these features, the club may be the provider for CQC purposes. If a contractor controls them, check the contractor's registration or exemption. If control is shared, clarify it before service launch.
+If the club controls these features, the club may be the provider for CQC purposes. If a contractor controls them, check the contractor's registration or exemption. If control is shared, clarify it before service launch using CQC's [legal entity/provider guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity) and the [contractor due diligence checklist](assurance-pack-templates.md#6-contractor-due-diligence-checklist).
 
 ## Step 5: Determine locations
 
@@ -70,7 +70,7 @@ Map whether the activity is carried on:
 - from a third-party clinic;
 - at away fixtures or temporary events.
 
-CQC location rules and location conditions can matter even where the legal entity is clear.
+CQC [location rules](https://www.cqc.org.uk/guidance-providers/registration/what-location) and location conditions can matter even where the legal entity is clear.
 
 ## Step 6: Decide the governance route
 
@@ -98,3 +98,9 @@ CQC location rules and location conditions can matter even where the legal entit
 - audit plan and board reporting template.
 
 See [Assurance Pack Templates](assurance-pack-templates.md) for working templates.
+
+## Related pages
+
+- [CQC Registration Edge Cases](cqc-registration-edge-cases.md) gives examples of how this decision model behaves in borderline services.
+- [Private Healthcare Synergies](private-healthcare-synergies.md) explains how independent healthcare providers structure the same registration discipline.
+- [Governance Operating Model](governance-operating-model.md) describes how to keep the assessment live after launch.

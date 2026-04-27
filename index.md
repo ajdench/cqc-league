@@ -1,8 +1,8 @@
 # CQC League Governance Wiki
 
-This wiki captures research on Care Quality Commission (CQC) governance requirements and how they may apply to professional Rugby League club medical services in England.
+This wiki captures research on [Care Quality Commission (CQC)](https://www.cqc.org.uk/) governance requirements and how they may apply to professional Rugby League club medical services in England.
 
-The core conclusion is practical: most match-day and training-ground treatment for players is likely to sit inside CQC's sports-ground or temporary sporting-event exclusions, but a club can still create CQC exposure if it operates a broader private healthcare service, diagnostics pathway, clinic, remote triage service, or subcontracted service where the club controls regulated healthcare activity.
+The core conclusion is practical: most match-day and training-ground treatment for players is likely to sit inside CQC's sports-ground or temporary sporting-event exclusions for [treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury), but a club can still create CQC exposure if it operates a broader private healthcare service, diagnostics pathway, clinic, remote triage service, or subcontracted service where the club controls regulated healthcare activity.
 
 !!! warning "Scope"
     This is a research and governance design aid, not legal advice. Registration decisions should be checked against the latest CQC guidance and, for borderline service models, with specialist regulatory counsel or CQC.
@@ -22,8 +22,15 @@ The core conclusion is practical: most match-day and training-ground treatment f
 
 ## LLM Wiki outputs
 
-The MkDocs build is configured to publish:
+The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build uses [mkdocs-llms-source](https://pypi.org/project/mkdocs-llms-source/) so the published site behaves as an LLM-friendly wiki:
 
 - `/llms.txt`: curated LLM index generated from the navigation.
 - `/llms-full.txt`: concatenated source content for LLM context.
 - per-page Markdown copies alongside the HTML pages.
+
+## External reference anchors
+
+- Current CQC registration scope starts with [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration).
+- The sport-specific regulatory boundary is explored in [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md).
+- Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
+- Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).

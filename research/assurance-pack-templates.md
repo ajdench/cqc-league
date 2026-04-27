@@ -1,6 +1,6 @@
 # Assurance Pack Templates
 
-These templates turn the research into evidence a club can use repeatedly. They are intentionally concise so they can be copied into board papers, committee packs, contracts, or internal forms.
+These templates turn the research into evidence a club can use repeatedly. They are intentionally concise so they can be copied into board papers, committee packs, contracts, or internal forms. Use them alongside [CQC's scope of registration guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration), the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf), and the detailed decision logic in [Registration Decision Model](registration-decision-model.md).
 
 ## 1. CQC scope assessment
 
@@ -24,6 +24,8 @@ These templates turn the research into evidence a club can use repeatedly. They 
 | Reviewer and date |  |
 | Next review trigger | New users; public access; diagnostics; prescribing; injections; remote advice; new premises; new contractor. |
 
+This template is intended for the edge cases identified in [CQC Registration Edge Cases](cqc-registration-edge-cases.md), especially public clinics, diagnostics, remote triage, prescribing, injections, IV services, and contractor-controlled care.
+
 ## 2. Medical service statement of purpose
 
 | Section | Minimum content |
@@ -41,6 +43,8 @@ These templates turn the research into evidence a club can use repeatedly. They 
 | Contractors | External providers, registration/exemption evidence, audit and reporting. |
 | Review | Annual board approval and update after service change. |
 
+This mirrors CQC's [statement of purpose](https://www.cqc.org.uk/guidance-regulation/providers/registration/statement-purpose) discipline even where the club concludes it is outside registration.
+
 ## 3. Board medical assurance report
 
 | Heading | Report content |
@@ -54,6 +58,8 @@ These templates turn the research into evidence a club can use repeatedly. They 
 | Responsive | Complaints, access delays, academy/family communication, equality issues. |
 | Well-led | Risk register, overdue actions, contractor assurance, audit closure, speaking-up cases. |
 | Decisions requested | Funding, staffing, facilities, contractor changes, legal/CQC advice, policy approval. |
+
+The report headings follow [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) and can be populated from the [RFL Medical Standards Map](rfl-medical-standards-map.md).
 
 ## 4. Medical risk register fields
 
@@ -107,6 +113,8 @@ These templates turn the research into evidence a club can use repeatedly. They 
 | Audit rights | Club can inspect records/evidence relevant to contract quality and safety. |
 | Conflict escalation | Clinical judgement prevails over sporting or commercial pressure. |
 
+This checklist should be used before relying on an external provider's registration or exemption analysis. See [Private Healthcare Synergies](private-healthcare-synergies.md) for the contracting rationale.
+
 ## 7. Medicines and anti-doping log
 
 | Field | Entry |
@@ -125,6 +133,8 @@ These templates turn the research into evidence a club can use repeatedly. They 
 | Batch/expiry where relevant |  |
 | Advice and safety-netting |  |
 | Follow-up/review |  |
+
+Use this alongside [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md), [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply), and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
 
 ## 8. Concussion assurance checklist
 
@@ -158,3 +168,8 @@ Agenda:
 11. Facilities, equipment, emergency action plans, and infection control.
 12. Risk register and action plan for next season.
 
+## Related pages
+
+- [Governance Operating Model](governance-operating-model.md) explains where these templates sit in board and committee routines.
+- [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) provides the assurance structure behind the board report.
+- [Source Map](source-map.md) lists the full external source set.

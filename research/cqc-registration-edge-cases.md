@@ -2,9 +2,9 @@
 
 ## Why this page matters
 
-The largest CQC risk for a professional Rugby League club is not ordinary pitch-side first aid. It is service creep: the medical department gradually becomes a private healthcare provider, diagnostic provider, remote triage service, or controller of outsourced regulated activity.
+The largest CQC risk for a professional Rugby League club is not ordinary pitch-side first aid. It is service creep: the medical department gradually becomes a [private healthcare provider](https://www.cqc.org.uk/guidance-providers/independent-healthcare/independent-healthcare-services), diagnostic provider, remote triage service, or controller of outsourced regulated activity.
 
-CQC's current guidance is activity-based. The question is not "is this sport?" but:
+CQC's current [scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration) is activity-based. The question is not "is this sport?" but:
 
 1. What regulated activity is being carried on?
 2. Which legal entity directs and controls it?
@@ -31,7 +31,7 @@ CQC's current guidance is activity-based. The question is not "is this sport?" b
 
 ## Treatment of disease, disorder or injury
 
-This is the main activity to test for club medical departments. CQC guidance says it covers treatment by or under the supervision of a listed healthcare professional or a relevant multidisciplinary team, for a disease, disorder, or injury. It includes emergency treatment, ongoing treatment, physical and mental health treatment, vaccinations, immunisations, and palliative care.
+This is the main activity to test for club medical departments. CQC's [Treatment of disease, disorder or injury guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury) says it covers treatment by or under the supervision of a listed healthcare professional or a relevant multidisciplinary team, for a disease, disorder, or injury. It includes emergency treatment, ongoing treatment, physical and mental health treatment, vaccinations, immunisations, and palliative care.
 
 The important sport-specific exclusions are:
 
@@ -45,7 +45,7 @@ The exclusion should be documented, not assumed. The more a service resembles a 
 
 ## Diagnostics and screening
 
-Diagnostics are a likely expansion point. CQC's diagnostic and screening activity includes radiation, ultrasound, MRI, most forms of endoscopy, sample removal or examination for diagnostic reasons, and physiological measurement needed to plan or deliver care.
+Diagnostics are a likely expansion point. CQC's [diagnostic and screening procedures guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/diagnostic-and-screening-procedures) includes radiation, ultrasound, MRI, most forms of endoscopy, sample removal or examination for diagnostic reasons, and physiological measurement needed to plan or deliver care.
 
 Practical implications for clubs:
 
@@ -53,11 +53,11 @@ Practical implications for clubs:
 - a registered physiotherapist's use of ultrasound has a specific exemption, but this does not automatically exempt a doctor-led or club-controlled diagnostic service;
 - if a third party reports images remotely, that reporting provider may also need registration;
 - if the club sends athletes to an external registered imaging provider, the club should keep referral and result-governance controls rather than duplicating registration unnecessarily;
-- cardiac screening is a governance obligation under the RFL Medical Standards for some clubs, and the provider/control model must be clear.
+- cardiac screening is a governance obligation under the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) for some clubs, and the provider/control model must be clear.
 
 ## Remote advice and triage
 
-CQC's remote triage activity is narrower than ordinary remote communication. It covers medical advice or triage by telephone or email where immediate attention, action, or prioritisation is needed and where the body is established for that purpose.
+CQC's [transport, triage and medical advice provided remotely guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided) is narrower than ordinary remote communication. It covers medical advice or triage by telephone or email where immediate attention, action, or prioritisation is needed and where the body is established for that purpose.
 
 Club risk increases if the medical department offers:
 
@@ -71,7 +71,7 @@ Occasional remote follow-up with a known player may be lower risk, but it still 
 
 ## Hosted and subcontracted services
 
-CQC distinguishes hosting from carrying on the regulated activity. A host can make facilities available to another provider, but the provider carrying on the regulated activity must register. If responsibilities are unclear, the host can be exposed because it controls the premises or pathway.
+CQC distinguishes hosting from carrying on the regulated activity in its [legal entity and provider guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity). A host can make facilities available to another provider, but the provider carrying on the regulated activity must register. If responsibilities are unclear, the host can be exposed because it controls the premises or pathway.
 
 For clubs, contracts should answer:
 
@@ -97,6 +97,14 @@ Escalate for legal/CQC review before launch if any of these apply:
 - controlled drugs will be stored or administered;
 - children or academy players are treated outside normal club medical arrangements.
 
+Use the [CQC scope assessment template](assurance-pack-templates.md#1-cqc-scope-assessment) before approving any of these changes.
+
+## Related pages
+
+- [Professional Rugby League Application](rugby-league-application.md) applies these edge cases to the club setting.
+- [Private Healthcare Synergies](private-healthcare-synergies.md) explains how independent providers control similar risks.
+- [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) expands the injection, IV, prescribing and TUE risks.
+
 ## Sources
 
 - [CQC: Treatment of disease, disorder or injury](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/treatment-disease-disorder-or-injury)
@@ -104,4 +112,3 @@ Escalate for legal/CQC review before launch if any of these apply:
 - [CQC: Transport services, triage and medical advice provided remotely](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/regulated-activities/regulated-activities/transport-services-triage-and-medical-advice-provided)
 - [CQC: Types of service provider or legal entity](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration/who-has-register/types-service-provider-or-legal-entity)
 - [CQC: Register as a provider](https://www.cqc.org.uk/guidance-regulation/registration/register-provider)
-

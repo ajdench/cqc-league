@@ -2,9 +2,9 @@
 
 ## Source
 
-This page maps the **RFL Medical Standards 2026** to CQC-style assurance. The standards are part of the RFL Operational Rules and are mandatory where marked as mandatory.
+This page maps the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) to CQC-style assurance. The standards are part of the RFL Operational Rules and are mandatory where marked as mandatory.
 
-The 2026 standards expressly say they should be applied in accordance with UK healthcare legislation, professional regulator guidance, recognised professional bodies, best practice, and clinical governance standards such as CQC. That makes a CQC-style governance map appropriate even where the club is outside CQC registration.
+The 2026 standards expressly say they should be applied in accordance with UK healthcare legislation, professional regulator guidance, recognised professional bodies, best practice, and clinical governance standards such as CQC. That makes a CQC-style governance map appropriate even where the club is outside CQC registration. For the CQC assessment lens, see [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md).
 
 ## RFL structure and CQC alignment
 
@@ -23,7 +23,7 @@ The 2026 standards expressly say they should be applied in accordance with UK he
 
 ### Medical personnel
 
-Club board assurance should evidence:
+The RFL's [medical management page](https://www.rugby-league.com/governance/medical/medical-management) explains the IMMOFP/iIMMOFP training route and professional-game medical expectations. Club board assurance should evidence:
 
 - every clinician is registered with the RFL where required;
 - doctors, physiotherapists, paramedics, sports rehabilitators, and sports therapists operate within scope of practice;
@@ -77,7 +77,7 @@ Evidence:
 
 ### Concussion
 
-The RFL standards require annual baseline SCAT6 and Cognigram before contact activity, recognise-and-remove controls, HIA processes, GRTP, reporting within defined timescales, return-to-play forms, and specialist review in defined circumstances.
+The RFL standards and [concussion guidance](https://www.rugby-league.com/governance/medical/concussion/concussion-statement) require annual baseline SCAT6 and Cognigram before contact activity, recognise-and-remove controls, HIA processes, GRTP, reporting within defined timescales, return-to-play forms, and specialist review in defined circumstances.
 
 Evidence:
 
@@ -93,7 +93,7 @@ Evidence:
 
 ### Cardiac screening
 
-The 2026 standards make cardiac screening mandatory for Super League, Women's Super League, and Championship clubs. This creates both clinical governance and potential diagnostics/provider-control questions.
+The 2026 standards make cardiac screening mandatory for Super League, Women's Super League, and Championship clubs. This creates both clinical governance and potential [diagnostics/provider-control questions](cqc-registration-edge-cases.md#diagnostics-and-screening).
 
 Evidence:
 
@@ -127,11 +127,17 @@ The RFL standards are strong sport-specific controls. The CQC-style additions ar
 - provider/control assessment for each healthcare service;
 - statement of purpose discipline;
 - complaints and duty-of-candour process where regulated care is provided;
-- medicines governance beyond match-day minimum kit;
+- medicines governance beyond match-day minimum kit, covered in [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md);
 - contractor quality assurance;
 - board risk register and formal closure of audit actions;
 - equality and player-experience evidence;
 - Freedom to Speak Up route for clinicians and players.
+
+## Related pages
+
+- [Professional Rugby League Application](rugby-league-application.md) explains the sport-specific CQC boundary.
+- [Governance Operating Model](governance-operating-model.md) turns this standards map into board reporting.
+- [Assurance Pack Templates](assurance-pack-templates.md) includes the incident, concussion, medicines and annual-review templates.
 
 ## Sources
 
@@ -140,4 +146,3 @@ The RFL standards are strong sport-specific controls. The CQC-style additions ar
 - [RFL: Concussion Statement](https://www.rugby-league.com/governance/medical/concussion/concussion-statement)
 - [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework)
 - [CQC: Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability)
-
