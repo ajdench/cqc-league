@@ -4,6 +4,8 @@
 
 This page maps the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) to CQC-style assurance. The standards are part of the RFL Operational Rules and are mandatory where marked as mandatory.
 
+For an operational clause-by-clause evidence checklist, use [RFL Clause Evidence Map](rfl-clause-evidence-map.md). This page remains the higher-level board and governance summary.
+
 The 2026 standards expressly say they should be applied in accordance with UK healthcare legislation, professional regulator guidance, recognised professional bodies, best practice, and clinical governance standards such as CQC. That makes a CQC-style governance map appropriate even where the club is outside CQC registration. For the CQC assessment lens, see [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md).
 
 ## RFL structure and CQC alignment
@@ -136,6 +138,7 @@ The RFL standards are strong sport-specific controls. The CQC-style additions ar
 ## Related pages
 
 - [Professional Rugby League Application](rugby-league-application.md) explains the sport-specific CQC boundary.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) provides the detailed evidence checklist for A1-F11.
 - [Governance Operating Model](governance-operating-model.md) turns this standards map into board reporting.
 - [Assurance Pack Templates](assurance-pack-templates.md) includes the incident, concussion, medicines and annual-review templates.
 

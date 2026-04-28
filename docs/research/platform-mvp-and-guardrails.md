@@ -2,7 +2,7 @@
 
 This page sets out implementation choices and risk controls for a sports medical governance and CQC-readiness platform.
 
-Use it with [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Tool Landscape](platform-tool-landscape.md), and [Platform Product Blueprint](platform-product-blueprint.md).
+Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Tool Landscape](platform-tool-landscape.md), and [Platform Product Blueprint](platform-product-blueprint.md).
 
 ## Build, buy, or integrate
 
@@ -73,11 +73,13 @@ The platform should not label a service "CQC compliant" as a static status. It s
 - Validate minimum viable document pack with sports regulatory lawyers and CQC specialists.
 - Define data-controller and processor models for club, contractor, league, and platform.
 - Assess whether any proposed decision-support features would trigger MHRA software-as-medical-device obligations.
-- Map RFL Medical Standards 2026 clause-by-clause into product controls and evidence fields.
+- Refine the first-pass [RFL Clause Evidence Map](rfl-clause-evidence-map.md) into product controls and evidence fields.
 - Build a sample board dashboard using the [Board Medical Assurance Report](assurance-pack-templates.md#3-board-medical-assurance-report).
 
 ## Related pages
 
 - [Platform Product Blueprint](platform-product-blueprint.md) defines the proposed modules.
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) explains the highest-risk operational workflow.
+- [Product Research Roadmap](product-research-roadmap.md) tracks the work to tick off.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) maps RFL standards to product evidence requirements.
 - [Source Map](source-map.md) lists external sources.

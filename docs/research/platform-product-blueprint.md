@@ -2,7 +2,7 @@
 
 This page maps CQC evidence and Rugby League medical governance into possible platform modules.
 
-Use it with [Platform Tool Landscape](platform-tool-landscape.md), [Assurance Pack Templates](assurance-pack-templates.md), and [Governance Operating Model](governance-operating-model.md).
+Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Tool Landscape](platform-tool-landscape.md), [Assurance Pack Templates](assurance-pack-templates.md), and [Governance Operating Model](governance-operating-model.md).
 
 ## CQC evidence model the platform should support
 
@@ -119,3 +119,5 @@ The [Medicines and anti-doping log](assurance-pack-templates.md#7-medicines-and-
 
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) turns this blueprint into an implementation route.
 - [Assurance Pack Templates](assurance-pack-templates.md) supplies the first version of forms and reports.
+- [Product Research Roadmap](product-research-roadmap.md) tracks the next research and build tasks.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) defines the clause-level evidence the platform should support.
