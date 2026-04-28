@@ -33,7 +33,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
 - Use [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) to understand the evidence pack before turning it into final templates or software fields.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
-- Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
+- Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Wiki Visual Tooling Register](research/wiki-visual-tooling-register.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, visual explanation, and governance tooling.
 - Use [Research Scope and Assumptions](research/research-scope-assumptions.md) before treating item 1 as product users or buying groups.
 - Use [Scope Decision Record](research/scope-decision-record.md) for the current working audience and output: an online CQC inspection preparation platform for professional sports clubs, using a Championship Rugby League Club as the starting example.
 - Use [Research Validation Plan](research/research-validation-plan.md) before moving from research into solution design.
@@ -46,7 +46,7 @@ The research is split into logical sections:
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
 - **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, clause status register, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, minimum compliance pack research, templates, and evidence packs.
-- **Platform Product Research**: product roadmap, research scope, scope decision, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, research scope, scope decision, validation plan, opportunity, tool landscape, visual tooling, tool comparison, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -66,7 +66,7 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - The minimum evidence pack is researched in [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and tested against practical scenarios in [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) before being turned into templates.
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
-- The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
+- The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Wiki Visual Tooling Register](research/wiki-visual-tooling-register.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, visual documentation tooling, and digital health compliance guidance.
 - [Research Scope and Assumptions](research/research-scope-assumptions.md) reframes item 1 as audience, decision context, and boundary rather than product buying personas.
 - [Scope Decision Record](research/scope-decision-record.md) records the current working scope as an online CQC inspection preparation platform for professional sports clubs, using a Championship Rugby League Club as the starting example.
 - The [Research Validation Plan](research/research-validation-plan.md) records what must be confirmed with club, RFL, CQC/legal, vendor, and information-governance sources.
@@ -3073,6 +3073,100 @@ This remains research. It does not select a vendor or define a build decision.
 - [Research Validation Plan](research-validation-plan.md)
 - [Source Map](source-map.md)
 
+### Wiki Visual Tooling Register
+
+# Wiki Visual Tooling Register
+
+This page records visual and knowledge-map tools that could be added when the research needs them. The intent is not to install every tool immediately. The intent is to keep a practical register so new information can be matched to the right visual form.
+
+## Current baseline
+
+The wiki currently uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) with [PyMdown SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences) configured for Mermaid diagrams.
+
+Mermaid is already suitable for:
+
+- decision trees;
+- governance flowcharts;
+- sequence diagrams;
+- state diagrams;
+- entity-relationship diagrams;
+- simple journey maps.
+
+It should remain the default for diagrams that are small enough to read directly in Markdown and where source control readability matters.
+
+## Tool register
+
+| Tool | What it adds | Use when | Current posture |
+| --- | --- | --- | --- |
+| [Mermaid in Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/diagrams/) | Text-based flowcharts, sequence diagrams, ER diagrams, state diagrams, and related diagram types. | A process or decision can be expressed clearly as code in a Markdown fence. | Enabled. Default first choice. |
+| [mkdocs-drawio](https://tuunit.github.io/mkdocs-drawio/) | Embeds `.drawio` / diagrams.net files as normal Markdown images. Supports multi-page diagrams, hosted diagrams, print/edit buttons, dark mode, and Material compatibility. | A board-facing or operational diagram is too visual or layout-heavy for Mermaid. | Strong candidate to enable first. |
+| Static SVG, PNG, or WebP assets | Stable image assets copied through the MkDocs static build. | A diagram is final, brand/presentation-focused, or should not depend on runtime JavaScript. | Already available through ordinary Markdown image links. |
+| [mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) | Click-to-zoom image lightbox for diagrams and screenshots. | Diagrams, screenshots, or evidence maps are too wide to read inline. | Strong candidate alongside draw.io. |
+| [mkdocs-caption](https://pypi.org/project/mkdocs-caption/) | Figure and table captions, numbering, and cross-reference text. | The wiki needs report-style figures, board pack references, or formal numbered exhibits. | Candidate once visuals become board/report outputs. |
+| [mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) / [Vega-Lite](https://vega.github.io/vega-lite/docs/) | Declarative charts from JSON/data using Vega-Lite. | We have structured evidence, maturity, risk, validation, or inspection-readiness data to visualize. | Candidate after data structure stabilises. |
+| [mkdocs-plotly-plugin](https://haoda-li.github.io/mkdocs-plotly-plugin/) | Interactive charts from Plotly JSON. | We need richer interactive charts than Vega-Lite, such as drillable dashboards or complex hover detail. | Later candidate; heavier than Vega-Lite. |
+| [mkdocs-table-reader-plugin](https://timvink.github.io/mkdocs-table-reader-plugin/) | Inserts tables from CSV, JSON, Excel, YAML, TSV, and related files. | Evidence maps, RFL clause registers, vendor comparisons, or maturity tables should become data files rather than hand-written Markdown tables. | Candidate when tables become large or repeated. |
+| [mkdocs-markmap](https://github.com/markmap/mkdocs_markmap) / [Markmap](https://markmap.js.org/docs/markmap) | Interactive mind maps from Markdown hierarchy. | A research topic needs a browsable concept map rather than a strict process diagram. | Candidate for research scoping and topic maps. |
+| [mkdocs-kroki-plugin](https://pypi.org/project/mkdocs-kroki-plugin/) / [Kroki](https://kroki.io/) | One route to many diagram languages, including PlantUML, C4, GraphViz, D2, BPMN, Excalidraw, Vega, Vega-Lite, WaveDrom, and more. | Mermaid and draw.io are not enough, or a specialist notation is needed. | Powerful but heavier; consider privacy and hosting before enabling. |
+| [mkdocs-network-graph-plugin](https://pypi.org/project/mkdocs-network-graph-plugin/) | Interactive knowledge network graph for Material for MkDocs, with full-site and local page connections. | The wiki needs an Obsidian-like site map showing how research pages connect. | Best MkDocs-native knowledge-map candidate. |
+| [mkdocs-obsidian-interactive-graph-plugin](https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin) | Obsidian-like interactive graph for Material for MkDocs using ECharts and wikilinks. | The wiki moves toward Obsidian-style wikilinks and wants a closer Obsidian visual pattern. | Secondary knowledge-map candidate; more moving parts than network graph. |
+| [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) | Cross-page references, anchors, and backlink recording for other plugins or hooks. | Backlinks, referenced-by sections, or richer cross-reference behavior become important. | Infrastructure candidate, not a visual graph by itself. |
+| [Foam graph visualization](https://djplaner.github.io/foam-with-material-for-mkdocs/user/features/graph-visualization/) | VS Code knowledge graph for Markdown notes, including files, tags, links, filters, and hover/click navigation. | Editors want a local authoring graph while writing the wiki. | Authoring-side option, not a published MkDocs site feature. |
+
+## Obsidian-like knowledge map finding
+
+Yes. The closest published-wiki options are:
+
+1. **mkdocs-network-graph-plugin**: best fit for this site if we want a public, Material-compatible knowledge graph. It is described as an interactive knowledge network graph for Material for MkDocs and supports both full-site overview and local page connections.
+2. **mkdocs-obsidian-interactive-graph-plugin**: closest in intent to Obsidian, but it currently relies on wikilinks, JavaScript assets, jQuery, and ECharts. It may be useful if the wiki adopts Obsidian-style `[[wikilinks]]`, but it is a less conservative first choice.
+3. **Foam graph visualization**: useful for local authoring in VS Code, but not a native published-site graph.
+4. **autorefs backlinks**: useful if the site needs backlink sections or graph data, but it does not itself render an Obsidian-style graph.
+
+The recommended first experiment is **mkdocs-network-graph-plugin** on a branch, because it is designed for Material for MkDocs, has simple `plugins: - graph` setup, and avoids changing the wiki writing style to wikilinks.
+
+## Use triggers
+
+| New information type | Prefer |
+| --- | --- |
+| CQC scope decision pathway | Mermaid first; draw.io if board-facing. |
+| Board assurance journey | draw.io, then static SVG export if stable. |
+| Evidence pack structure | Mermaid or markmap. |
+| RFL clause maturity dashboard | Vega-Lite or Plotly once data-backed. |
+| Large RFL/vendor/evidence tables | table-reader from CSV or YAML. |
+| Knowledge relationships across pages | mkdocs-network-graph-plugin. |
+| Research concept map | markmap. |
+| Formal board/report exhibit | caption plus glightbox. |
+| Architecture/product modules | Mermaid, draw.io, or Kroki C4/PlantUML. |
+| BPMN-style workflow | Kroki BPMN or draw.io. |
+| Hand-drawn workshop sketch style | Kroki Excalidraw or draw.io. |
+
+## Adoption order
+
+1. **Shortlist now**: Mermaid, draw.io, static SVG/PNG, glightbox, caption, markmap, table-reader, Vega-Lite, Plotly, Kroki, network graph, Obsidian interactive graph, autorefs, Foam.
+2. **Install only when needed**: do not add plugins without an immediate page or research output that will use them.
+3. **First likely install**: `mkdocs-drawio` and `mkdocs-glightbox`, because they directly improve board-facing diagrams and large evidence maps.
+4. **First knowledge-map experiment**: `mkdocs-network-graph-plugin` on a branch.
+5. **Data-visualisation install**: add table-reader and Vega-Lite/charts only after evidence registers are converted to structured data.
+6. **Kroki decision**: use only if we need specialist diagram languages and have decided whether to use hosted Kroki or a self-hosted service.
+
+## Guardrails
+
+- Prefer text-based diagrams where the source should be reviewable in Git.
+- Prefer draw.io for diagrams that need manual layout, board polish, or iterative discussion.
+- Prefer static SVG exports for visuals that should remain stable in LLM exports, printed material, or board packs.
+- Avoid adding JavaScript-heavy interactive visuals unless they answer a real research question.
+- Check whether a plugin changes Markdown syntax, page loading, search, or GitHub Pages compatibility before enabling it.
+- Check privacy and dependency implications before using hosted rendering services such as Kroki.
+- Keep LLM wiki usability in mind: every important visual should also have a short textual explanation nearby.
+
+## Related pages
+
+- [Product Research Roadmap](product-research-roadmap.md)
+- [Platform Opportunity](platform-opportunity-tool-landscape.md)
+- [Platform Tool Landscape](platform-tool-landscape.md)
+- [Product Blueprint](platform-product-blueprint.md)
+- [Source Map](source-map.md)
+
 ### Product Blueprint
 
 # Platform Product Blueprint
@@ -3342,6 +3436,23 @@ This page records the main sources used and the point each source supports.
 | [LLM Wiki](https://llm-wiki.org/) | Reference pattern for a Material for MkDocs-based LLM-facing wiki. |
 | [mkdocs-llms-source on PyPI](https://pypi.org/project/mkdocs-llms-source/) | LLM outputs: `/llms.txt`, `/llms-full.txt`, and per-page Markdown copies. |
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Documentation theme and site structure. |
+| [Material for MkDocs: Diagrams](https://squidfunk.github.io/mkdocs-material/reference/diagrams/) | Current Mermaid baseline and diagram types supported by Material documentation. |
+| [Material for MkDocs: SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences) | Current Mermaid fence configuration and custom fence behavior. |
+| [mkdocs-drawio](https://tuunit.github.io/mkdocs-drawio/) | Candidate for embedding editable diagrams.net/draw.io files as Markdown images. |
+| [mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) | Candidate for click-to-zoom image and diagram viewing. |
+| [mkdocs-caption](https://pypi.org/project/mkdocs-caption/) | Candidate for figure and table captions, numbering, and report-style references. |
+| [mkdocs-charts-plugin](https://github.com/timvink/mkdocs-charts-plugin) | Candidate for Vega-Lite charts from structured data. |
+| [Vega-Lite documentation](https://vega.github.io/vega-lite/docs/) | Declarative chart grammar for future evidence, maturity, risk, and validation visualisations. |
+| [mkdocs-plotly-plugin](https://haoda-li.github.io/mkdocs-plotly-plugin/) | Candidate for interactive Plotly JSON charts where richer interaction is needed. |
+| [mkdocs-table-reader-plugin](https://timvink.github.io/mkdocs-table-reader-plugin/) | Candidate for turning CSV, JSON, Excel, YAML, TSV, and related files into Markdown tables. |
+| [mkdocs-markmap](https://github.com/markmap/mkdocs_markmap) | Candidate for Markdown-based interactive mind maps. |
+| [Markmap documentation](https://markmap.js.org/docs/markmap) | Mind-map model and Markdown-to-interactive-SVG approach. |
+| [Kroki](https://kroki.io/) | Candidate umbrella diagram rendering service for PlantUML, C4, GraphViz, D2, BPMN, Excalidraw, Vega, and other diagram types. |
+| [mkdocs-kroki-plugin](https://pypi.org/project/mkdocs-kroki-plugin/) | Candidate MkDocs integration for Kroki diagrams and theme-aware generated images. |
+| [mkdocs-network-graph-plugin](https://pypi.org/project/mkdocs-network-graph-plugin/) | Best current MkDocs-native candidate for an Obsidian-like published knowledge map. |
+| [mkdocs-obsidian-interactive-graph-plugin](https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin) | Obsidian-like Material for MkDocs graph candidate using wikilinks and ECharts. |
+| [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) | Candidate for backlink infrastructure and richer cross-page references. |
+| [Foam graph visualization with Material for MkDocs](https://djplaner.github.io/foam-with-material-for-mkdocs/user/features/graph-visualization/) | Authoring-side graph comparison for files, tags, and Markdown links. |
 | [GOV.UK: Writing for GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) | Page-length principle: no universal minimum or maximum; length depends on user need and clarity. |
 | [GOV.UK: Planning content](https://www.gov.uk/guidance/content-design/planning-content) | Avoid broad "everything you need to know" pages that are hard to navigate. |
 | [GOV.UK Design System: Pagination](https://design-system.service.gov.uk/components/pagination/) | Pattern for splitting related content across multiple pages when a single page becomes hard to use. |
@@ -3385,6 +3496,7 @@ This page records the main sources used and the point each source supports.
 | [Scope Decision Record](scope-decision-record.md) | Current scope decision: online CQC inspection preparation platform for professional sports clubs, using a Championship Rugby League Club as the starting example. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, generic compliance, and remaining market research questions. |
 | [Tool Capability Comparison](tool-capability-comparison.md) | Capability comparison across healthcare/CQC operations tools, sports EMRs, sports governance tools, and vendor verification questions. |
+| [Wiki Visual Tooling Register](wiki-visual-tooling-register.md) | Register of visual, charting, diagram, mind-map, and Obsidian-like knowledge-map tools to consider as new research material requires them. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
 | [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
 | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards research map for A1-F11, including maturity, status triage, evidence owners, cadence, CQC lens, and validation gaps. |

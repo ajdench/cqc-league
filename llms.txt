@@ -49,6 +49,7 @@ This file is an index of documentation pages. For all content in a single file, 
 - [Platform Opportunity](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
 - [Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-tool-landscape.md)
 - [Tool Capability Comparison](https://ajdench.github.io/cqc-league/research/tool-capability-comparison.md)
+- [Wiki Visual Tooling Register](https://ajdench.github.io/cqc-league/research/wiki-visual-tooling-register.md)
 - [Product Blueprint](https://ajdench.github.io/cqc-league/research/platform-product-blueprint.md)
 - [MVP and Guardrails](https://ajdench.github.io/cqc-league/research/platform-mvp-and-guardrails.md)
 
