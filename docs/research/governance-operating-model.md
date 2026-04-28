@@ -100,11 +100,11 @@ Escalate immediately if any of these occur:
 8. Audit records, consent, concussion, equipment, and clinician credentials.
 9. Report quarterly to the board and annually refresh the CQC scope analysis.
 
-Use [Assurance Pack Templates](assurance-pack-templates.md) for the practical document set. If implementing these routines in software, use [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) to translate the operating model into workflows, evidence stores, dashboards, and export packs.
+Use [Assurance Pack Templates](assurance-pack-templates.md) for the practical document set. If implementing these routines in software, use [Platform Product Blueprint](platform-product-blueprint.md) to translate the operating model into workflows, evidence stores, dashboards, and export packs.
 
 ## Related pages
 
 - [RFL Medical Standards Map](rfl-medical-standards-map.md) provides the sport-specific evidence source.
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) gives the controls for the medicines risk line in the dashboard.
 - [Registration Decision Model](registration-decision-model.md) keeps new services from drifting across the registration boundary unnoticed.
-- [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) maps the operating model to potential software modules and external tool categories.
+- [Platform Product Blueprint](platform-product-blueprint.md) maps the operating model to potential software modules and external tool categories.

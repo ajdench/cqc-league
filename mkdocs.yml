@@ -46,18 +46,27 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Research:
+  - Board and Decisions:
       - Board Briefing: research/board-briefing.md
+      - Board CQC Response and Outcomes: research/board-cqc-response.md
+      - Registration Decision Model: research/registration-decision-model.md
+      - Worked Examples: research/worked-examples.md
+  - CQC Framework:
       - CQC Governance Baseline: research/cqc-governance-baseline.md
       - CQC Assurance Domains and Quality Statements: research/cqc-assurance-domains-quality-statements.md
       - CQC Registration Edge Cases: research/cqc-registration-edge-cases.md
-      - Professional Rugby League Application: research/rugby-league-application.md
-      - Worked Examples: research/worked-examples.md
-      - RFL Medical Standards Map: research/rfl-medical-standards-map.md
       - Private Healthcare Synergies: research/private-healthcare-synergies.md
+  - Rugby League Application:
+      - Professional Rugby League Application: research/rugby-league-application.md
+      - RFL Medical Standards Map: research/rfl-medical-standards-map.md
       - Medicines, Prescribing, and Anti-Doping: research/medicines-prescribing-anti-doping.md
-      - Registration Decision Model: research/registration-decision-model.md
+  - Operating Model and Evidence:
       - Governance Operating Model: research/governance-operating-model.md
       - Assurance Pack Templates: research/assurance-pack-templates.md
-      - Platform Opportunity and Tool Landscape: research/platform-opportunity-tool-landscape.md
+  - Platform Product Research:
+      - Platform Opportunity: research/platform-opportunity-tool-landscape.md
+      - Tool Landscape: research/platform-tool-landscape.md
+      - Product Blueprint: research/platform-product-blueprint.md
+      - MVP and Guardrails: research/platform-mvp-and-guardrails.md
+  - Sources:
       - Source Map: research/source-map.md
