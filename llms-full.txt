@@ -35,6 +35,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
 - Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 - Use [Research Scope and Assumptions](research/research-scope-assumptions.md) before treating item 1 as product users or buying groups.
+- Use [Scope Decision Record](research/scope-decision-record.md) for the current working audience and output: an online preparation platform for a Championship Rugby League team new to CQC inspection-level readiness.
 - Use [Research Validation Plan](research/research-validation-plan.md) before moving from research into solution design.
 
 ## Site structure
@@ -45,7 +46,7 @@ The research is split into logical sections:
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
 - **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, clause status register, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, minimum compliance pack research, templates, and evidence packs.
-- **Platform Product Research**: product roadmap, research scope, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, research scope, scope decision, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -67,6 +68,7 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
 - The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
 - [Research Scope and Assumptions](research/research-scope-assumptions.md) reframes item 1 as audience, decision context, and boundary rather than product buying personas.
+- [Scope Decision Record](research/scope-decision-record.md) records the current working scope as a guided online preparation platform for a Championship Rugby League organisation.
 - The [Research Validation Plan](research/research-validation-plan.md) records what must be confirmed with club, RFL, CQC/legal, vendor, and information-governance sources.
 
 ## Board and Decisions
@@ -2474,7 +2476,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
-| Scope page added | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) | Reframed away from product buyers. The next decision is scope, audience, and immediate output. |
+| Scope decision recorded | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) and [Scope Decision Record](scope-decision-record.md) | Current audience: online preparation platform for a Championship Rugby League organisation new to CQC inspection-level readiness. |
 | Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Status register added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) and [RFL Clause Status Register](rfl-clause-status-register.md) | Status, Championship relevance, record visibility, and validation gaps added. Still needs RFL/Head of Medical validation. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
@@ -2483,7 +2485,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 ## Working priorities
 
-The current priority is to settle item **1** as a research scope question, then use that decision to decide how far to take items **2, 3, 5, and 6**.
+The current priority is to use the scope decision in [Scope Decision Record](scope-decision-record.md) to reshape the research into a guided preparation journey for a Championship Rugby League organisation new to CQC.
 
 The research should answer five practical questions:
 
@@ -2497,12 +2499,13 @@ The research should answer five practical questions:
 
 ### 1. Research audience and decision context
 
-This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md). The research should not start with a product buying group. It should first decide:
+This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md) and provisionally decided in [Scope Decision Record](scope-decision-record.md). The research should not start with a commercial product buying group. It should support:
 
-- whether the concrete reference is Sheffield Eagles, a generic Championship club, professional Rugby League, or professional sport more broadly;
-- whether the immediate output is a board/Head of Medical pack, a reusable framework, a validation plan, or future platform research;
-- which audiences need to make decisions now;
-- which product-shaped work should remain deferred.
+- a Championship Rugby League organisation as the starting example;
+- board and Head of Medical understanding;
+- preparation for CQC-style scrutiny where this is new to the organisation;
+- translation of existing medical/clinical governance into inspection-grade evidence;
+- future platform research without jumping to software specification.
 
 ### 2. Minimum viable compliance pack
 
@@ -2565,6 +2568,7 @@ Current output: [Platform Tool Landscape](platform-tool-landscape.md) and [Tool 
 
 - [Research Validation Plan](research-validation-plan.md)
 - [Research Scope and Assumptions](research-scope-assumptions.md)
+- [Scope Decision Record](scope-decision-record.md)
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
@@ -2585,6 +2589,8 @@ This page reframes roadmap item 1. The immediate issue is not "target users and 
 
 The working question is: **what is this research trying to make clear, for whom, and for what decision?**
 
+The current scope decision is recorded in [Scope Decision Record](scope-decision-record.md).
+
 ## Scope options
 
 | Option | Description | What it would prioritise | Risk if chosen too early |
@@ -2599,10 +2605,10 @@ The working question is: **what is this research trying to make clear, for whom,
 
 Until changed, the wiki should assume this order:
 
-1. **Primary scope**: professional Rugby League club medical governance in England, with Championship Rugby League as the concrete working example.
-2. **Immediate output**: a board/Head of Medical research and assurance pack, not a software product.
+1. **Primary scope**: an online research and preparation platform for a Championship Rugby League team that is new to CQC inspection-level preparation.
+2. **Immediate output**: a guided preparation and assurance knowledge base for board, Head of Medical, clinical, operational, safeguarding/welfare, and contractor-facing understanding.
 3. **Secondary output**: reusable research structure that may later support other professional Rugby League clubs.
-4. **Product/platform angle**: kept as a research stream only, not the organising assumption.
+4. **Product/platform angle**: relevant as an online preparation experience, but not yet a full software implementation specification.
 5. **Out of scope for now**: full product specification, pricing, sales personas, buying committee design, implementation architecture, and vendor selection.
 
 ## Audience and decision context
@@ -2625,7 +2631,7 @@ Before moving into validation interviews or solution design, these questions nee
 | Question | Why it matters |
 | --- | --- |
 | Is the concrete reference club Sheffield Eagles, a generic Championship club, or professional Rugby League generally? | Determines how specific the pack and RFL status register should be. |
-| Is the primary deliverable still a board paper from Head of Medical? | Determines whether pages should optimise for directors or operational medical teams. |
+| Is the primary deliverable a board paper, a guided online preparation pathway, or both? | Determines whether pages should optimise for directors, operational medical teams, or first-time CQC learning. |
 | Should academy/scholarship care be in the first research phase? | Adds safeguarding, parent/guardian, school, and child welfare complexity. |
 | Should the research cover public clinics and paid treatment only as risk triggers, or as possible future services? | Changes the depth of CQC registration research needed. |
 | Should platform research remain secondary until after governance scope is validated? | Prevents premature product framing. |
@@ -2634,7 +2640,7 @@ Before moving into validation interviews or solution design, these questions nee
 
 The safest next posture is:
 
-- treat item 1 as **research audience and decision context**;
+- treat item 1 as **research audience and decision context**, with [Scope Decision Record](scope-decision-record.md) as the current answer;
 - keep item 2 as the evidence pack research;
 - keep item 3 as RFL status and evidence research;
 - keep item 5 as CQC factual decision research;
@@ -2643,6 +2649,116 @@ The safest next posture is:
 
 ## Related pages
 
+- [Product Research Roadmap](product-research-roadmap.md)
+- [Scope Decision Record](scope-decision-record.md)
+- [Board Briefing](board-briefing.md)
+- [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
+- [CQC Scope Question Bank](cqc-scope-question-bank.md)
+- [Research Validation Plan](research-validation-plan.md)
+
+### Scope Decision Record
+
+# Scope Decision Record
+
+This page records the current scope decision for the research. It should be revisited when the intended output changes.
+
+## Decision
+
+The working scope is an **online research and preparation platform for a Championship Rugby League team**, using a Championship club as the starting example.
+
+The platform should help the organisation:
+
+- appreciate what CQC is and why it may matter;
+- understand how a CQC-style assessment or inspection would work;
+- identify whether its medical service is outside scope, excluded, contractor-led, or potentially registerable;
+- understand what evidence it would need to prepare;
+- move from existing medical/clinical governance to CQC inspection-level readiness;
+- do this in a context where CQC preparation is new to the organisation.
+
+This does not mean the club is assumed to require CQC registration. The research remains focused on understanding, preparation, and evidence.
+
+## Audience
+
+The audience is not yet a commercial buying group. The primary audience is a Championship Rugby League organisation that needs to learn and prepare.
+
+| Audience | Need |
+| --- | --- |
+| Board/CEO | Understand risk, accountability, inspection exposure, decisions needed, and what assurance should look like. |
+| Head of Medical | Translate existing clinical governance into CQC-style evidence, gaps, and preparation actions. |
+| Clinical team | Understand records, professional boundaries, incidents, medicines, concussion, confidentiality, and evidence expectations. |
+| Operations/match-day staff | Understand EAP, venue, treatment-room, equipment, contractor, ambulance, and communication evidence. |
+| Safeguarding/welfare staff | Understand where clinical governance overlaps with welfare, academy, mental health, and restricted information. |
+| External providers | Understand what evidence the club needs from cardiac screening, event medical, diagnostics, or other contractors. |
+
+## Immediate output
+
+The immediate output is an **online preparation and assurance knowledge base**, not a software implementation specification.
+
+It should be able to support:
+
+- a board-facing Head of Medical briefing;
+- a CQC scope decision record;
+- a minimum compliance/evidence pack;
+- RFL standards evidence mapping;
+- practical worked examples;
+- a gap analysis against inspection-style expectations;
+- a preparation route for a club that has never approached CQC before.
+
+## Rejected or secondary scopes
+
+| Scope | Current treatment |
+| --- | --- |
+| Full SaaS product specification | Deferred. Too early until research and validation are clearer. |
+| Commercial buyer/persona modelling | Deferred. Audience is organisational learning and preparation, not procurement. |
+| All professional sports | Secondary. Rugby League and Championship context should stay concrete first. |
+| All Rugby League competitions | Secondary. Championship is the starting example; Super League, WSL, academy, reserves, and community are comparison points. |
+| Legal advice product | Out of scope. The wiki can identify advice triggers but not provide legal determinations. |
+| Clinical decision-support tool | Out of scope. Clinical safety and medical-device issues would need separate analysis. |
+
+## What this means for roadmap items
+
+| Item | Scope implication |
+| --- | --- |
+| 1. Research audience and decision context | Now provisionally decided: online preparation platform for a Championship Rugby League organisation new to CQC. |
+| 2. Minimum compliance pack | Should focus on what a club needs to understand and gather before inspection-style scrutiny, not on final product forms. |
+| 3. RFL clause map | Should prioritise Championship relevance and board/Head of Medical interpretation. |
+| 4. Platform information architecture | Remains deferred, but future work can consider knowledge-base structure and preparation journey before software data models. |
+| 5. CQC scope question bank | Should be phrased as guided preparation and fact gathering, not an automated registration answer. |
+| 6. Tool landscape | Should remain a comparator for what existing tools can teach or support, not a vendor selection exercise. |
+
+## Assumptions to test
+
+- A Championship club may have medical and clinical governance, but not in a form that is obviously ready for CQC-style inspection.
+- A board and Head of Medical need plain-English preparation material before operational tooling.
+- The most useful first output is likely a guided evidence and understanding pathway, not a transactional compliance system.
+- The club needs to separate board assurance from confidential clinical records.
+- Existing tools may support parts of the evidence burden, but the club first needs to know what evidence matters.
+
+## Open decisions
+
+| Open decision | Why it matters |
+| --- | --- |
+| Is Sheffield Eagles the named working example, or should the site remain generic Championship? | Determines tone, examples, venue specificity, and board-pack realism. |
+| Should academy/scholarship be included in first-phase scope? | Adds safeguarding, parental consent, and child welfare complexity. |
+| Should the online platform be public education, internal club preparation, or both? | Changes language, confidentiality, and evidence examples. |
+| Should the next output be a guided preparation pathway through the wiki? | Would change navigation from research sections to task-based preparation. |
+| Should the platform compare "current governance" against "CQC inspection-grade governance"? | Could be the clearest bridge for a club new to CQC. |
+
+## Next research direction
+
+The next useful research direction is to define the **preparation journey**:
+
+1. What a Championship club needs to understand first.
+2. What facts it must collect.
+3. What evidence it must hold.
+4. What gaps it should expect.
+5. What should be escalated to legal/CQC/RFL/vendor review.
+
+That journey should be written for a club that has not previously prepared for CQC and may not know what "inspection-grade" evidence looks like.
+
+## Related pages
+
+- [Research Scope and Assumptions](research-scope-assumptions.md)
 - [Product Research Roadmap](product-research-roadmap.md)
 - [Board Briefing](board-briefing.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
@@ -3266,6 +3382,7 @@ This page records the main sources used and the point each source supports.
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
 | [Product Research Roadmap](product-research-roadmap.md) | Trackable research checklist, now prioritising items 2, 3, 5, and 6 before further solution design. |
 | [Research Scope and Assumptions](research-scope-assumptions.md) | Reframes item 1 as research audience, decision context, scope options, immediate output, and product-boundary assumptions. |
+| [Scope Decision Record](scope-decision-record.md) | Current scope decision: online preparation platform for a Championship Rugby League organisation new to CQC inspection-level readiness. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, generic compliance, and remaining market research questions. |
 | [Tool Capability Comparison](tool-capability-comparison.md) | Capability comparison across healthcare/CQC operations tools, sports EMRs, sports governance tools, and vendor verification questions. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
