@@ -49,6 +49,10 @@ This page records the main sources used and the point each source supports.
 | [LLM Wiki](https://llm-wiki.org/) | Reference pattern for a Material for MkDocs-based LLM-facing wiki. |
 | [mkdocs-llms-source on PyPI](https://pypi.org/project/mkdocs-llms-source/) | LLM outputs: `/llms.txt`, `/llms-full.txt`, and per-page Markdown copies. |
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Documentation theme and site structure. |
+| [GOV.UK: Writing for GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) | Page-length principle: no universal minimum or maximum; length depends on user need and clarity. |
+| [GOV.UK: Planning content](https://www.gov.uk/guidance/content-design/planning-content) | Avoid broad "everything you need to know" pages that are hard to navigate. |
+| [GOV.UK Design System: Pagination](https://design-system.service.gov.uk/components/pagination/) | Pattern for splitting related content across multiple pages when a single page becomes hard to use. |
+| [Newcastle University: Readability and writing for the web](https://www.ncl.ac.uk/design-system/ux/editorial/readability/) | Web users scan content; supports short, clearly structured pages with headings and chunks. |
 | [Radar Healthcare: CQC Compliance Software](https://radarhealthcare.com/product/cqc-compliance-software/) | Example of CQC-focused compliance/evidence, audit, action, and inspection readiness tooling. |
 | [Radar Healthcare: Audit Management Software](https://radarhealthcare.com/product/audit-management-software/) | Example of healthcare audit workflow, action tracking, and evidence capture. |
 | [Vantage: Compliance and Quality Management](https://vantage-technologies.co.uk/compliance-and-quality-management/) | Example of CQC compliance, quality management, governance, audit, and evidence tooling for health and care providers. |
@@ -74,4 +78,8 @@ This page records the main sources used and the point each source supports.
 | [Worked Examples](worked-examples.md) | Scenario testing for player-only care, public clinics, diagnostics, concussion, medicines, remote triage, contractors, and academy pathways. |
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
-| [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) | Product opportunity, competitor/tool landscape, CQC evidence mapping, MVP modules, and digital-health guardrails. |
+| [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
+| [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, and generic compliance. |
+| [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
+| [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
+| [Board CQC Response and Outcomes](board-cqc-response.md) | Detailed board workflow for CQC contact, factual accuracy, positive/negative outcomes, and enforcement risk. |

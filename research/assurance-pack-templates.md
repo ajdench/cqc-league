@@ -26,7 +26,7 @@ These templates turn the research into evidence a club can use repeatedly. They 
 
 This template is intended for the edge cases identified in [CQC Registration Edge Cases](cqc-registration-edge-cases.md), especially public clinics, diagnostics, remote triage, prescribing, injections, IV services, and contractor-controlled care.
 
-For platform design, this template should become a structured workflow rather than a static document. See [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md#1-registration-and-scope-decision-engine).
+For platform design, this template should become a structured workflow rather than a static document. See [Platform Product Blueprint](platform-product-blueprint.md#1-registration-and-scope-decision-engine).
 
 ## 2. Medical service statement of purpose
 
@@ -175,5 +175,5 @@ Agenda:
 - [Governance Operating Model](governance-operating-model.md) explains where these templates sit in board and committee routines.
 - [Worked Examples](worked-examples.md) shows when to use each template in practical club scenarios.
 - [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) provides the assurance structure behind the board report.
-- [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) explains how these templates could become stock documents, digital forms, evidence packs, and dashboards in an online product.
+- [Platform Product Blueprint](platform-product-blueprint.md) explains how these templates could become stock documents, digital forms, evidence packs, and dashboards in an online product.
 - [Source Map](source-map.md) lists the full external source set.

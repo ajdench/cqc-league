@@ -9,19 +9,38 @@ This file is an index of documentation pages. For all content in a single file, 
 
 - [Home](https://ajdench.github.io/cqc-league/index.md)
 
-## Research
+## Board and Decisions
 
 - [Board Briefing](https://ajdench.github.io/cqc-league/research/board-briefing.md)
+- [Board CQC Response and Outcomes](https://ajdench.github.io/cqc-league/research/board-cqc-response.md)
+- [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
+- [Worked Examples](https://ajdench.github.io/cqc-league/research/worked-examples.md)
+
+## CQC Framework
+
 - [CQC Governance Baseline](https://ajdench.github.io/cqc-league/research/cqc-governance-baseline.md)
 - [CQC Assurance Domains and Quality Statements](https://ajdench.github.io/cqc-league/research/cqc-assurance-domains-quality-statements.md)
 - [CQC Registration Edge Cases](https://ajdench.github.io/cqc-league/research/cqc-registration-edge-cases.md)
-- [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
-- [Worked Examples](https://ajdench.github.io/cqc-league/research/worked-examples.md)
-- [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
 - [Private Healthcare Synergies](https://ajdench.github.io/cqc-league/research/private-healthcare-synergies.md)
+
+## Rugby League Application
+
+- [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
+- [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
 - [Medicines, Prescribing, and Anti-Doping](https://ajdench.github.io/cqc-league/research/medicines-prescribing-anti-doping.md)
-- [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
+
+## Operating Model and Evidence
+
 - [Governance Operating Model](https://ajdench.github.io/cqc-league/research/governance-operating-model.md)
 - [Assurance Pack Templates](https://ajdench.github.io/cqc-league/research/assurance-pack-templates.md)
-- [Platform Opportunity and Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
+
+## Platform Product Research
+
+- [Platform Opportunity](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
+- [Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-tool-landscape.md)
+- [Product Blueprint](https://ajdench.github.io/cqc-league/research/platform-product-blueprint.md)
+- [MVP and Guardrails](https://ajdench.github.io/cqc-league/research/platform-mvp-and-guardrails.md)
+
+## Sources
+
 - [Source Map](https://ajdench.github.io/cqc-league/research/source-map.md)

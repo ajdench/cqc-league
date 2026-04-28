@@ -99,7 +99,7 @@ CQC [location rules](https://www.cqc.org.uk/guidance-providers/registration/what
 
 See [Assurance Pack Templates](assurance-pack-templates.md) for working templates.
 
-For a digital implementation of this workflow, see [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md#1-registration-and-scope-decision-engine).
+For a digital implementation of this workflow, see [Platform Product Blueprint](platform-product-blueprint.md#1-registration-and-scope-decision-engine).
 
 ## Related pages
 
@@ -107,4 +107,4 @@ For a digital implementation of this workflow, see [Platform Opportunity and Too
 - [Worked Examples](worked-examples.md) shows the model applied to common Rugby League club scenarios.
 - [Private Healthcare Synergies](private-healthcare-synergies.md) explains how independent healthcare providers structure the same registration discipline.
 - [Governance Operating Model](governance-operating-model.md) describes how to keep the assessment live after launch.
-- [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) shows how this model can become a product workflow with evidence mapping, reminders, and board reporting.
+- [Platform Product Blueprint](platform-product-blueprint.md) shows how this model can become a product workflow with evidence mapping, reminders, and board reporting.
