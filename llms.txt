@@ -15,6 +15,7 @@ This file is an index of documentation pages. For all content in a single file, 
 - [Board CQC Response and Outcomes](https://ajdench.github.io/cqc-league/research/board-cqc-response.md)
 - [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
 - [CQC Scope Decision Research](https://ajdench.github.io/cqc-league/research/cqc-scope-decision-research.md)
+- [CQC Scope Question Bank](https://ajdench.github.io/cqc-league/research/cqc-scope-question-bank.md)
 - [Worked Examples](https://ajdench.github.io/cqc-league/research/worked-examples.md)
 
 ## CQC Framework
@@ -29,6 +30,7 @@ This file is an index of documentation pages. For all content in a single file, 
 - [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
 - [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
 - [RFL Clause Evidence Map](https://ajdench.github.io/cqc-league/research/rfl-clause-evidence-map.md)
+- [RFL Clause Status Register](https://ajdench.github.io/cqc-league/research/rfl-clause-status-register.md)
 - [Medicines, Prescribing, and Anti-Doping](https://ajdench.github.io/cqc-league/research/medicines-prescribing-anti-doping.md)
 
 ## Operating Model and Evidence
@@ -41,8 +43,10 @@ This file is an index of documentation pages. For all content in a single file, 
 ## Platform Product Research
 
 - [Product Research Roadmap](https://ajdench.github.io/cqc-league/research/product-research-roadmap.md)
+- [Research Validation Plan](https://ajdench.github.io/cqc-league/research/research-validation-plan.md)
 - [Platform Opportunity](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
 - [Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-tool-landscape.md)
+- [Tool Capability Comparison](https://ajdench.github.io/cqc-league/research/tool-capability-comparison.md)
 - [Product Blueprint](https://ajdench.github.io/cqc-league/research/platform-product-blueprint.md)
 - [MVP and Guardrails](https://ajdench.github.io/cqc-league/research/platform-mvp-and-guardrails.md)
 

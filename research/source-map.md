@@ -85,10 +85,14 @@ This page records the main sources used and the point each source supports.
 | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) | Research inventory for the evidence pack, including source anchors, candidate components, evidence categories, validation gaps, and open questions. |
 | [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Tests the minimum pack against player-only care, cardiac screening, public/private clinic risk, remote triage, concussion, and contractor event-medical cover. |
 | [CQC Scope Decision Research](cqc-scope-decision-research.md) | Research protocol for the facts, evidence, outcomes, and advice triggers needed before designing any CQC scope decision tool. |
+| [CQC Scope Question Bank](cqc-scope-question-bank.md) | Neutral question bank, scenario test, outcome evidence thresholds, and stop/advice triggers for item 5. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
 | [Product Research Roadmap](product-research-roadmap.md) | Trackable research checklist, now prioritising items 2, 3, 5, and 6 before further solution design. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, generic compliance, and remaining market research questions. |
+| [Tool Capability Comparison](tool-capability-comparison.md) | Capability comparison across healthcare/CQC operations tools, sports EMRs, sports governance tools, and vendor verification questions. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
 | [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
 | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards research map for A1-F11, including maturity, status triage, evidence owners, cadence, CQC lens, and validation gaps. |
+| [RFL Clause Status Register](rfl-clause-status-register.md) | RFL status, Championship relevance, board-visible evidence, restricted clinical evidence, and validation gaps. |
+| [Research Validation Plan](research-validation-plan.md) | Validation plan for Head of Medical, board, operations, safeguarding, RFL, CQC/legal, vendor, and information-governance review before solution design. |
 | [Board CQC Response and Outcomes](board-cqc-response.md) | Detailed board workflow for CQC contact, factual accuracy, positive/negative outcomes, and enforcement risk. |

@@ -20,21 +20,22 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Private Healthcare Synergies](research/private-healthcare-synergies.md) to borrow governance controls from independent healthcare providers.
 - Use [Medicines, Prescribing, and Anti-Doping](research/medicines-prescribing-anti-doping.md) for the highest-risk operational interface between clinical care and elite sport.
 - Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
-- Use [CQC Scope Decision Research](research/cqc-scope-decision-research.md) to identify the facts and evidence needed before any decision tool is designed.
+- Use [CQC Scope Decision Research](research/cqc-scope-decision-research.md) and [CQC Scope Question Bank](research/cqc-scope-question-bank.md) to identify the facts and evidence needed before any decision tool is designed.
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
 - Use [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) to understand the evidence pack before turning it into final templates or software fields.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
 - Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
+- Use [Research Validation Plan](research/research-validation-plan.md) before moving from research into solution design.
 
 ## Site structure
 
 The research is split into logical sections:
 
-- **Board and Decisions**: board briefing, CQC response, registration decision workflow, CQC scope research, and worked examples.
+- **Board and Decisions**: board briefing, CQC response, registration decision workflow, CQC scope research, question bank, and worked examples.
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
-- **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, medicines, prescribing, and anti-doping.
+- **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, clause status register, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, minimum compliance pack research, templates, and evidence packs.
-- **Platform Product Research**: product roadmap, opportunity, tool landscape, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -49,9 +50,10 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Current CQC registration scope starts with [CQC: Scope of registration](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration).
 - The initial board-facing output is [Board Briefing](research/board-briefing.md).
 - The sport-specific regulatory boundary is explored in [CQC Registration Edge Cases](research/cqc-registration-edge-cases.md).
-- CQC decision-tool research is separated in [CQC Scope Decision Research](research/cqc-scope-decision-research.md) so the wiki does not jump straight to a software answer.
+- CQC decision-tool research is separated in [CQC Scope Decision Research](research/cqc-scope-decision-research.md) and [CQC Scope Question Bank](research/cqc-scope-question-bank.md) so the wiki does not jump straight to a software answer.
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - The minimum evidence pack is researched in [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and tested against practical scenarios in [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) before being turned into templates.
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
 - The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
+- The [Research Validation Plan](research/research-validation-plan.md) records what must be confirmed with club, RFL, CQC/legal, vendor, and information-governance sources.

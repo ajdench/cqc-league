@@ -1,6 +1,6 @@
 # CQC Scope Decision Research
 
-This page records the research needed before any "CQC scope decision wizard" is designed. The goal is to understand the regulatory decision, not to jump directly to software.
+This page records the research needed before any "CQC scope decision wizard" is designed. The goal is to understand the regulatory decision, not to jump directly to software. The question set is captured separately in [CQC Scope Question Bank](cqc-scope-question-bank.md).
 
 The core research question is: **what facts must a professional Rugby League club establish before it can safely conclude that a medical service is outside scope, excluded, contractor-led, or potentially registerable?**
 
@@ -64,6 +64,7 @@ Item 5 should only be marked research-complete when:
 ## Related pages
 
 - [Registration Decision Model](registration-decision-model.md)
+- [CQC Scope Question Bank](cqc-scope-question-bank.md)
 - [CQC Registration Edge Cases](cqc-registration-edge-cases.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Assurance Pack Templates](assurance-pack-templates.md)

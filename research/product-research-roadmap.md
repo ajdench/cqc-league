@@ -8,10 +8,10 @@ This page records the next research tasks for a Rugby League CQC governance plat
 | --- | --- | --- | --- |
 | Deferred | 1. Define target users and buying groups | Product persona page | Still needed, but not the next research pass. |
 | Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
-| Research baseline added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | First-pass map strengthened with research maturity, status triage, and validation gaps. |
+| Status register added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) and [RFL Clause Status Register](rfl-clause-status-register.md) | Status, Championship relevance, record visibility, and validation gaps added. Still needs RFL/Head of Medical validation. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
-| Research baseline added | 5. Research CQC scope decision workflow | [CQC Scope Decision Research](cqc-scope-decision-research.md) | Reframed from "prototype a wizard" to factual research and decision evidence. |
-| Research baseline added | 6. Deepen market and tool research | [Platform Tool Landscape](platform-tool-landscape.md) | Reframed as market learning, capability gaps, and research still needed before build/buy decisions. |
+| Question bank added | 5. Research CQC scope decision workflow | [CQC Scope Decision Research](cqc-scope-decision-research.md) and [CQC Scope Question Bank](cqc-scope-question-bank.md) | Question bank added and tested against the six scenarios. Still needs regulatory validation. |
+| Capability comparison added | 6. Deepen market and tool research | [Platform Tool Landscape](platform-tool-landscape.md) and [Tool Capability Comparison](tool-capability-comparison.md) | Capability comparison and vendor verification questions added. Still needs vendor/current-system validation. |
 
 ## Working priorities
 
@@ -53,7 +53,7 @@ Current output: [Minimum Compliance Pack Research](minimum-compliance-pack-resea
 
 ### 3. RFL clause-by-clause map
 
-The first-pass detailed map is in [RFL Clause Evidence Map](rfl-clause-evidence-map.md). It should be treated as a research baseline, not a final control library. It still needs:
+The first-pass detailed map is in [RFL Clause Evidence Map](rfl-clause-evidence-map.md), with status and visibility detail in [RFL Clause Status Register](rfl-clause-status-register.md). It should be treated as a research baseline, not a final control library. It still needs:
 
 - exact mandatory versus best-practice status;
 - competition-specific differences;
@@ -80,7 +80,7 @@ The [Registration Decision Model](registration-decision-model.md) should be expa
 - capture evidence and legal/clinical review points;
 - trigger reassessment when the service model changes.
 
-Current output: [CQC Scope Decision Research](cqc-scope-decision-research.md).
+Current output: [CQC Scope Decision Research](cqc-scope-decision-research.md) and [CQC Scope Question Bank](cqc-scope-question-bank.md).
 
 ### 6. Market and tool research
 
@@ -92,12 +92,18 @@ The expanded [Platform Tool Landscape](platform-tool-landscape.md) should be use
 - which product claims create clinical safety, information governance, or medical-device risk;
 - what evidence clubs would need to procure or integrate any tool safely.
 
+Current output: [Platform Tool Landscape](platform-tool-landscape.md) and [Tool Capability Comparison](tool-capability-comparison.md).
+
 ## Related pages
 
+- [Research Validation Plan](research-validation-plan.md)
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Decision Research](cqc-scope-decision-research.md)
+- [CQC Scope Question Bank](cqc-scope-question-bank.md)
+- [RFL Clause Status Register](rfl-clause-status-register.md)
+- [Tool Capability Comparison](tool-capability-comparison.md)
 - [Platform Tool Landscape](platform-tool-landscape.md)
 - [Platform Product Blueprint](platform-product-blueprint.md)
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md)
