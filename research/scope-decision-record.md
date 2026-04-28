@@ -4,7 +4,7 @@ This page records the current scope decision for the research. It should be revi
 
 ## Decision
 
-The working scope is an **online research and preparation platform for a Championship Rugby League team**, using a Championship club as the starting example.
+The working scope is an **online CQC inspection preparation platform for professional sports clubs**, using a Championship Rugby League Club as the starting example.
 
 The platform should help the organisation:
 
@@ -19,7 +19,7 @@ This does not mean the club is assumed to require CQC registration. The research
 
 ## Audience
 
-The audience is not yet a commercial buying group. The primary audience is a Championship Rugby League organisation that needs to learn and prepare.
+The audience is not yet a commercial buying group. The primary audience is a professional sports club that needs to learn and prepare for CQC inspection-level scrutiny, with a Championship Rugby League Club used as the first worked example.
 
 | Audience | Need |
 | --- | --- |
@@ -50,7 +50,7 @@ It should be able to support:
 | --- | --- |
 | Full SaaS product specification | Deferred. Too early until research and validation are clearer. |
 | Commercial buyer/persona modelling | Deferred. Audience is organisational learning and preparation, not procurement. |
-| All professional sports | Secondary. Rugby League and Championship context should stay concrete first. |
+| All professional sports in depth | Secondary. The platform scope can be broader than Rugby League, but the first research examples should stay concrete. |
 | All Rugby League competitions | Secondary. Championship is the starting example; Super League, WSL, academy, reserves, and community are comparison points. |
 | Legal advice product | Out of scope. The wiki can identify advice triggers but not provide legal determinations. |
 | Clinical decision-support tool | Out of scope. Clinical safety and medical-device issues would need separate analysis. |
@@ -59,7 +59,7 @@ It should be able to support:
 
 | Item | Scope implication |
 | --- | --- |
-| 1. Research audience and decision context | Now provisionally decided: online preparation platform for a Championship Rugby League organisation new to CQC. |
+| 1. Research audience and decision context | Now provisionally decided: online CQC inspection preparation platform for professional sports clubs, starting with a Championship Rugby League Club new to CQC. |
 | 2. Minimum compliance pack | Should focus on what a club needs to understand and gather before inspection-style scrutiny, not on final product forms. |
 | 3. RFL clause map | Should prioritise Championship relevance and board/Head of Medical interpretation. |
 | 4. Platform information architecture | Remains deferred, but future work can consider knowledge-base structure and preparation journey before software data models. |
@@ -68,7 +68,7 @@ It should be able to support:
 
 ## Assumptions to test
 
-- A Championship club may have medical and clinical governance, but not in a form that is obviously ready for CQC-style inspection.
+- A professional sports club may have medical and clinical governance, but not in a form that is obviously ready for CQC-style inspection.
 - A board and Head of Medical need plain-English preparation material before operational tooling.
 - The most useful first output is likely a guided evidence and understanding pathway, not a transactional compliance system.
 - The club needs to separate board assurance from confidential clinical records.
@@ -88,13 +88,13 @@ It should be able to support:
 
 The next useful research direction is to define the **preparation journey**:
 
-1. What a Championship club needs to understand first.
+1. What a professional sports club needs to understand first.
 2. What facts it must collect.
 3. What evidence it must hold.
 4. What gaps it should expect.
-5. What should be escalated to legal/CQC/RFL/vendor review.
+5. What should be escalated to legal, CQC, league, governing-body, or vendor review.
 
-That journey should be written for a club that has not previously prepared for CQC and may not know what "inspection-grade" evidence looks like.
+That journey should be written for a professional sports club that has not previously prepared for CQC and may not know what "inspection-grade" evidence looks like.
 
 ## Related pages
 
