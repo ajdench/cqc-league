@@ -2,13 +2,13 @@
   align-items: center;
   display: inline-flex !important;
   justify-content: center;
-  min-width: 5rem;
+  min-width: 3.33rem;
 }
 
 .md-header__button.md-logo img,
 .md-nav__button.md-logo img {
-  height: 2.65rem;
+  height: 1.77rem;
   max-width: none;
-  min-width: 4.95rem;
+  min-width: 3.3rem;
   width: auto;
 }
