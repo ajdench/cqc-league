@@ -56,14 +56,15 @@ This page records the main sources used and the point each source supports.
 | [Radar Healthcare: CQC Compliance Software](https://radarhealthcare.com/product/cqc-compliance-software/) | Example of CQC-focused compliance/evidence, audit, action, and inspection readiness tooling. |
 | [Radar Healthcare: Audit Management Software](https://radarhealthcare.com/product/audit-management-software/) | Example of healthcare audit workflow, action tracking, and evidence capture. |
 | [Vantage: Compliance and Quality Management](https://vantage-technologies.co.uk/compliance-and-quality-management/) | Example of CQC compliance, quality management, governance, audit, and evidence tooling for health and care providers. |
-| [QCS](https://www.qcs.co.uk/) | Example of policy, procedure, audit, and compliance support for regulated health and care providers. |
+| [QCS Compliance Centre](https://www.qcs.co.uk/qcs-compliance-centre/) | Example of policy, procedure, audit, and compliance support for regulated health and care providers. |
+| [Log my Care: CQC and digital records](https://www.logmycare.co.uk/blog/cqc-recommends-going-digital) | Example of social-care digital record and CQC-readiness tooling, useful as a comparator but not a sports medical workflow. |
 | [Kitman Labs: Performance Medicine](https://www.kitmanlabs.com/platform/performance-medicine/) | Example of elite sports medicine records, injury/illness management, and athlete health workflow. |
 | [Teamworks AMS / Smartabase](https://teamworks.com/smartabase) | Example of athlete management, sports science, and medical data platform used in performance environments. |
 | [AthleteMonitoring: Electronic Medical Records](https://www.athletemonitoring.com/electronic-medical-records/) | Example of sports EMR, injury tracking, SOAP notes, medication, and return-to-play record capability. |
 | [SportsWareOnLine](https://sportswareonline.com/) | Example of athlete health record, injury, treatment, rehabilitation, and reporting software. |
 | [Orreco: Medical Notes](https://www.orreco.ai/modules/medical-notes) | Example of sports medical notes and athlete health data capture. |
 | [SportLoMo: Governance and Safe Sport](https://www.sportlomo.com/governance-and-safe-sport/) | Example of sports governance, safe sport, certification, and participant-management tooling. |
-| [Globocol: Health and Safety in Sport Software](https://www.globocol.com/health-safety-sport-software) | Example of sports health and safety, incident, risk, and compliance management tooling. |
+| [Globocol: Safeguarding in Sport Software](https://www.globocol.com/safeguarding-sport-software) | Example of sport-specific safeguarding, incident reporting, investigation, case management, audit trail, and compliance tooling. |
 | [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/) | Example of safeguarding and welfare case-management tooling adapted to sports clubs. |
 | [Sport:80 Compliance Management](https://www.sport80.com/uk/features/compliance-management) | Example of sports compliance, eligibility, certifications, and document/workflow management. |
 | [ICO: Special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/) | Health data and confidentiality guardrails for player medical records and platform design. |
@@ -79,7 +80,9 @@ This page records the main sources used and the point each source supports.
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
+| [Product Research Roadmap](product-research-roadmap.md) | Trackable checklist for research and product work, including completed tool research and RFL clause mapping. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, and generic compliance. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
 | [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
+| [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards evidence map for A1-F11, including owners, cadence, CQC lens, and platform implications. |
 | [Board CQC Response and Outcomes](board-cqc-response.md) | Detailed board workflow for CQC contact, factual accuracy, positive/negative outcomes, and enforcement risk. |

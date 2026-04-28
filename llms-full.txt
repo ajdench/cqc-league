@@ -31,7 +31,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
-- Use [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
+- Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 
 ## Site structure
 
@@ -39,9 +39,9 @@ The research is split into logical sections:
 
 - **Board and Decisions**: board briefing, CQC response, registration decision workflow, and worked examples.
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
-- **Rugby League Application**: sport-specific application, RFL standards, medicines, prescribing, and anti-doping.
+- **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, templates, and evidence packs.
-- **Platform Product Research**: product opportunity, tool landscape, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, opportunity, tool landscape, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -59,7 +59,7 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
-- The product opportunity is split across [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
+- The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
 
 ## Board and Decisions
 
@@ -1272,6 +1272,8 @@ For a professional Rugby League club, the prudent position is not "CQC never app
 
 This page maps the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) to CQC-style assurance. The standards are part of the RFL Operational Rules and are mandatory where marked as mandatory.
 
+For an operational clause-by-clause evidence checklist, use [RFL Clause Evidence Map](rfl-clause-evidence-map.md). This page remains the higher-level board and governance summary.
+
 The 2026 standards expressly say they should be applied in accordance with UK healthcare legislation, professional regulator guidance, recognised professional bodies, best practice, and clinical governance standards such as CQC. That makes a CQC-style governance map appropriate even where the club is outside CQC registration. For the CQC assessment lens, see [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md).
 
 ## RFL structure and CQC alignment
@@ -1404,6 +1406,7 @@ The RFL standards are strong sport-specific controls. The CQC-style additions ar
 ## Related pages
 
 - [Professional Rugby League Application](rugby-league-application.md) explains the sport-specific CQC boundary.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) provides the detailed evidence checklist for A1-F11.
 - [Governance Operating Model](governance-operating-model.md) turns this standards map into board reporting.
 - [Assurance Pack Templates](assurance-pack-templates.md) includes the incident, concussion, medicines and annual-review templates.
 
@@ -1414,6 +1417,124 @@ The RFL standards are strong sport-specific controls. The CQC-style additions ar
 - [RFL: Concussion Statement](https://www.rugby-league.com/governance/medical/concussion/concussion-statement)
 - [CQC: Assessment framework](https://www.cqc.org.uk/guidance-regulation/providers/assessment/assessment-framework)
 - [CQC: Governance, management and sustainability](https://www.cqc.org.uk/guidance-regulation/providers/assessment/single-assessment-framework/well-led/governance-management-sustainability)
+
+### RFL Clause Evidence Map
+
+# RFL Clause Evidence Map
+
+This page is a first-pass operational map from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into CQC-style evidence. It sits beneath the higher-level [RFL Medical Standards Map](rfl-medical-standards-map.md).
+
+The purpose is not to reproduce the RFL standards. It is to identify what a club should be able to show to a board, league body, CQC, insurer, or external reviewer if asked, "How do you know this medical service is governed?"
+
+## How to read the map
+
+| Field | Meaning |
+| --- | --- |
+| RFL area | Clause or clause group in the 2026 standards. |
+| Evidence to hold | Practical records a club should retain or generate. |
+| Primary owner | Usual accountable role. |
+| Cadence | When the evidence should be checked. |
+| CQC lens | Closest CQC-style assurance domain. |
+| Platform implication | What an online platform should capture or automate. |
+
+## Section A: Medical personnel
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| A1: Medical staff registration with the RFL | RFL registration status, professional registration, role, scope, indemnity, DBS where relevant, expiry dates. | Head of Medical | Pre-season and before appointment | Safe; well-led | Workforce register with expiry alerts and evidence uploads. |
+| A2: Definition of medical staff terms | Role descriptions for doctor, physiotherapist, paramedic, sports rehabilitator, sports therapist, first aider, and locum/second clinician. | Head of Medical | Pre-season and onboarding | Safe; effective | Role templates mapped to permitted duties and escalation limits. |
+| A3: Prehospital trauma courses | IMMOFP/iIMMOFP or accepted equivalent, course dates, recertification, evidence of practical competence. | Head of Medical | Pre-season and expiry | Safe; effective | Credential matrix with blocked deployment if mandatory training lapses. |
+| A4: Medical staff attendance at matches and training | Match and training cover rota, acceptance of fixture cover, absences, substitutions, locum induction. | Head of Medical and operations | Every fixture and training block | Safe; responsive | Cover planner linked to fixture and training calendars. |
+| A5a-f: Match-day medical roles and responsibilities | Named medical team, home/away responsibilities, communications equipment checks, pitch-side treatment rules, second clinician arrangements, competition-specific minimum cover. | Match-day doctor or lead clinician | Every fixture | Safe; well-led | Match-day checklist with role assignment, confirmations, and exception log. |
+| A6: Urgent medical cover situations | Contingency plan for loss of doctor, paramedic, ambulance, equipment, communications, or venue access. | Head of Medical and match operations | Every fixture and incident review | Safe; responsive | Contingency workflow with "cannot proceed" decision points. |
+| A7: Medical duties | Accountability for mandatory equipment, venue readiness, medical decisions, documentation, and player welfare. | Match-day lead clinician | Every fixture | Safe; effective; caring | Duty checklist and after-action confirmation. |
+| A8: Medical treatment for teams travelling to France | Travel medical plan, insurance, records, medicine controls, French provider arrangements, legal/indemnity review. | Head of Medical and operations | Before relevant travel | Safe; well-led | Travel service-risk checklist and document pack. |
+
+## Section B: Ethics, governance, planning, information and data
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| B1: Medical note keeping, RFL research, injury audit | Clinical record policy, named record system, record completeness audit, injury audit submissions, research/data-sharing approvals. | Head of Medical | Continuous; quarterly audit | Safe; effective; well-led | Secure records/evidence index with completeness dashboard. |
+| B2: Sharing information | Consent/confidentiality policy, player information sheet, disclosure log, role-based access model. | Head of Medical and data protection lead | Pre-season and each disclosure | Caring; well-led | Information-sharing workflow with reason, recipient, consent/legal basis, and audit trail. |
+| B3: Loan-player information sharing | Loan medical handover record, parent-club notification, injury/concussion/medicine status, access limits. | Head of Medical | Each loan movement and incident | Safe; responsive | Loan-player workflow with mandatory handover fields. |
+| B4: Reporting death or serious injury | Serious incident protocol, notification record, incident chronology, board notification, learning review. | Head of Medical and chief executive | Each incident | Safe; well-led | Serious incident case file and notification checklist. |
+| B5: Medical emergency action plan | Site-specific EAP for stadium and training venues, ambulance access, emergency department details, communications route, next-of-kin route, review date. | Head of Medical and operations | Pre-season, venue change, match change | Safe; responsive | Venue EAP module with version control and sharing log. |
+| B6: Pre-match briefing by home club | Briefing attendance, agenda, emergency roles, equipment confirmation, ambulance access, opposition sign-off. | Home club lead clinician | Every home fixture | Safe; well-led | Digital pre-match briefing form with opposition acknowledgement. |
+| B7a-e: On-field processes | Green card, blood bin, kick-off, 18th player, injured-player process records and post-match exception review. | Match-day lead clinician | Every fixture | Safe; effective | Fixture process checklist and exception reporting. |
+
+## Section C: Equipment and facilities
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| C1: Mandatory medical equipment and mandatory drugs box | Equipment inventory, drug box list, expiry dates, oxygen/AED checks, missing item escalation. | Head of Medical | Before fixtures/training and monthly | Safe | Equipment register with barcode/photo evidence and expiry alerts. |
+| C2: Full minimum equipment and best practice list | Competition-specific equipment checklist, best-practice gap log, action plan. | Head of Medical | Pre-season and quarterly | Safe; effective | Checklist library by competition and venue type. |
+| C3: Clinical waste disposal | Waste contract, sharps process, collection records, spill process, incident log. | Head of Medical and operations | Monthly and after incidents | Safe | Waste compliance record and incident linkage. |
+| C4: Treatment-room facility standards | Room audit, stretcher access, handwashing, cleanable surfaces, privacy, internet access for notes, clinical waste, infection prevention. | Head of Medical and venue operations | Pre-season, venue change, quarterly | Safe; caring | Venue facility audit with photo evidence and action tracking. |
+
+## Section D: Anti-doping
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| D1: Anti-doping | Anti-doping policy, education records, player/support-person acknowledgements, UKAD/RFL communication records. | Head of Medical and anti-doping lead | Pre-season and updates | Safe; well-led | Policy acknowledgement and training register. |
+| D2: Checking medication and supplements | Medication check record, [Global DRO / UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) evidence, supplement risk discussion, prescribing notes. | Prescriber or lead clinician | Each medicine/supplement decision | Safe; effective | Medicine check workflow linked to player and clinician. |
+| D3: Prohibited substances and TUE | TUE decision record, proactive/retroactive TUE status, supporting clinical evidence, submission and outcome dates. | Club doctor | Each relevant treatment | Safe; well-led | TUE tracker with deadline and document controls. |
+| D3a-c: IV infusions and TUE routes | IV indication, volume, setting, clinician, TUE assessment, emergency rationale if applicable. | Club doctor | Each IV use | Safe; effective | High-risk medicine/procedure form with escalation. |
+| D4-D5: Special topics and beta-2 agonists | Inhaler medicine checks, diagnosis evidence, dose advice, player education, exception review. | Club doctor | Each relevant prescription/review | Safe | Condition-specific medicine checklist. |
+
+## Section E: Concussion and head injuries
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| E1: Purpose, scope and interpretation | Club concussion policy, RFL guidance acknowledgement, player/staff education. | Head of Medical | Pre-season and rule change | Safe; well-led | Policy versioning and training acknowledgement. |
+| E2: Pre-season baselines and assessments | Baseline register, Cognigram status, SCAT6 status, unavailable/invalid baseline plan. | Head of Medical | Before contact training and season | Safe; effective | Baseline dashboard with "not cleared for contact" status. |
+| E2.1-E2.5: Cognigram, SCAT6 and neurological assessments | Test reports, invalid baseline exception, additional assessment rationale. | Club doctor or delegated clinician | Pre-season and post-injury | Safe; effective | Assessment record store linked to clearance workflow. |
+| E3: Recognise and remove | Removal record, signs/symptoms, pitch-side decision, player refusal/escalation if relevant. | Match/training clinician | Each suspected head injury | Safe; caring | Incident form with mandatory "removed/not returned" fields. |
+| E3.2: Pitch-side replay | Availability and use of replay, limitation where unavailable, decision note. | Match-day doctor | Each relevant fixture | Safe | Replay availability field in fixture setup. |
+| E4: HIA process | HIA form, time removed, assessment outcome, structural head injury screen, interchange notifications. | Match-day doctor | Each HIA | Safe; effective | HIA workflow with mandatory timestamps and upload/export. |
+| E5: Post-match and training | 3-48 hour aftercare advice, serial evaluations, welfare checks, transport/driving advice. | Club doctor or delegated clinician | Each concussion/suspected concussion | Caring; responsive | Follow-up schedule and player advice confirmation. |
+| E6: Graduated return to play | GRTP stage record, symptom checks, doctor oversight, failed-stage action, final clearance. | Club doctor | Each concussion | Safe; effective | GRTP workflow with stage gates and clearance lock. |
+| E7: Doctor concussion reporting | RFL concussion report, 24-hour submission evidence, parent-club notification, return-to-play form, post-injury Cognigram, specialist reports. | Club doctor | Each concussion | Safe; well-led | Deadline tracker and export pack for RFL/club board. |
+| E8: SCOAT | SCOAT use, findings, follow-up plan, specialist referral where required. | Club doctor | Each relevant office assessment | Effective | Assessment upload and referral tracker. |
+
+## Section F: RFL medical policies
+
+| RFL area | Evidence to hold | Primary owner | Cadence | CQC lens | Platform implication |
+| --- | --- | --- | --- | --- | --- |
+| F1-F2: Blood-borne infectious diseases | BBV policy, bleeding injury process, hepatitis B screening/vaccination status where relevant, contaminated equipment process. | Head of Medical | Pre-season and incidents | Safe | BBV checklist linked to infection-control and player records. |
+| F3: Cardiac screening | Screening plan, provider contract, provider registration/exemption rationale, attendance, abnormal result pathway, clearance and communication records. | Head of Medical and club doctor | Annually where mandatory | Safe; effective; well-led | Screening workflow with provider due diligence and abnormal-result action tracking. |
+| F3.1-F3.4: Cardiac screening general, requirements, frequency, providers | Questionnaire, physical exam, ECG/echo or provider-defined results as applicable, provider credentials, annual completion status. | Club doctor | Annually and on player onboarding | Safe; effective | Clinical screening register and participation gate. |
+| F4: Turning players over on field of play | Staff training, spinal injury protocol, scenario practice, incident review. | Head of Medical | Pre-season and after incident | Safe | Training record and simulation log. |
+| F5: Protective and other equipment | Advice records on head guards, mouth guards, boxes, padding, player acknowledgement. | Clinician or welfare lead | Pre-season and as needed | Safe; caring | Player education and advice log. |
+| F6-F8: Mental health counselling, mental health training, insomnia | Counselling route, crisis pathway, mental health training record, insomnia advice/escalation pathway. | Head of Medical and welfare lead | Pre-season and case-by-case | Caring; responsive | Welfare referral directory and training dashboard. |
+| F9: Social and non-prescribed prescription drugs policy | Policy acknowledgement, concern record, case review, RFL escalation where required, confidential support route. | Head of Medical and welfare lead | Pre-season and each case | Safe; caring; well-led | Protected case-management workflow with restricted access. |
+| F10: Loan protocols | Loan handover, fitness status, injury/concussion/medicine disclosure controls, parent-club updates. | Head of Medical | Each loan movement | Safe; responsive | Loan-player transfer checklist. |
+| F11: Infection control policy | Infection control policy, audit, cleaning records, outbreak/escalation process, PPE and hand hygiene evidence. | Head of Medical and operations | Quarterly and incidents | Safe | Infection-control audit and action tracker. |
+
+## Evidence pack generated from the clause map
+
+An online platform should be able to generate these packs from the above records:
+
+- **Board assurance pack**: compliance dashboard, overdue risks, incidents, action plan, and service-model changes.
+- **RFL assurance pack**: medical staff, equipment, EAP, concussion, cardiac screening, anti-doping, and mandatory policy evidence.
+- **CQC scope pack**: service description, provider/control model, sports exclusion rationale, diagnostics/clinic/remote advice checks, and evidence that governance exists even where registration is not required.
+- **Incident pack**: serious injury/death chronology, notifications, clinical records, debrief, learning, duty-of-candour analysis where relevant.
+- **Player transfer/loan pack**: agreed medical handover, confidentiality basis, current restrictions, concussion status, and medicines/TUE status.
+
+## Gaps to resolve before software build
+
+- Confirm competition-specific variations for Championship, Super League, Women's Super League, academy, reserves, and community contexts.
+- Confirm which RFL evidence is mandatory, best practice, or information only for the specific club.
+- Decide whether the platform stores clinical notes directly or references a specialist sports EMR.
+- Define board-visible summaries that avoid inappropriate disclosure of confidential player health data.
+- Define CQC/legal review points for diagnostics, screening, prescribing, remote advice, ambulance transport, and public/private clinics.
+
+## Related pages
+
+- [RFL Medical Standards Map](rfl-medical-standards-map.md)
+- [Platform Product Blueprint](platform-product-blueprint.md)
+- [Platform MVP and Guardrails](platform-mvp-and-guardrails.md)
+- [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md)
+- [CQC Registration Edge Cases](cqc-registration-edge-cases.md)
 
 ### Medicines, Prescribing, and Anti-Doping
 
@@ -1867,6 +1988,104 @@ Agenda:
 
 ## Platform Product Research
 
+### Product Research Roadmap
+
+# Product Research Roadmap
+
+This page records the next research and build tasks for a Rugby League CQC governance platform. It is intended to be updated as work is completed, so the wiki stays aligned with the product thinking rather than becoming a static research dump.
+
+## Current checklist
+
+| Status | Item | Output in the wiki | Notes |
+| --- | --- | --- | --- |
+| [ ] | 1. Define target users and buying groups | Product persona page | Separate club board, Head of Medical, clinicians, safeguarding/welfare, league body, and external provider needs. |
+| [ ] | 2. Define the minimum viable compliance pack | Evidence-pack page or templates update | Convert the board summary into stock documents, registers, audit forms, and board reports. |
+| [x] | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Completed as a first-pass map from RFL clauses to evidence, owner, cadence, CQC lens, and platform field needs. |
+| [ ] | 4. Design the platform information architecture | Product blueprint update | Define modules, data objects, permissions, exports, integrations, and evidence-pack assembly. |
+| [ ] | 5. Prototype a CQC scope decision wizard | Registration decision model update | Turn the registration boundary questions into a structured club workflow with stored rationale and reassessment triggers. |
+| [x] | 6. Deepen market and tool research | [Platform Tool Landscape](platform-tool-landscape.md) | Completed as a fuller market map across CQC compliance, sports EMR, sports governance, safeguarding, and regulatory guardrails. |
+
+## Working priorities
+
+The current product hypothesis is that the strongest MVP is a **governance and evidence layer** for professional sports medical services, rather than a full replacement for existing sports medicine EMRs.
+
+The platform should initially help clubs answer four practical questions:
+
+1. Does this service model create CQC registration risk?
+2. What evidence proves the club's conclusion?
+3. Which RFL Medical Standards controls are complete, overdue, or weak?
+4. What board pack, CQC response pack, or league assurance pack can be generated from the evidence?
+
+## Backlog detail
+
+### 1. Target users and buying groups
+
+The wiki should separate user needs by role:
+
+- board and executive leaders need risk, assurance, and decision records;
+- Head of Medical needs operational control, clinical governance, and evidence production;
+- clinicians need efficient records, handovers, and professional independence;
+- safeguarding and welfare leads need escalation routes and protected information flows;
+- league or competition bodies may need aggregated assurance without inappropriate access to confidential medical records;
+- external providers need contract, scope, indemnity, and evidence boundaries.
+
+### 2. Minimum viable compliance pack
+
+The pack should turn the research into reusable documents:
+
+- CQC scope decision record;
+- statement of medical service model;
+- RFL Medical Standards dashboard;
+- clinical governance meeting template;
+- contractor due diligence checklist;
+- incident, serious injury, concussion, medicines, and complaint templates;
+- annual board assurance report.
+
+### 3. RFL clause-by-clause map
+
+The first-pass detailed map is in [RFL Clause Evidence Map](rfl-clause-evidence-map.md). It should be refined as the platform data model is built, especially around:
+
+- exact mandatory versus best-practice status;
+- competition-specific differences;
+- evidence owner;
+- evidence cadence;
+- platform fields and export format.
+
+### 4. Platform information architecture
+
+The existing [Platform Product Blueprint](platform-product-blueprint.md) should be expanded into data objects and permissions:
+
+- club, venue, service, provider, clinician, fixture, training session, player, incident, record, audit, action, evidence item, policy, board report;
+- role-based access for medical confidentiality, board assurance, safeguarding, and external contractors;
+- exports for CQC, RFL, board, insurer, and clinical audit use.
+
+### 5. CQC scope decision wizard
+
+The [Registration Decision Model](registration-decision-model.md) should become a decision workflow:
+
+- identify activity;
+- identify provider/control model;
+- test sports-ground and temporary sporting-event exclusions;
+- test diagnostics, remote advice, ambulance transport, medicines, and clinic triggers;
+- capture evidence and legal/clinical review;
+- trigger reassessment when the service model changes.
+
+### 6. Market and tool research
+
+The expanded [Platform Tool Landscape](platform-tool-landscape.md) should be used to decide whether to build, buy, or integrate. The current working assumption is:
+
+- build the CQC/RFL interpretation and evidence layer;
+- integrate with sports EMRs where clubs already use them;
+- avoid building clinical decision support unless clinical safety and medical-device requirements are deliberately addressed.
+
+## Related pages
+
+- [Platform Opportunity](platform-opportunity-tool-landscape.md)
+- [Platform Tool Landscape](platform-tool-landscape.md)
+- [Platform Product Blueprint](platform-product-blueprint.md)
+- [Platform MVP and Guardrails](platform-mvp-and-guardrails.md)
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md)
+
 ### Platform Opportunity
 
 # Platform Opportunity
@@ -1898,6 +2117,7 @@ The product opportunity is a **sports medical governance and CQC-readiness platf
 
 ## Split pages
 
+- [Product Research Roadmap](product-research-roadmap.md) tracks the agreed research and build tasks.
 - [Platform Tool Landscape](platform-tool-landscape.md) compares CQC compliance platforms, sports medicine EMRs, sports governance tools, and wider compliance systems.
 - [Platform Product Blueprint](platform-product-blueprint.md) maps CQC evidence categories into product modules, records, evidence packs, and board dashboards.
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) sets out build/buy/integrate options, minimum viable product, health data controls, clinical safety, and medical-device boundary risks.
@@ -1917,7 +2137,9 @@ The product opportunity is a **sports medical governance and CQC-readiness platf
 
 This page compares the software markets that overlap with a possible sports medical governance and CQC-readiness platform.
 
-Use it with [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Product Blueprint](platform-product-blueprint.md), and [Platform MVP and Guardrails](platform-mvp-and-guardrails.md).
+Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Product Blueprint](platform-product-blueprint.md), and [Platform MVP and Guardrails](platform-mvp-and-guardrails.md).
+
+This page completes roadmap item 6: deepen market and tool research.
 
 ## Market map
 
@@ -1925,9 +2147,50 @@ Use it with [Platform Opportunity](platform-opportunity-tool-landscape.md), [Pla
 | --- | --- | --- | --- |
 | CQC compliance and quality platforms | [Radar Healthcare CQC Compliance Software](https://radarhealthcare.com/product/cqc-compliance-software/), [Vantage Compliance and Quality Management](https://vantage-technologies.co.uk/compliance-and-quality-management/), [QCS](https://www.qcs.co.uk/) | CQC-aligned evidence, policies, audits, document control, action plans, incident/risk modules, dashboards, inspection readiness. | Not built around sports-ground exclusions, participant-only care, RFL medical standards, anti-doping, athlete confidentiality, loan players, match-day/training-ground records, or dual clinical/performance reporting. |
 | Sports medicine EMR and athlete management | [Kitman Labs Performance Medicine](https://www.kitmanlabs.com/platform/performance-medicine/), [Teamworks AMS / Smartabase](https://teamworks.com/smartabase), [AthleteMonitoring EMR](https://www.athletemonitoring.com/electronic-medical-records/), [SportsWareOnLine](https://sportswareonline.com/), [Orreco Medical Notes](https://www.orreco.ai/modules/medical-notes) | Athlete health records, injury and illness logs, SOAP notes, return-to-play, concussion, availability, diagnostics, medication/TUE tracking, performance data integration. | Usually framed as athlete care/performance medicine rather than CQC assessment evidence, regulated activity decisions, provider registration packs, CQC factual accuracy response, board assurance, or CQC-style policy control. |
-| Sports governance, safeguarding, and health and safety | [SportLoMo Governance and Safe Sport](https://www.sportlomo.com/governance-and-safe-sport/), [Globocol Health and Safety in Sport](https://www.globocol.com/health-safety-sport-software), [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/), [Sport:80 Compliance Management](https://www.sport80.com/uk/features/compliance-management) | Safeguarding, vetting, certification, incident and injury workflows, audit trails, policy acknowledgement, concussion/return-to-play controls, club/federation reporting. | Strong on sport compliance, but not a CQC/private healthcare governance platform. Clinical records, medicines, regulated activities, provider registration, CQC evidence categories, and quality-statement assurance would still need a separate layer. |
+| Sports governance, safeguarding, and health and safety | [SportLoMo Governance and Safe Sport](https://www.sportlomo.com/governance-and-safe-sport/), [Globocol Safeguarding in Sport](https://www.globocol.com/safeguarding-sport-software), [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/), [Sport:80 Compliance Management](https://www.sport80.com/uk/features/compliance-management) | Safeguarding, vetting, certification, incident and injury workflows, audit trails, policy acknowledgement, concussion/return-to-play controls, club/federation reporting. | Strong on sport compliance, but not a CQC/private healthcare governance platform. Clinical records, medicines, regulated activities, provider registration, CQC evidence categories, and quality-statement assurance would still need a separate layer. |
 | Generic healthcare incident/risk/audit systems | [Radar Healthcare Audit Management](https://radarhealthcare.com/product/audit-management-software/), Datix-style incident systems, generic GRC/EHS tools | Audits, incidents, risks, action plans, dashboards, evidence trails, safety learning. | Often too broad, hospital/social-care oriented, or not athlete-workflow friendly. May not capture sports medical edge cases without extensive configuration. |
 | Regulatory and digital-health guardrails | [CQC evidence categories](https://www.cqc.org.uk/guidance-regulation/providers/assessment/evidence-categories), [ICO special category data guidance](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/), [NHS clinical safety DCB0129](https://standards.nhs.uk/published-standards/clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems), [MHRA software and AI as a medical device](https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device) | Evidence taxonomy, health data duties, clinical risk management, medical-device boundary. | These are not products, but they shape product design, documentation, risk management, and go-to-market limits. |
+
+## Evaluation criteria
+
+The useful comparison is not "which product is best?" but "which product category already solves part of the CQC/Rugby League problem?"
+
+| Criterion | Why it matters for a professional club |
+| --- | --- |
+| CQC evidence mapping | The platform must organise evidence under CQC's evidence categories, quality statements, and provider governance expectations. |
+| Sports medical workflow | The platform must work around fixtures, training, pitch-side incidents, concussion, return-to-play, player loans, and medical confidentiality. |
+| RFL Medical Standards coverage | The platform must support mandatory staff, EAP, equipment, anti-doping, concussion, cardiac screening, infection control, and record-keeping evidence. |
+| Clinical record boundary | The product must either store clinical notes safely or integrate with a specialist EMR without weakening evidence traceability. |
+| Board assurance | Board users need risk, exceptions, overdue evidence, service-model changes, and assurance packs, not raw confidential medical notes. |
+| Contractor/provider model | Clubs may use external doctors, ambulance providers, diagnostics providers, or screening providers. The platform needs contracts, credentials, scope, and registration/exemption evidence. |
+| Data protection and permissions | Player health data is special category data. Role-based access, audit trails, disclosure logs, retention, and export controls are core requirements. |
+| Clinical safety and medical-device boundary | If the system moves from evidence and records into recommendations or decision support, [NHS DCB0129](https://standards.nhs.uk/published-standards/clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems) and [MHRA software guidance](https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device) become design constraints. |
+
+## Category findings
+
+### CQC compliance and quality platforms
+
+[Radar Healthcare](https://radarhealthcare.com/product/cqc-compliance-software/) is a strong example of the regulated-provider pattern: CQC evidence, audits, action plans, incident/risk management, document control, workforce compliance, and reporting. [Vantage](https://vantage-technologies.co.uk/compliance-and-quality-management/) presents a similar quality-management and compliance pattern for healthcare providers. [QCS](https://www.qcs.co.uk/qcs-compliance-centre/) is more policy and procedure oriented, with regulated-sector compliance content and update discipline. [Log my Care](https://www.logmycare.co.uk/blog/cqc-recommends-going-digital) is useful as a social-care digital-record and CQC-readiness reference, but its care-home/home-care workflow is not a sports medical workflow.
+
+The lesson is that CQC-readiness products are good at evidence, policies, audits, actions, and inspection packs. They are weak on sports-specific concepts such as concussion, athlete availability, RFL mandatory equipment, match-day medical cover, loan-player handovers, anti-doping, and the sports-ground exclusion.
+
+### Sports medicine EMR and athlete management
+
+[Kitman Labs Performance Medicine](https://www.kitmanlabs.com/platform/performance-medicine/), [Teamworks AMS / Smartabase](https://teamworks.com/smartabase), [AthleteMonitoring](https://www.athletemonitoring.com/electronic-medical-records/), [SportsWareOnLine](https://sportswareonline.com/), and [Orreco Medical Notes](https://www.orreco.ai/modules/medical-notes) show mature patterns for athlete health records, injury and illness tracking, SOAP notes, documents, medical screening, concussion, medications, rehabilitation, dashboards, and performance-data integration.
+
+The lesson is that sports EMRs are likely better than a new CQC product at day-to-day clinical records. The gap is that they do not usually generate CQC registration rationale, board-level CQC assurance, RFL clause evidence packs, CQC factual accuracy responses, or regulated-provider governance documentation.
+
+### Sports governance, safeguarding, and compliance platforms
+
+[SportLoMo](https://www.sportlomo.com/governance-and-safe-sport/), [Globocol](https://www.globocol.com/safeguarding-sport-software), [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/), and [Sport:80](https://www.sport80.com/uk/features/compliance-management) show strong sports-governance patterns: safeguarding, welfare, credentials, vetting, certifications, policy acknowledgements, incident workflows, eligibility, concussion/return-to-play controls, dashboards, and federation-level reporting.
+
+The lesson is that sport already has software patterns for governance and compliance. The missing layer is healthcare-provider governance: regulated activity scope, clinical record integrity, confidentiality, medicines, diagnostics, contractor healthcare oversight, and CQC-style evidence.
+
+### Digital health and regulatory guardrails
+
+The platform must respect CQC's [evidence categories](https://www.cqc.org.uk/guidance-regulation/providers/assessment/evidence-categories), the ICO's [special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/) rules for health data, [NHS DCB0129](https://standards.nhs.uk/published-standards/clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems) if manufacturing health IT with clinical risk, and [MHRA software and AI as a medical device guidance](https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device) if the system starts to make or materially influence clinical decisions.
+
+The lesson is to keep the MVP on evidence, workflow, assurance, reminders, and structured documentation. Clinical decision support should be a deliberate later decision, not an accidental feature.
 
 ## What this suggests
 
@@ -1945,10 +2208,49 @@ The distinctive product layer would be the **CQC/Rugby League interpretation lay
 - what must be reported to the board?
 - what service change triggers reassessment?
 
+## Build, buy, or integrate view
+
+| Need | Best route | Rationale |
+| --- | --- | --- |
+| CQC/RFL interpretation, scope decisions, evidence packs | Build | This is the distinctive gap in the market. |
+| Day-to-day clinical notes and athlete EMR | Integrate first | Sports EMRs already do this well and clubs may already have one. |
+| Workforce credentials and training | Build light, integrate later | Minimum version needs RFL/professional registration tracking; larger clubs may integrate with HR or sports-governance tools. |
+| Safeguarding and welfare case management | Integrate or clearly separate | Safeguarding tools already exist and access boundaries are sensitive. |
+| Board dashboard and action plan | Build | The board needs a CQC/RFL assurance view across evidence sources. |
+| Medical-device or clinical decision support | Avoid in MVP | Higher regulatory, safety, and assurance burden. |
+
+## Procurement questions
+
+For any tool being bought or integrated, the club should ask:
+
+- Can it export records and evidence in a usable format for CQC, RFL, board, insurer, or legal review?
+- Can it separate confidential clinical notes from board-visible assurance?
+- Does it support role-based access, audit trails, retention rules, and disclosure logs?
+- Can evidence be mapped to RFL Medical Standards and CQC quality statements?
+- Can it handle match-day, training-ground, travel, loan-player, and contractor workflows?
+- Does it integrate through API or structured export?
+- Is UK GDPR and special category data handling documented?
+- Does the vendor make any clinical decision-support claims that could create clinical safety or medical-device obligations?
+
+## Product gap statement
+
+No researched product appears to combine all of the following in one Rugby League-specific package:
+
+- CQC registration boundary decision support for sports medical services;
+- RFL Medical Standards clause evidence mapping;
+- board assurance packs that avoid inappropriate disclosure of player clinical data;
+- integration-ready links to athlete EMRs and sports governance platforms;
+- contractor/provider due diligence for doctors, diagnostics, cardiac screening, ambulance cover, and clinic services;
+- CQC factual accuracy and assessment-response packs.
+
+That gap supports the working MVP in [Platform MVP and Guardrails](platform-mvp-and-guardrails.md): a governance and evidence layer that can sit above or beside existing systems.
+
 ## Related pages
 
+- [Product Research Roadmap](product-research-roadmap.md) tracks the next work.
 - [Platform Product Blueprint](platform-product-blueprint.md) turns this landscape into product modules.
 - [Registration Decision Model](registration-decision-model.md) supplies the CQC scope workflow.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) defines the sport-specific evidence checklist the platform should support.
 - [Source Map](source-map.md) lists the external products and regulatory sources.
 
 ### Product Blueprint
@@ -1957,7 +2259,7 @@ The distinctive product layer would be the **CQC/Rugby League interpretation lay
 
 This page maps CQC evidence and Rugby League medical governance into possible platform modules.
 
-Use it with [Platform Tool Landscape](platform-tool-landscape.md), [Assurance Pack Templates](assurance-pack-templates.md), and [Governance Operating Model](governance-operating-model.md).
+Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Tool Landscape](platform-tool-landscape.md), [Assurance Pack Templates](assurance-pack-templates.md), and [Governance Operating Model](governance-operating-model.md).
 
 ## CQC evidence model the platform should support
 
@@ -2074,6 +2376,8 @@ The [Medicines and anti-doping log](assurance-pack-templates.md#7-medicines-and-
 
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) turns this blueprint into an implementation route.
 - [Assurance Pack Templates](assurance-pack-templates.md) supplies the first version of forms and reports.
+- [Product Research Roadmap](product-research-roadmap.md) tracks the next research and build tasks.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) defines the clause-level evidence the platform should support.
 
 ### MVP and Guardrails
 
@@ -2081,7 +2385,7 @@ The [Medicines and anti-doping log](assurance-pack-templates.md#7-medicines-and-
 
 This page sets out implementation choices and risk controls for a sports medical governance and CQC-readiness platform.
 
-Use it with [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Tool Landscape](platform-tool-landscape.md), and [Platform Product Blueprint](platform-product-blueprint.md).
+Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Tool Landscape](platform-tool-landscape.md), and [Platform Product Blueprint](platform-product-blueprint.md).
 
 ## Build, buy, or integrate
 
@@ -2152,13 +2456,15 @@ The platform should not label a service "CQC compliant" as a static status. It s
 - Validate minimum viable document pack with sports regulatory lawyers and CQC specialists.
 - Define data-controller and processor models for club, contractor, league, and platform.
 - Assess whether any proposed decision-support features would trigger MHRA software-as-medical-device obligations.
-- Map RFL Medical Standards 2026 clause-by-clause into product controls and evidence fields.
+- Refine the first-pass [RFL Clause Evidence Map](rfl-clause-evidence-map.md) into product controls and evidence fields.
 - Build a sample board dashboard using the [Board Medical Assurance Report](assurance-pack-templates.md#3-board-medical-assurance-report).
 
 ## Related pages
 
 - [Platform Product Blueprint](platform-product-blueprint.md) defines the proposed modules.
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md) explains the highest-risk operational workflow.
+- [Product Research Roadmap](product-research-roadmap.md) tracks the work to tick off.
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md) maps RFL standards to product evidence requirements.
 - [Source Map](source-map.md) lists external sources.
 
 ## Sources
@@ -2223,14 +2529,15 @@ This page records the main sources used and the point each source supports.
 | [Radar Healthcare: CQC Compliance Software](https://radarhealthcare.com/product/cqc-compliance-software/) | Example of CQC-focused compliance/evidence, audit, action, and inspection readiness tooling. |
 | [Radar Healthcare: Audit Management Software](https://radarhealthcare.com/product/audit-management-software/) | Example of healthcare audit workflow, action tracking, and evidence capture. |
 | [Vantage: Compliance and Quality Management](https://vantage-technologies.co.uk/compliance-and-quality-management/) | Example of CQC compliance, quality management, governance, audit, and evidence tooling for health and care providers. |
-| [QCS](https://www.qcs.co.uk/) | Example of policy, procedure, audit, and compliance support for regulated health and care providers. |
+| [QCS Compliance Centre](https://www.qcs.co.uk/qcs-compliance-centre/) | Example of policy, procedure, audit, and compliance support for regulated health and care providers. |
+| [Log my Care: CQC and digital records](https://www.logmycare.co.uk/blog/cqc-recommends-going-digital) | Example of social-care digital record and CQC-readiness tooling, useful as a comparator but not a sports medical workflow. |
 | [Kitman Labs: Performance Medicine](https://www.kitmanlabs.com/platform/performance-medicine/) | Example of elite sports medicine records, injury/illness management, and athlete health workflow. |
 | [Teamworks AMS / Smartabase](https://teamworks.com/smartabase) | Example of athlete management, sports science, and medical data platform used in performance environments. |
 | [AthleteMonitoring: Electronic Medical Records](https://www.athletemonitoring.com/electronic-medical-records/) | Example of sports EMR, injury tracking, SOAP notes, medication, and return-to-play record capability. |
 | [SportsWareOnLine](https://sportswareonline.com/) | Example of athlete health record, injury, treatment, rehabilitation, and reporting software. |
 | [Orreco: Medical Notes](https://www.orreco.ai/modules/medical-notes) | Example of sports medical notes and athlete health data capture. |
 | [SportLoMo: Governance and Safe Sport](https://www.sportlomo.com/governance-and-safe-sport/) | Example of sports governance, safe sport, certification, and participant-management tooling. |
-| [Globocol: Health and Safety in Sport Software](https://www.globocol.com/health-safety-sport-software) | Example of sports health and safety, incident, risk, and compliance management tooling. |
+| [Globocol: Safeguarding in Sport Software](https://www.globocol.com/safeguarding-sport-software) | Example of sport-specific safeguarding, incident reporting, investigation, case management, audit trail, and compliance tooling. |
 | [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/) | Example of safeguarding and welfare case-management tooling adapted to sports clubs. |
 | [Sport:80 Compliance Management](https://www.sport80.com/uk/features/compliance-management) | Example of sports compliance, eligibility, certifications, and document/workflow management. |
 | [ICO: Special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/) | Health data and confidentiality guardrails for player medical records and platform design. |
@@ -2246,7 +2553,9 @@ This page records the main sources used and the point each source supports.
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
+| [Product Research Roadmap](product-research-roadmap.md) | Trackable checklist for research and product work, including completed tool research and RFL clause mapping. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, and generic compliance. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
 | [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
+| [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards evidence map for A1-F11, including owners, cadence, CQC lens, and platform implications. |
 | [Board CQC Response and Outcomes](board-cqc-response.md) | Detailed board workflow for CQC contact, factual accuracy, positive/negative outcomes, and enforcement risk. |

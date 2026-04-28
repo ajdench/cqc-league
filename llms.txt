@@ -27,6 +27,7 @@ This file is an index of documentation pages. For all content in a single file, 
 
 - [Professional Rugby League Application](https://ajdench.github.io/cqc-league/research/rugby-league-application.md)
 - [RFL Medical Standards Map](https://ajdench.github.io/cqc-league/research/rfl-medical-standards-map.md)
+- [RFL Clause Evidence Map](https://ajdench.github.io/cqc-league/research/rfl-clause-evidence-map.md)
 - [Medicines, Prescribing, and Anti-Doping](https://ajdench.github.io/cqc-league/research/medicines-prescribing-anti-doping.md)
 
 ## Operating Model and Evidence
@@ -36,6 +37,7 @@ This file is an index of documentation pages. For all content in a single file, 
 
 ## Platform Product Research
 
+- [Product Research Roadmap](https://ajdench.github.io/cqc-league/research/product-research-roadmap.md)
 - [Platform Opportunity](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
 - [Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-tool-landscape.md)
 - [Product Blueprint](https://ajdench.github.io/cqc-league/research/platform-product-blueprint.md)

@@ -27,6 +27,7 @@ The product opportunity is a **sports medical governance and CQC-readiness platf
 
 ## Split pages
 
+- [Product Research Roadmap](product-research-roadmap.md) tracks the agreed research and build tasks.
 - [Platform Tool Landscape](platform-tool-landscape.md) compares CQC compliance platforms, sports medicine EMRs, sports governance tools, and wider compliance systems.
 - [Platform Product Blueprint](platform-product-blueprint.md) maps CQC evidence categories into product modules, records, evidence packs, and board dashboards.
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) sets out build/buy/integrate options, minimum viable product, health data controls, clinical safety, and medical-device boundary risks.

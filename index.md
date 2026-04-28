@@ -22,7 +22,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
-- Use [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
+- Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 
 ## Site structure
 
@@ -30,9 +30,9 @@ The research is split into logical sections:
 
 - **Board and Decisions**: board briefing, CQC response, registration decision workflow, and worked examples.
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
-- **Rugby League Application**: sport-specific application, RFL standards, medicines, prescribing, and anti-doping.
+- **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, templates, and evidence packs.
-- **Platform Product Research**: product opportunity, tool landscape, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, opportunity, tool landscape, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -50,4 +50,4 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
-- The product opportunity is split across [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
+- The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
