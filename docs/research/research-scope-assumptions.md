@@ -4,6 +4,8 @@ This page reframes roadmap item 1. The immediate issue is not "target users and 
 
 The working question is: **what is this research trying to make clear, for whom, and for what decision?**
 
+The current scope decision is recorded in [Scope Decision Record](scope-decision-record.md).
+
 ## Scope options
 
 | Option | Description | What it would prioritise | Risk if chosen too early |
@@ -18,10 +20,10 @@ The working question is: **what is this research trying to make clear, for whom,
 
 Until changed, the wiki should assume this order:
 
-1. **Primary scope**: professional Rugby League club medical governance in England, with Championship Rugby League as the concrete working example.
-2. **Immediate output**: a board/Head of Medical research and assurance pack, not a software product.
+1. **Primary scope**: an online research and preparation platform for a Championship Rugby League team that is new to CQC inspection-level preparation.
+2. **Immediate output**: a guided preparation and assurance knowledge base for board, Head of Medical, clinical, operational, safeguarding/welfare, and contractor-facing understanding.
 3. **Secondary output**: reusable research structure that may later support other professional Rugby League clubs.
-4. **Product/platform angle**: kept as a research stream only, not the organising assumption.
+4. **Product/platform angle**: relevant as an online preparation experience, but not yet a full software implementation specification.
 5. **Out of scope for now**: full product specification, pricing, sales personas, buying committee design, implementation architecture, and vendor selection.
 
 ## Audience and decision context
@@ -44,7 +46,7 @@ Before moving into validation interviews or solution design, these questions nee
 | Question | Why it matters |
 | --- | --- |
 | Is the concrete reference club Sheffield Eagles, a generic Championship club, or professional Rugby League generally? | Determines how specific the pack and RFL status register should be. |
-| Is the primary deliverable still a board paper from Head of Medical? | Determines whether pages should optimise for directors or operational medical teams. |
+| Is the primary deliverable a board paper, a guided online preparation pathway, or both? | Determines whether pages should optimise for directors, operational medical teams, or first-time CQC learning. |
 | Should academy/scholarship care be in the first research phase? | Adds safeguarding, parent/guardian, school, and child welfare complexity. |
 | Should the research cover public clinics and paid treatment only as risk triggers, or as possible future services? | Changes the depth of CQC registration research needed. |
 | Should platform research remain secondary until after governance scope is validated? | Prevents premature product framing. |
@@ -53,7 +55,7 @@ Before moving into validation interviews or solution design, these questions nee
 
 The safest next posture is:
 
-- treat item 1 as **research audience and decision context**;
+- treat item 1 as **research audience and decision context**, with [Scope Decision Record](scope-decision-record.md) as the current answer;
 - keep item 2 as the evidence pack research;
 - keep item 3 as RFL status and evidence research;
 - keep item 5 as CQC factual decision research;
@@ -63,6 +65,7 @@ The safest next posture is:
 ## Related pages
 
 - [Product Research Roadmap](product-research-roadmap.md)
+- [Scope Decision Record](scope-decision-record.md)
 - [Board Briefing](board-briefing.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Question Bank](cqc-scope-question-bank.md)

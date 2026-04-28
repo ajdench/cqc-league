@@ -6,7 +6,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
-| Scope page added | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) | Reframed away from product buyers. The next decision is scope, audience, and immediate output. |
+| Scope decision recorded | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) and [Scope Decision Record](scope-decision-record.md) | Current audience: online preparation platform for a Championship Rugby League organisation new to CQC inspection-level readiness. |
 | Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Status register added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) and [RFL Clause Status Register](rfl-clause-status-register.md) | Status, Championship relevance, record visibility, and validation gaps added. Still needs RFL/Head of Medical validation. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
@@ -15,7 +15,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 ## Working priorities
 
-The current priority is to settle item **1** as a research scope question, then use that decision to decide how far to take items **2, 3, 5, and 6**.
+The current priority is to use the scope decision in [Scope Decision Record](scope-decision-record.md) to reshape the research into a guided preparation journey for a Championship Rugby League organisation new to CQC.
 
 The research should answer five practical questions:
 
@@ -29,12 +29,13 @@ The research should answer five practical questions:
 
 ### 1. Research audience and decision context
 
-This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md). The research should not start with a product buying group. It should first decide:
+This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md) and provisionally decided in [Scope Decision Record](scope-decision-record.md). The research should not start with a commercial product buying group. It should support:
 
-- whether the concrete reference is Sheffield Eagles, a generic Championship club, professional Rugby League, or professional sport more broadly;
-- whether the immediate output is a board/Head of Medical pack, a reusable framework, a validation plan, or future platform research;
-- which audiences need to make decisions now;
-- which product-shaped work should remain deferred.
+- a Championship Rugby League organisation as the starting example;
+- board and Head of Medical understanding;
+- preparation for CQC-style scrutiny where this is new to the organisation;
+- translation of existing medical/clinical governance into inspection-grade evidence;
+- future platform research without jumping to software specification.
 
 ### 2. Minimum viable compliance pack
 
@@ -97,6 +98,7 @@ Current output: [Platform Tool Landscape](platform-tool-landscape.md) and [Tool 
 
 - [Research Validation Plan](research-validation-plan.md)
 - [Research Scope and Assumptions](research-scope-assumptions.md)
+- [Scope Decision Record](scope-decision-record.md)
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)

@@ -26,6 +26,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
 - Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 - Use [Research Scope and Assumptions](research/research-scope-assumptions.md) before treating item 1 as product users or buying groups.
+- Use [Scope Decision Record](research/scope-decision-record.md) for the current working audience and output: an online preparation platform for a Championship Rugby League team new to CQC inspection-level readiness.
 - Use [Research Validation Plan](research/research-validation-plan.md) before moving from research into solution design.
 
 ## Site structure
@@ -36,7 +37,7 @@ The research is split into logical sections:
 - **CQC Framework**: regulatory baseline, assessment model, edge cases, and private healthcare synergies.
 - **Rugby League Application**: sport-specific application, RFL standards overview, clause evidence map, clause status register, medicines, prescribing, and anti-doping.
 - **Operating Model and Evidence**: governance routines, minimum compliance pack research, templates, and evidence packs.
-- **Platform Product Research**: product roadmap, research scope, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
+- **Platform Product Research**: product roadmap, research scope, scope decision, validation plan, opportunity, tool landscape, tool comparison, product modules, MVP, and guardrails.
 
 ## LLM Wiki outputs
 
@@ -58,4 +59,5 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
 - The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
 - [Research Scope and Assumptions](research/research-scope-assumptions.md) reframes item 1 as audience, decision context, and boundary rather than product buying personas.
+- [Scope Decision Record](research/scope-decision-record.md) records the current working scope as a guided online preparation platform for a Championship Rugby League organisation.
 - The [Research Validation Plan](research/research-validation-plan.md) records what must be confirmed with club, RFL, CQC/legal, vendor, and information-governance sources.
