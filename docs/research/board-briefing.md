@@ -209,6 +209,8 @@ The Head of Medical should produce the following for the next board cycle:
 5. **Action plan**: gaps, owners, deadlines, board decisions needed.
 6. **Appendix**: RFL Medical Standards compliance, contractor due diligence, medicines/anti-doping controls, concussion assurance.
 
+If the club wants to turn this into a repeatable digital process rather than a spreadsheet/document pack, see [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md).
+
 ## Immediate board decisions
 
 The board should decide:
@@ -226,6 +228,7 @@ The board should decide:
 - [Professional Rugby League Application](rugby-league-application.md)
 - [Worked Examples](worked-examples.md)
 - [Assurance Pack Templates](assurance-pack-templates.md)
+- [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md)
 
 ## Key sources
 
