@@ -4,7 +4,7 @@ This page compares the software markets that overlap with a possible sports medi
 
 Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Product Blueprint](platform-product-blueprint.md), and [Platform MVP and Guardrails](platform-mvp-and-guardrails.md).
 
-This page completes roadmap item 6: deepen market and tool research.
+This page records roadmap item 6: deepen market and tool research. It should be read as market learning, not a build decision.
 
 ## Market map
 
@@ -73,16 +73,31 @@ The distinctive product layer would be the **CQC/Rugby League interpretation lay
 - what must be reported to the board?
 - what service change triggers reassessment?
 
-## Build, buy, or integrate view
+## Research view: build, buy, or integrate candidates
+
+This table is provisional. It identifies where further research should focus before any build/buy/integrate decision is made.
 
 | Need | Best route | Rationale |
 | --- | --- | --- |
-| CQC/RFL interpretation, scope decisions, evidence packs | Build | This is the distinctive gap in the market. |
-| Day-to-day clinical notes and athlete EMR | Integrate first | Sports EMRs already do this well and clubs may already have one. |
-| Workforce credentials and training | Build light, integrate later | Minimum version needs RFL/professional registration tracking; larger clubs may integrate with HR or sports-governance tools. |
-| Safeguarding and welfare case management | Integrate or clearly separate | Safeguarding tools already exist and access boundaries are sensitive. |
-| Board dashboard and action plan | Build | The board needs a CQC/RFL assurance view across evidence sources. |
-| Medical-device or clinical decision support | Avoid in MVP | Higher regulatory, safety, and assurance burden. |
+| CQC/RFL interpretation, scope decisions, evidence packs | Research likely gap | Test with CQC specialists, sports lawyers, and club Heads of Medical before assuming a product gap. |
+| Day-to-day clinical notes and athlete EMR | Research likely integration area | Sports EMRs already do much of this. Need to know what clubs currently use and whether exports/APIs are practical. |
+| Workforce credentials and training | Research overlap | Could sit in club HR, RFL systems, sport governance platforms, or a new evidence layer. |
+| Safeguarding and welfare case management | Research separation boundary | Existing safeguarding tools may already be better. Access and confidentiality boundaries need careful research. |
+| Board dashboard and action plan | Research likely gap | Need to confirm what boards actually need and what medical data they must not see. |
+| Medical-device or clinical decision support | Research red line | Do not treat this as an MVP feature without clinical safety and medical-device analysis. |
+
+## Capability matrix for further research
+
+| Capability | CQC compliance platforms | Sports EMR/AMS | Sports governance/safeguarding | Research question |
+| --- | --- | --- | --- | --- |
+| CQC registration scope reasoning | Strong general CQC context, weak sports-specific edge cases. | Usually weak. | Usually weak. | Is anyone already solving sports-club CQC scope decisions? |
+| Policies and evidence packs | Strong. | Variable. | Variable. | Can CQC tools be configured for RFL standards without excessive work? |
+| Athlete clinical records | Usually not sport-specific. | Strong. | Usually weak. | Which systems are already used in Rugby League/football clubs? |
+| Concussion and return-to-play | Generic at best. | Often strong. | Sometimes present as compliance workflow. | Which evidence can be exported for RFL/board assurance? |
+| Medicines, TUE, anti-doping | Variable. | Variable to strong. | Usually limited. | Do systems record UKAD/Global DRO/TUE evidence cleanly? |
+| Contractor due diligence | Strong in healthcare quality tools. | Usually weak. | Variable. | Can provider-control and registration/exemption evidence be tracked? |
+| Board assurance without clinical detail | Strong for healthcare dashboards, but not sports-specific. | Often performance/availability oriented. | Often safeguarding/compliance oriented. | What is the right board-visible evidence boundary? |
+| Data protection and access controls | Strong in regulated healthcare tools. | Strong in mature EMRs. | Strong in safeguarding tools. | What role model fits club, contractor, league, and board access? |
 
 ## Procurement questions
 
@@ -97,9 +112,9 @@ For any tool being bought or integrated, the club should ask:
 - Is UK GDPR and special category data handling documented?
 - Does the vendor make any clinical decision-support claims that could create clinical safety or medical-device obligations?
 
-## Product gap statement
+## Research gap statement
 
-No researched product appears to combine all of the following in one Rugby League-specific package:
+No researched product has yet been shown to combine all of the following in one Rugby League-specific package:
 
 - CQC registration boundary decision support for sports medical services;
 - RFL Medical Standards clause evidence mapping;
@@ -108,11 +123,21 @@ No researched product appears to combine all of the following in one Rugby Leagu
 - contractor/provider due diligence for doctors, diagnostics, cardiac screening, ambulance cover, and clinic services;
 - CQC factual accuracy and assessment-response packs.
 
-That gap supports the working MVP in [Platform MVP and Guardrails](platform-mvp-and-guardrails.md): a governance and evidence layer that can sit above or beside existing systems.
+This is a research gap, not yet proof of a market opportunity. The next evidence should come from club interviews, procurement review, and testing real current workflows.
+
+## Research still needed
+
+- Identify current medical record, safeguarding, HR, incident, and governance tools used by Rugby League and comparable football/rugby union clubs.
+- Check whether sports EMRs can export the evidence needed for [Minimum Compliance Pack Research](minimum-compliance-pack-research.md).
+- Check whether CQC compliance platforms can be configured around sports-ground exclusions and RFL standards.
+- Compare vendor claims against ICO, clinical safety, and medical-device guardrails.
+- Identify where clubs would prefer documentation, consultancy, software, or a hybrid service.
 
 ## Related pages
 
 - [Product Research Roadmap](product-research-roadmap.md) tracks the next work.
+- [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) defines the evidence inventory to test against tools.
+- [CQC Scope Decision Research](cqc-scope-decision-research.md) defines the scope-decision facts tools would need to support.
 - [Platform Product Blueprint](platform-product-blueprint.md) turns this landscape into product modules.
 - [Registration Decision Model](registration-decision-model.md) supplies the CQC scope workflow.
 - [RFL Clause Evidence Map](rfl-clause-evidence-map.md) defines the sport-specific evidence checklist the platform should support.
