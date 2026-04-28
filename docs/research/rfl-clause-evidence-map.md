@@ -1,6 +1,6 @@
 # RFL Clause Evidence Map
 
-This page is a first-pass research map from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into CQC-style evidence. It sits beneath the higher-level [RFL Medical Standards Map](rfl-medical-standards-map.md).
+This page is a first-pass research map from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into CQC-style evidence. It sits beneath the higher-level [RFL Medical Standards Map](rfl-medical-standards-map.md). For status classification, Championship relevance, and board-visible versus restricted evidence, use [RFL Clause Status Register](rfl-clause-status-register.md).
 
 The purpose is not to reproduce the RFL standards or to finalise software requirements. It is to identify what a club may need to evidence, and what still needs validation, if asked, "How do you know this medical service is governed?"
 
@@ -139,6 +139,7 @@ An online platform should be able to generate these packs from the above records
 ## Related pages
 
 - [RFL Medical Standards Map](rfl-medical-standards-map.md)
+- [RFL Clause Status Register](rfl-clause-status-register.md)
 - [Platform Product Blueprint](platform-product-blueprint.md)
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)

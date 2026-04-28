@@ -4,7 +4,7 @@ This page compares the software markets that overlap with a possible sports medi
 
 Use it with [Product Research Roadmap](product-research-roadmap.md), [Platform Opportunity](platform-opportunity-tool-landscape.md), [Platform Product Blueprint](platform-product-blueprint.md), and [Platform MVP and Guardrails](platform-mvp-and-guardrails.md).
 
-This page records roadmap item 6: deepen market and tool research. It should be read as market learning, not a build decision.
+This page records roadmap item 6: deepen market and tool research. It should be read as market learning, not a build decision. The more detailed capability comparison is in [Tool Capability Comparison](tool-capability-comparison.md).
 
 ## Market map
 
@@ -139,6 +139,7 @@ This is a research gap, not yet proof of a market opportunity. The next evidence
 ## Related pages
 
 - [Product Research Roadmap](product-research-roadmap.md) tracks the next work.
+- [Tool Capability Comparison](tool-capability-comparison.md) compares tool categories and vendor verification questions.
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) defines the evidence inventory to test against tools.
 - [CQC Scope Decision Research](cqc-scope-decision-research.md) defines the scope-decision facts tools would need to support.
 - [Platform Product Blueprint](platform-product-blueprint.md) turns this landscape into product modules.
