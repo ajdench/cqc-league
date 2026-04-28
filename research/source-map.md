@@ -88,6 +88,7 @@ This page records the main sources used and the point each source supports.
 | [CQC Scope Question Bank](cqc-scope-question-bank.md) | Neutral question bank, scenario test, outcome evidence thresholds, and stop/advice triggers for item 5. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
 | [Product Research Roadmap](product-research-roadmap.md) | Trackable research checklist, now prioritising items 2, 3, 5, and 6 before further solution design. |
+| [Research Scope and Assumptions](research-scope-assumptions.md) | Reframes item 1 as research audience, decision context, scope options, immediate output, and product-boundary assumptions. |
 | [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, generic compliance, and remaining market research questions. |
 | [Tool Capability Comparison](tool-capability-comparison.md) | Capability comparison across healthcare/CQC operations tools, sports EMRs, sports governance tools, and vendor verification questions. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |

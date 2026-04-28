@@ -43,6 +43,7 @@ This file is an index of documentation pages. For all content in a single file, 
 ## Platform Product Research
 
 - [Product Research Roadmap](https://ajdench.github.io/cqc-league/research/product-research-roadmap.md)
+- [Research Scope and Assumptions](https://ajdench.github.io/cqc-league/research/research-scope-assumptions.md)
 - [Research Validation Plan](https://ajdench.github.io/cqc-league/research/research-validation-plan.md)
 - [Platform Opportunity](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
 - [Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-tool-landscape.md)
