@@ -1,10 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="104" height="72" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="104" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
   <title id="title">CQ RFL rugby ball logo</title>
-  <desc id="desc">White rugby ball mark with CQ RFL lettering.</desc>
-  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="260" cy="180" rx="214" ry="126" stroke-width="28" transform="rotate(-18 260 180)"/>
-    <path d="M88 231C158 133 318 73 425 92" stroke-width="18"/>
-    <path d="M95 277C176 326 325 299 439 204" stroke-width="18"/>
+  <desc id="desc">Blue rugby ball mark with white panels and CQ RFL lettering.</desc>
+  <defs>
+    <clipPath id="ball-clip">
+      <ellipse cx="800" cy="520" rx="735" ry="455" transform="rotate(-17 800 520)"/>
+    </clipPath>
+  </defs>
+  <ellipse cx="800" cy="520" rx="735" ry="455" fill="#26355f" transform="rotate(-17 800 520)"/>
+  <g clip-path="url(#ball-clip)">
+    <path fill="#fff" d="M151 593C270 372 595 215 936 204c263-9 486 52 567 140 27 29 17 63-31 99-77 58-256 127-529 204-286 81-587 134-742 133-93-1-112-42-50-187z"/>
+    <path fill="#fff" d="M243 848c91-84 365-179 773-269 301-66 539-99 607-67 28 13 25 43-8 99-90 154-336 308-626 392-300 87-598 78-731-21-48-36-53-78-15-134z"/>
   </g>
-  <text x="260" y="198" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="800" letter-spacing="-3" text-anchor="middle" transform="rotate(-8 260 180)">CQ•RFL</text>
+  <g fill="#26355f" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="760" y="430" font-size="230" letter-spacing="-20" transform="rotate(2 760 430)">CQ</text>
+    <text x="920" y="820" font-size="282" letter-spacing="-14" transform="rotate(-13 920 820)">RFL</text>
+  </g>
 </svg>
