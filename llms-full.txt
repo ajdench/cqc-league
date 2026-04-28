@@ -31,7 +31,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
 - Use [CQC Scope Decision Research](research/cqc-scope-decision-research.md) to identify the facts and evidence needed before any decision tool is designed.
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
-- Use [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) to understand the evidence pack before turning it into final templates or software fields.
+- Use [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) to understand the evidence pack before turning it into final templates or software fields.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
 - Use [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 
@@ -61,7 +61,7 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - CQC decision-tool research is separated in [CQC Scope Decision Research](research/cqc-scope-decision-research.md) so the wiki does not jump straight to a software answer.
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
-- The minimum evidence pack is researched in [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) before being turned into templates.
+- The minimum evidence pack is researched in [Minimum Compliance Pack Research](research/minimum-compliance-pack-research.md) and tested against practical scenarios in [Minimum Compliance Pack Scenario Matrix](research/minimum-compliance-pack-scenario-matrix.md) before being turned into templates.
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
 - The product opportunity is split across [Product Research Roadmap](research/product-research-roadmap.md), [Platform Opportunity](research/platform-opportunity-tool-landscape.md), [Tool Landscape](research/platform-tool-landscape.md), [Product Blueprint](research/platform-product-blueprint.md), and [MVP and Guardrails](research/platform-mvp-and-guardrails.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.
 
@@ -1923,6 +1923,8 @@ The research question is: **what evidence would a professional Rugby League club
 
 Use this page with [Assurance Pack Templates](assurance-pack-templates.md), [Registration Decision Model](registration-decision-model.md), [RFL Clause Evidence Map](rfl-clause-evidence-map.md), and [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md).
 
+The scenario validation work is recorded separately in [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) to keep this page readable.
+
 ## Research boundary
 
 The pack should support three situations:
@@ -1971,6 +1973,21 @@ The pack should deliberately avoid relying only on policies. For each component,
 | Processes | policies, SOPs, scope decision records, incident workflows, medicine checks, GRTP pathway. |
 | Outcomes | concussion compliance, equipment exceptions, record completeness, incident closure, screening completion, overdue actions. |
 
+## Scenario validation status
+
+The candidate pack has now been tested against six practical service patterns in [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md):
+
+| Scenario | Research finding |
+| --- | --- |
+| Player-only match/training medical service | Supports a core club medical governance pack, provided the participant/event boundary is evidenced. |
+| External cardiac screening provider | Requires contractor and diagnostics appendix because RFL compliance does not settle the CQC provider/control position. |
+| Public/private clinic or paid treatment risk | Sits outside the routine minimum pack and requires specialist CQC/legal assessment before launch. |
+| Remote triage/advice | Requires separate analysis because ordinary follow-up and formal remote triage are materially different. |
+| Concussion and return-to-play pathway | Supports a dedicated concussion appendix with strict clinical confidentiality boundaries. |
+| Contractor-led ambulance/event medical cover | Requires contractor/event-medical appendix and explicit command-and-control evidence. |
+
+The main research conclusion is that the minimum pack should be split into a core governance layer plus scenario appendices, rather than one oversized universal document.
+
 ## Research-complete definition
 
 Item 2 should only be marked research-complete when:
@@ -1978,7 +1995,7 @@ Item 2 should only be marked research-complete when:
 - every candidate pack component has a source basis;
 - each component has a clear evidence owner and review cadence;
 - confidential clinical data and board-visible assurance have been separated;
-- the pack has been tested against at least three scenarios: player-only medical service, external cardiac screening, and public/private clinic risk;
+- the pack has been tested against at least six scenarios: player-only medical service, external cardiac screening, public/private clinic risk, remote triage/advice, concussion and return-to-play, and contractor-led ambulance/event medical cover;
 - regulatory/legal review points are marked clearly rather than implied.
 
 ## Open questions
@@ -1992,10 +2009,148 @@ Item 2 should only be marked research-complete when:
 ## Related pages
 
 - [Assurance Pack Templates](assurance-pack-templates.md)
+- [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Decision Research](cqc-scope-decision-research.md)
 - [RFL Clause Evidence Map](rfl-clause-evidence-map.md)
 - [Platform Tool Landscape](platform-tool-landscape.md)
 - [Source Map](source-map.md)
+
+### Minimum Compliance Pack Scenario Matrix
+
+# Minimum Compliance Pack Scenario Matrix
+
+This page tests the [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) against six practical club scenarios. It is still research, not a final product design.
+
+The purpose is to identify:
+
+- what evidence appears necessary;
+- which CQC/RFL source creates or supports the need;
+- who would usually own the evidence;
+- what the board can see without accessing confidential clinical detail;
+- what remains uncertain and needs legal, clinical, RFL, or operational validation.
+
+## Summary matrix
+
+| Scenario | Core pack components | Specialist appendices | Research status |
+| --- | --- | --- | --- |
+| Player-only match/training medical service | Scope decision record; medical service description; RFL dashboard; governance meeting record; board assurance report; annual review. | Clinical records audit; equipment/EAP checks; medicines; concussion; safeguarding. | Baseline evidence need is clear; competition-specific RFL detail still needs validation. |
+| External cardiac screening provider | Scope decision record; contractor due diligence file; RFL dashboard; board assurance report. | Diagnostic/screening provider file; abnormal-result pathway; player communication record. | Strong need for provider/control evidence; CQC registration or exemption position must be checked for the provider model. |
+| Public/private clinic or paid treatment risk | Full CQC scope decision record; service description; board decision paper; legal/CQC advice file. | Registration application pack if required; complaints; duty of candour; staffing; premises; clinical governance. | High-risk scenario; do not treat as minimum routine pack without specialist advice. |
+| Remote triage/advice | Scope decision record; service description; clinical safety-netting process; records/data protection file. | Remote advice/triage assessment; response-time audit; safeguarding/parental consent where academy players are included. | Needs careful factual distinction between ordinary follow-up and a formal remote advice/triage service. |
+| Concussion and return-to-play pathway | RFL dashboard; incident record; concussion assurance record; clinical governance meeting record; board assurance report. | HIA reports; GRTP; RTP form; Cognigram/SCAT6; specialist reports. | Strong RFL source basis; board-visible evidence must avoid unnecessary identifiable clinical detail. |
+| Contractor-led ambulance/event medical cover | Scope decision record; contractor due diligence file; EAP; pre-match briefing; incident route; board assurance report. | CQC transport/ambulance analysis; command-and-control record; post-event quality report. | Provider/control and transport-to-hospital boundary require validation before relying on contractor status. |
+
+## Scenario 1: Player-only match/training medical service
+
+This is the baseline professional club service: match-day and training-ground care for contracted players and other eligible participants, not a public clinic.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| CQC scope decision record showing participant-only service, sports premises/event context, and no public/private treatment. | CQC treatment guidance includes sports-ground/gym and temporary sporting-event exclusions. | Head of Medical with accountable executive. | Board-visible summary; full rationale retained by governance lead. | Need to validate how associated premises and academy/trialist groups are described for each club. |
+| Medical service description defining who is served and what is not provided. | CQC scope depends on facts; statement-of-purpose discipline helps prevent service creep. | Head of Medical. | Board-visible. | Language must avoid implying registration if the club is not registered. |
+| RFL standards evidence dashboard for staff, EAP, equipment, records, concussion, medicines, anti-doping, cardiac where applicable. | RFL Medical Standards 2026. | Head of Medical. | Board-visible as compliance status and exceptions. | Exact mandatory/best-practice status by competition still needs checking. |
+| Clinical records audit and confidentiality control. | CQC evidence categories and good governance logic; RFL note-keeping requirements. | Head of Medical and data protection lead. | Board-visible as anonymised completeness/exception data; individual records restricted. | Need to confirm current record systems used by clubs. |
+| Annual medical governance review. | Regulation 17-style governance discipline and RFL assurance. | Board medical lead or accountable executive. | Board-visible. | Frequency and committee route need validation with club governance calendars. |
+
+Minimum pack placement: **core pack**.
+
+## Scenario 2: External cardiac screening provider
+
+The club commissions an external screening provider to screen players, often because the RFL Medical Standards make cardiac screening mandatory for specified competitions including Championship.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| Provider due diligence file, including legal entity, CQC registration or exemption rationale, clinician credentials, indemnity, records, results, and escalation. | CQC diagnostic and screening procedures may apply depending on who performs, analyses, reports, and controls the pathway. | Head of Medical with operations/procurement. | Board-visible as provider status and assurance; contract details may be restricted. | Need provider-specific registration/exemption review. |
+| Contract defining clinical control, reporting, abnormal-result pathway, record ownership, confidentiality, incident reporting, and audit rights. | CQC provider/control analysis and contractor governance. | Club operations/procurement with Head of Medical. | Board-visible summary; full contract restricted. | Shared-control models need legal review. |
+| Attendance/completion dashboard. | RFL cardiac screening compliance and board assurance. | Head of Medical. | Board-visible as completion percentage and overdue exceptions. | Need to define participation gate if screening incomplete. |
+| Abnormal-result pathway and follow-up evidence. | Safe/effective care and diagnostic governance. | Club doctor or screening provider, depending on model. | Board-visible only as anonymised risk/action status; identifiable clinical results restricted. | Need to confirm who communicates results and who owns onward referral. |
+| Scope decision record distinguishing club commissioning from club carrying on screening. | CQC scope and provider/control logic. | Accountable executive with Head of Medical. | Board-visible conclusion; detailed legal rationale restricted. | This is the main uncertainty for each provider model. |
+
+Minimum pack placement: **core pack plus contractor/diagnostics appendix**.
+
+## Scenario 3: Public/private clinic or paid treatment risk
+
+This covers a club offering paid physiotherapy, sports medicine, diagnostics, injections, or treatment to the public, sponsors, staff families, schools, or community users outside the participant/event context.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| Full CQC scope decision record before launch. | CQC scope guidance and treatment guidance; sports exclusion may not apply to wider public/private services. | Chief executive/accountable executive with Head of Medical. | Board-visible. | High likelihood of needing legal/CQC advice. |
+| Service description, user group, payment model, activities, premises, clinicians, records, complaints, incidents, medicines, and provider/control model. | Registration depends on the facts, not the club label. | Project sponsor and Head of Medical. | Board-visible in summary; clinical detail restricted. | The model may shift into independent healthcare provider territory. |
+| Board decision record showing approval, risk, advice, and launch conditions. | Good governance and provider accountability. | Board/company secretary. | Board-visible. | Board may need to pause launch until CQC position is settled. |
+| Registration readiness pack if required. | CQC registration requirements may include regulated activities, locations, nominated individual, registered manager, policies, and evidence. | Accountable executive. | Board-visible status; application documents controlled. | Specialist regulatory advice needed. |
+| Complaints, duty-of-candour, safeguarding, staffing, premises, medicines, and records framework. | Independent healthcare governance pattern. | Registered/provider governance lead if applicable. | Board-visible as assurance; individual cases restricted. | Depends on whether service is launched and under what legal entity. |
+
+Minimum pack placement: **specialist high-risk pack, not routine minimum pack**.
+
+## Scenario 4: Remote triage/advice
+
+This covers a formal remote app, hotline, or advice pathway, especially if it prioritises urgent needs, gives immediate advice, or extends beyond contracted players.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| Scope decision record distinguishing ordinary follow-up from a formal remote advice/triage service. | CQC transport, triage, and medical advice provided remotely guidance. | Head of Medical with accountable executive. | Board-visible conclusion. | The boundary is fact-sensitive and needs careful review. |
+| Eligibility rules and service description. | User group and activity determine registration risk. | Head of Medical and service owner. | Board-visible. | Academy, parent, community, or public access changes the risk. |
+| Clinical safety-netting and escalation process. | Safe care and treatment; remote advice risk management. | Clinical governance lead. | Board-visible as protocol status; individual advice records restricted. | Need clinician validation and possible clinical safety review. |
+| Record, response-time, and audit process. | Evidence of safe, consistent remote advice and outcomes. | Head of Medical. | Board-visible as aggregate audit; individual records restricted. | Current systems may not support structured remote advice records. |
+| Data protection, consent, safeguarding, and parental consent model where minors are included. | Health data and safeguarding duties. | Data protection lead and safeguarding lead. | Board-visible as assurance; case details restricted. | Child/academy use may require separate pathway. |
+
+Minimum pack placement: **core pack only if limited follow-up; specialist remote-advice appendix if formal service**.
+
+## Scenario 5: Concussion and return-to-play pathway
+
+This covers suspected concussion, HIA, post-match care, GRTP, reporting, return-to-play, loan-player handover, and specialist referral.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| Baseline completion dashboard. | RFL concussion requirements for baseline assessments. | Head of Medical. | Board-visible as completion and exceptions. | Need competition-specific baseline requirements confirmed. |
+| HIA/concussion report, removal record, and post-injury advice. | RFL Section E and safe care evidence. | Match-day doctor/club doctor. | Individual report restricted; board sees aggregate compliance and exceptions. | Need exact submission evidence and timing by competition. |
+| GRTP log and doctor clearance evidence. | RFL GRTP requirements and player safety. | Club doctor. | Restricted clinical record; board-visible as compliant/not compliant and overdue risks. | Need clear rule on board visibility when selection pressure exists. |
+| Return-to-play form, Cognigram/SCAT6, specialist reports where required. | RFL reporting and return-to-play controls. | Club doctor. | Restricted; anonymised board exception reporting. | Specialist referral thresholds need validation. |
+| Clinical governance review of misses, late reports, symptoms masked by medication, and loan-player notification issues. | CQC learning culture and RFL reporting assurance. | Head of Medical. | Board-visible as themes/actions. | Need alignment with league reporting and parent-club protocols. |
+
+Minimum pack placement: **core pack plus concussion appendix**.
+
+## Scenario 6: Contractor-led ambulance/event medical cover
+
+This covers a club contracting external event medical cover, paramedics, ambulance capability, first aiders, or pitch-side support for home fixtures.
+
+| Evidence requirement | Source or rationale | Usual owner | Visibility | Research uncertainty |
+| --- | --- | --- | --- | --- |
+| Contractor due diligence file including legal entity, CQC registration or exemption analysis, clinical lead, indemnity, staff credentials, incident route, and quality reports. | CQC provider/control and transport activity guidance. | Operations/procurement with Head of Medical. | Board-visible status; detailed credentials and contract restricted as needed. | Contractor registration may not cover every activity or location. |
+| Command-and-control record between club clinicians and contractor. | Provider/control clarity and emergency planning. | Head of Medical and match operations. | Board-visible as approved model. | Shared control is the main risk. |
+| Emergency action plan and pre-match briefing record. | RFL EAP and pre-match briefing requirements. | Home club lead clinician and operations. | Board-visible completion status; operational details restricted where needed. | Venue changes and temporary arrangements need review. |
+| Equipment, medicines, ambulance, communication, and access checks. | RFL equipment and emergency standards; safe care. | Contractor clinical lead and club match operations. | Board-visible as pass/fail exceptions. | Need clarity on who owns each check. |
+| Incident, serious injury, complaint, safeguarding, CQC notification, and post-event report route. | Good governance, CQC/RFL reporting, and contractor assurance. | Head of Medical and contractor lead. | Board-visible themes/actions; identifiable clinical detail restricted. | Need to validate duty-of-candour/CQC route where contractor is registered provider. |
+
+Minimum pack placement: **core pack plus contractor/event-medical appendix**.
+
+## Cross-scenario evidence boundaries
+
+| Evidence type | Board-visible | Restricted clinical/governance record |
+| --- | --- | --- |
+| Scope decision | Conclusion, date, reviewer, key conditions, triggers for review. | Detailed legal advice, disputed facts, provider-control analysis where sensitive. |
+| RFL compliance | Completion status, overdue actions, exceptions, risk rating. | Individual player records, clinical assessments, identifiable health information. |
+| Concussion | Compliance rate, overdue GRTP/RTP exceptions, learning actions. | HIA forms, Cognigram/SCAT6 results, clinical notes, specialist reports. |
+| Cardiac screening | Provider status, completion rate, abnormal-result pathway assurance. | Individual results, detailed reports, referral records. |
+| Medicines/anti-doping | Audit status, incident themes, TUE process assurance. | Player medication records, indications, TUE medical evidence. |
+| Contractors | Registration/exemption status, contract assurance, quality report themes. | Full clinical records and provider confidential information unless needed for assurance. |
+
+## Research conclusion for item 2
+
+The minimum pack appears to need two layers:
+
+1. **Core club medical governance pack**: scope decision, service description, RFL dashboard, clinical governance record, incident/complaint route, contractor register, board assurance report, annual review.
+2. **Scenario appendices**: diagnostics/cardiac screening, public/private clinic, remote triage/advice, concussion, medicines/anti-doping, contractor/event medical cover, academy/children.
+
+This supports a research conclusion, not a final specification: the pack can be defined only after validating which scenarios are active for the club and which are merely future-risk triggers.
+
+## Related pages
+
+- [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
+- [Worked Examples](worked-examples.md)
+- [CQC Scope Decision Research](cqc-scope-decision-research.md)
+- [Assurance Pack Templates](assurance-pack-templates.md)
+- [RFL Clause Evidence Map](rfl-clause-evidence-map.md)
 
 ### Assurance Pack Templates
 
@@ -2193,7 +2348,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
 | Deferred | 1. Define target users and buying groups | Product persona page | Still needed, but not the next research pass. |
-| Research baseline added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) | Research inventory added. Needs validation before it becomes a final pack. |
+| Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Research baseline added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | First-pass map strengthened with research maturity, status triage, and validation gaps. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
 | Research baseline added | 5. Research CQC scope decision workflow | [CQC Scope Decision Research](cqc-scope-decision-research.md) | Reframed from "prototype a wizard" to factual research and decision evidence. |
@@ -2235,7 +2390,7 @@ The pack research should identify which documents and records are genuinely nece
 - incident, serious injury, concussion, medicines, and complaint records;
 - annual board assurance report.
 
-Current output: [Minimum Compliance Pack Research](minimum-compliance-pack-research.md).
+Current output: [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md).
 
 ### 3. RFL clause-by-clause map
 
@@ -2282,6 +2437,7 @@ The expanded [Platform Tool Landscape](platform-tool-landscape.md) should be use
 
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
+- [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Decision Research](cqc-scope-decision-research.md)
 - [Platform Tool Landscape](platform-tool-landscape.md)
 - [Platform Product Blueprint](platform-product-blueprint.md)
@@ -2786,6 +2942,7 @@ This page records the main sources used and the point each source supports.
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
 | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) | Research inventory for the evidence pack, including source anchors, candidate components, evidence categories, validation gaps, and open questions. |
+| [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Tests the minimum pack against player-only care, cardiac screening, public/private clinic risk, remote triage, concussion, and contractor event-medical cover. |
 | [CQC Scope Decision Research](cqc-scope-decision-research.md) | Research protocol for the facts, evidence, outcomes, and advice triggers needed before designing any CQC scope decision tool. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
 | [Product Research Roadmap](product-research-roadmap.md) | Trackable research checklist, now prioritising items 2, 3, 5, and 6 before further solution design. |

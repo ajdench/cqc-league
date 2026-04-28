@@ -35,6 +35,7 @@ This file is an index of documentation pages. For all content in a single file, 
 
 - [Governance Operating Model](https://ajdench.github.io/cqc-league/research/governance-operating-model.md)
 - [Minimum Compliance Pack Research](https://ajdench.github.io/cqc-league/research/minimum-compliance-pack-research.md)
+- [Minimum Compliance Pack Scenario Matrix](https://ajdench.github.io/cqc-league/research/minimum-compliance-pack-scenario-matrix.md)
 - [Assurance Pack Templates](https://ajdench.github.io/cqc-league/research/assurance-pack-templates.md)
 
 ## Platform Product Research

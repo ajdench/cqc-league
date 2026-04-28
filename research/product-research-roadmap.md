@@ -7,7 +7,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
 | Deferred | 1. Define target users and buying groups | Product persona page | Still needed, but not the next research pass. |
-| Research baseline added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) | Research inventory added. Needs validation before it becomes a final pack. |
+| Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Research baseline added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | First-pass map strengthened with research maturity, status triage, and validation gaps. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
 | Research baseline added | 5. Research CQC scope decision workflow | [CQC Scope Decision Research](cqc-scope-decision-research.md) | Reframed from "prototype a wizard" to factual research and decision evidence. |
@@ -49,7 +49,7 @@ The pack research should identify which documents and records are genuinely nece
 - incident, serious injury, concussion, medicines, and complaint records;
 - annual board assurance report.
 
-Current output: [Minimum Compliance Pack Research](minimum-compliance-pack-research.md).
+Current output: [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md).
 
 ### 3. RFL clause-by-clause map
 
@@ -96,6 +96,7 @@ The expanded [Platform Tool Landscape](platform-tool-landscape.md) should be use
 
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
+- [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Decision Research](cqc-scope-decision-research.md)
 - [Platform Tool Landscape](platform-tool-landscape.md)
 - [Platform Product Blueprint](platform-product-blueprint.md)

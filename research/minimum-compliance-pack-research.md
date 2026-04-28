@@ -6,6 +6,8 @@ The research question is: **what evidence would a professional Rugby League club
 
 Use this page with [Assurance Pack Templates](assurance-pack-templates.md), [Registration Decision Model](registration-decision-model.md), [RFL Clause Evidence Map](rfl-clause-evidence-map.md), and [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md).
 
+The scenario validation work is recorded separately in [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) to keep this page readable.
+
 ## Research boundary
 
 The pack should support three situations:
@@ -54,6 +56,21 @@ The pack should deliberately avoid relying only on policies. For each component,
 | Processes | policies, SOPs, scope decision records, incident workflows, medicine checks, GRTP pathway. |
 | Outcomes | concussion compliance, equipment exceptions, record completeness, incident closure, screening completion, overdue actions. |
 
+## Scenario validation status
+
+The candidate pack has now been tested against six practical service patterns in [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md):
+
+| Scenario | Research finding |
+| --- | --- |
+| Player-only match/training medical service | Supports a core club medical governance pack, provided the participant/event boundary is evidenced. |
+| External cardiac screening provider | Requires contractor and diagnostics appendix because RFL compliance does not settle the CQC provider/control position. |
+| Public/private clinic or paid treatment risk | Sits outside the routine minimum pack and requires specialist CQC/legal assessment before launch. |
+| Remote triage/advice | Requires separate analysis because ordinary follow-up and formal remote triage are materially different. |
+| Concussion and return-to-play pathway | Supports a dedicated concussion appendix with strict clinical confidentiality boundaries. |
+| Contractor-led ambulance/event medical cover | Requires contractor/event-medical appendix and explicit command-and-control evidence. |
+
+The main research conclusion is that the minimum pack should be split into a core governance layer plus scenario appendices, rather than one oversized universal document.
+
 ## Research-complete definition
 
 Item 2 should only be marked research-complete when:
@@ -61,7 +78,7 @@ Item 2 should only be marked research-complete when:
 - every candidate pack component has a source basis;
 - each component has a clear evidence owner and review cadence;
 - confidential clinical data and board-visible assurance have been separated;
-- the pack has been tested against at least three scenarios: player-only medical service, external cardiac screening, and public/private clinic risk;
+- the pack has been tested against at least six scenarios: player-only medical service, external cardiac screening, public/private clinic risk, remote triage/advice, concussion and return-to-play, and contractor-led ambulance/event medical cover;
 - regulatory/legal review points are marked clearly rather than implied.
 
 ## Open questions
@@ -75,6 +92,7 @@ Item 2 should only be marked research-complete when:
 ## Related pages
 
 - [Assurance Pack Templates](assurance-pack-templates.md)
+- [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
 - [CQC Scope Decision Research](cqc-scope-decision-research.md)
 - [RFL Clause Evidence Map](rfl-clause-evidence-map.md)
 - [Platform Tool Landscape](platform-tool-landscape.md)
