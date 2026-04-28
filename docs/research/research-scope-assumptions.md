@@ -20,9 +20,9 @@ The current scope decision is recorded in [Scope Decision Record](scope-decision
 
 Until changed, the wiki should assume this order:
 
-1. **Primary scope**: an online research and preparation platform for a Championship Rugby League team that is new to CQC inspection-level preparation.
+1. **Primary scope**: an online CQC inspection preparation platform for professional sports clubs, using a Championship Rugby League Club as the starting example.
 2. **Immediate output**: a guided preparation and assurance knowledge base for board, Head of Medical, clinical, operational, safeguarding/welfare, and contractor-facing understanding.
-3. **Secondary output**: reusable research structure that may later support other professional Rugby League clubs.
+3. **Secondary output**: reusable research structure that may later support other professional Rugby League clubs and comparable professional sports clubs.
 4. **Product/platform angle**: relevant as an online preparation experience, but not yet a full software implementation specification.
 5. **Out of scope for now**: full product specification, pricing, sales personas, buying committee design, implementation architecture, and vendor selection.
 
@@ -45,7 +45,7 @@ Before moving into validation interviews or solution design, these questions nee
 
 | Question | Why it matters |
 | --- | --- |
-| Is the concrete reference club Sheffield Eagles, a generic Championship club, or professional Rugby League generally? | Determines how specific the pack and RFL status register should be. |
+| Is the concrete reference club Sheffield Eagles, a generic Championship club, Rugby League generally, or a comparable professional sport? | Determines how specific the pack, governing-body references, and RFL status register should be. |
 | Is the primary deliverable a board paper, a guided online preparation pathway, or both? | Determines whether pages should optimise for directors, operational medical teams, or first-time CQC learning. |
 | Should academy/scholarship care be in the first research phase? | Adds safeguarding, parent/guardian, school, and child welfare complexity. |
 | Should the research cover public clinics and paid treatment only as risk triggers, or as possible future services? | Changes the depth of CQC registration research needed. |

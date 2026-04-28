@@ -1,12 +1,12 @@
 # Product Research Roadmap
 
-This page records the next research tasks for a Rugby League CQC governance platform. It is intentionally research-first: the wiki should establish what clubs, clinicians, boards, regulators, and league rules require before treating anything as a product specification.
+This page records the next research tasks for a CQC inspection preparation platform for professional sports clubs, using Rugby League as the starting example. It is intentionally research-first: the wiki should establish what clubs, clinicians, boards, regulators, and league rules require before treating anything as a product specification.
 
 ## Current checklist
 
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
-| Scope decision recorded | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) and [Scope Decision Record](scope-decision-record.md) | Current audience: online preparation platform for a Championship Rugby League organisation new to CQC inspection-level readiness. |
+| Scope decision recorded | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) and [Scope Decision Record](scope-decision-record.md) | Current audience: online CQC inspection preparation platform for professional sports clubs, using a Championship Rugby League Club as the starting example. |
 | Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Status register added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) and [RFL Clause Status Register](rfl-clause-status-register.md) | Status, Championship relevance, record visibility, and validation gaps added. Still needs RFL/Head of Medical validation. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
@@ -15,7 +15,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 ## Working priorities
 
-The current priority is to use the scope decision in [Scope Decision Record](scope-decision-record.md) to reshape the research into a guided preparation journey for a Championship Rugby League organisation new to CQC.
+The current priority is to use the scope decision in [Scope Decision Record](scope-decision-record.md) to reshape the research into a guided preparation journey for a professional sports club new to CQC, using a Championship Rugby League Club as the starting example.
 
 The research should answer five practical questions:
 
@@ -31,7 +31,7 @@ The research should answer five practical questions:
 
 This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md) and provisionally decided in [Scope Decision Record](scope-decision-record.md). The research should not start with a commercial product buying group. It should support:
 
-- a Championship Rugby League organisation as the starting example;
+- professional sports clubs as the platform audience, with a Championship Rugby League Club as the starting example;
 - board and Head of Medical understanding;
 - preparation for CQC-style scrutiny where this is new to the organisation;
 - translation of existing medical/clinical governance into inspection-grade evidence;
