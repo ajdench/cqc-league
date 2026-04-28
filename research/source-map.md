@@ -79,10 +79,12 @@ This page records the main sources used and the point each source supports.
 | [Worked Examples](worked-examples.md) | Scenario testing for player-only care, public clinics, diagnostics, concussion, medicines, remote triage, contractors, and academy pathways. |
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
+| [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) | Research inventory for the evidence pack, including source anchors, candidate components, evidence categories, validation gaps, and open questions. |
+| [CQC Scope Decision Research](cqc-scope-decision-research.md) | Research protocol for the facts, evidence, outcomes, and advice triggers needed before designing any CQC scope decision tool. |
 | [Platform Opportunity](platform-opportunity-tool-landscape.md) | Product research hub and page-length/site-structure rationale. |
-| [Product Research Roadmap](product-research-roadmap.md) | Trackable checklist for research and product work, including completed tool research and RFL clause mapping. |
-| [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, and generic compliance. |
+| [Product Research Roadmap](product-research-roadmap.md) | Trackable research checklist, now prioritising items 2, 3, 5, and 6 before further solution design. |
+| [Platform Tool Landscape](platform-tool-landscape.md) | Competitor/tool landscape across CQC compliance, sports medicine EMRs, sports governance, safeguarding, generic compliance, and remaining market research questions. |
 | [Platform Product Blueprint](platform-product-blueprint.md) | CQC evidence mapping, product modules, evidence vault, digital records, and board dashboard model. |
 | [Platform MVP and Guardrails](platform-mvp-and-guardrails.md) | MVP options, build/buy/integrate strategy, health data, clinical safety, and medical-device boundary guardrails. |
-| [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards evidence map for A1-F11, including owners, cadence, CQC lens, and platform implications. |
+| [RFL Clause Evidence Map](rfl-clause-evidence-map.md) | Clause-level RFL Medical Standards research map for A1-F11, including maturity, status triage, evidence owners, cadence, CQC lens, and validation gaps. |
 | [Board CQC Response and Outcomes](board-cqc-response.md) | Detailed board workflow for CQC contact, factual accuracy, positive/negative outcomes, and enforcement risk. |

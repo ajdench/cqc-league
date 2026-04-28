@@ -1,6 +1,6 @@
 # Assurance Pack Templates
 
-These templates turn the research into evidence a club can use repeatedly. They are intentionally concise so they can be copied into board papers, committee packs, contracts, or internal forms. Use them alongside [CQC's scope of registration guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration), the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf), and the detailed decision logic in [Registration Decision Model](registration-decision-model.md).
+These templates turn the research into evidence a club can use repeatedly. They are intentionally concise so they can be copied into board papers, committee packs, contracts, or internal forms. Use them alongside [Minimum Compliance Pack Research](minimum-compliance-pack-research.md), [CQC's scope of registration guidance](https://www.cqc.org.uk/guidance-regulation/providers/registration/scope-registration), the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf), and the detailed decision logic in [Registration Decision Model](registration-decision-model.md).
 
 ## 1. CQC scope assessment
 
@@ -173,6 +173,7 @@ Agenda:
 ## Related pages
 
 - [Governance Operating Model](governance-operating-model.md) explains where these templates sit in board and committee routines.
+- [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) records the research basis and open questions behind the pack.
 - [Worked Examples](worked-examples.md) shows when to use each template in practical club scenarios.
 - [CQC Assurance Domains and Quality Statements](cqc-assurance-domains-quality-statements.md) provides the assurance structure behind the board report.
 - [Platform Product Blueprint](platform-product-blueprint.md) explains how these templates could become stock documents, digital forms, evidence packs, and dashboards in an online product.

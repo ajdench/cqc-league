@@ -1,8 +1,36 @@
 # RFL Clause Evidence Map
 
-This page is a first-pass operational map from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into CQC-style evidence. It sits beneath the higher-level [RFL Medical Standards Map](rfl-medical-standards-map.md).
+This page is a first-pass research map from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf) into CQC-style evidence. It sits beneath the higher-level [RFL Medical Standards Map](rfl-medical-standards-map.md).
 
-The purpose is not to reproduce the RFL standards. It is to identify what a club should be able to show to a board, league body, CQC, insurer, or external reviewer if asked, "How do you know this medical service is governed?"
+The purpose is not to reproduce the RFL standards or to finalise software requirements. It is to identify what a club may need to evidence, and what still needs validation, if asked, "How do you know this medical service is governed?"
+
+## Research maturity
+
+| Area | Current maturity | What still needs doing |
+| --- | --- | --- |
+| Clause coverage | First-pass A1-F11 coverage is in place. | Check every clause against the RFL PDF and add missing subclauses where they materially change evidence. |
+| Mandatory status | Mandatory language is clear for many areas, but not all rows are yet classified. | Add a mandatory / best practice / information-only / competition-specific status column after validation. |
+| Competition specificity | Championship is referenced where obvious, for example cardiac screening and equipment. | Confirm differences for Super League, Championship, WSL, academy, reserves, scholarship, community, and away/travel contexts. |
+| Evidence ownership | Indicative owners are listed. | Validate with a Head of Medical, club operations lead, welfare/safeguarding lead, and external provider. |
+| CQC mapping | High-level CQC lens is included. | Cross-check against CQC evidence categories and quality statements once the evidence pack is stabilised. |
+
+## Status triage to validate
+
+| RFL area | Apparent status from source | Validation note |
+| --- | --- | --- |
+| A1 medical staff registration | Mandatory. | Confirm role-by-role requirement and club evidence route. |
+| A3 prehospital trauma courses | Mandatory for field-of-play personnel. | Confirm acceptable equivalents, grace periods, and competition differences. |
+| A4 attendance at matches and training | Mandatory. | Confirm exact cover requirement for Championship home, away, training, academy, and reserve contexts. |
+| A5 match-day rules and responsibilities | Mandatory in substance, with competition-specific tables. | Extract competition-specific minimum medical staff table into a separate research note if needed. |
+| B1 medical note keeping and injury audit | Mandatory. | Confirm required record content, retention, system expectations, and audit reporting. |
+| B4 serious injury/death reporting | Mandatory. | Align with club incident, board, insurer, safeguarding, and possible CQC notification analysis. |
+| B5 medical emergency action plan | Mandatory. | Confirm evidence needed for each venue and temporary venue change. |
+| C1 mandatory medical equipment and drugs box | Mandatory. | Confirm home/away responsibilities and evidence of pre-match checks. |
+| C2 equipment list | Mixed mandatory and best practice. | Separate minimum mandatory equipment from best-practice equipment. |
+| D anti-doping | Mandatory elements and information-only special topics. | Separate checking obligations from guidance and education material. |
+| E concussion | Mandatory regulations. | Confirm reporting deadlines, professional-game scope, community-game boundary, and loan-player notification. |
+| F cardiac screening | Mandatory for specified competitions including Championship. | Confirm provider, registration/exemption, abnormal result, and clearance evidence. |
+| F mental health and other policies | Mixed mandatory, best-practice, and information-only content. | Classify each subsection and identify which controls are medical, welfare, safeguarding, or HR-led. |
 
 ## How to read the map
 
@@ -98,18 +126,21 @@ An online platform should be able to generate these packs from the above records
 - **Incident pack**: serious injury/death chronology, notifications, clinical records, debrief, learning, duty-of-candour analysis where relevant.
 - **Player transfer/loan pack**: agreed medical handover, confidentiality basis, current restrictions, concussion status, and medicines/TUE status.
 
-## Gaps to resolve before software build
+## Gaps to resolve before solution design
 
 - Confirm competition-specific variations for Championship, Super League, Women's Super League, academy, reserves, and community contexts.
 - Confirm which RFL evidence is mandatory, best practice, or information only for the specific club.
 - Decide whether the platform stores clinical notes directly or references a specialist sports EMR.
 - Define board-visible summaries that avoid inappropriate disclosure of confidential player health data.
 - Define CQC/legal review points for diagnostics, screening, prescribing, remote advice, ambulance transport, and public/private clinics.
+- Validate the map with someone who has operational responsibility for RFL medical compliance.
+- Link each evidence type to the [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) inventory before converting it into templates or software fields.
 
 ## Related pages
 
 - [RFL Medical Standards Map](rfl-medical-standards-map.md)
 - [Platform Product Blueprint](platform-product-blueprint.md)
 - [Platform MVP and Guardrails](platform-mvp-and-guardrails.md)
+- [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Medicines, Prescribing, and Anti-Doping](medicines-prescribing-anti-doping.md)
 - [CQC Registration Edge Cases](cqc-registration-edge-cases.md)

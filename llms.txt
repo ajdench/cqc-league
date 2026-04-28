@@ -14,6 +14,7 @@ This file is an index of documentation pages. For all content in a single file, 
 - [Board Briefing](https://ajdench.github.io/cqc-league/research/board-briefing.md)
 - [Board CQC Response and Outcomes](https://ajdench.github.io/cqc-league/research/board-cqc-response.md)
 - [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
+- [CQC Scope Decision Research](https://ajdench.github.io/cqc-league/research/cqc-scope-decision-research.md)
 - [Worked Examples](https://ajdench.github.io/cqc-league/research/worked-examples.md)
 
 ## CQC Framework
@@ -33,6 +34,7 @@ This file is an index of documentation pages. For all content in a single file, 
 ## Operating Model and Evidence
 
 - [Governance Operating Model](https://ajdench.github.io/cqc-league/research/governance-operating-model.md)
+- [Minimum Compliance Pack Research](https://ajdench.github.io/cqc-league/research/minimum-compliance-pack-research.md)
 - [Assurance Pack Templates](https://ajdench.github.io/cqc-league/research/assurance-pack-templates.md)
 
 ## Platform Product Research
