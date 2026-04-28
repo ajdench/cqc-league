@@ -6,7 +6,7 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 | Status | Item | Output in the wiki | Notes |
 | --- | --- | --- | --- |
-| Deferred | 1. Define target users and buying groups | Product persona page | Still needed, but not the next research pass. |
+| Scope page added | 1. Define research audience and decision context | [Research Scope and Assumptions](research-scope-assumptions.md) | Reframed away from product buyers. The next decision is scope, audience, and immediate output. |
 | Scenario matrix added | 2. Define the minimum viable compliance pack | [Minimum Compliance Pack Research](minimum-compliance-pack-research.md) and [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md) | Research inventory tested against six scenarios. Still needs external validation before final pack design. |
 | Status register added | 3. Map RFL Medical Standards clause-by-clause | [RFL Clause Evidence Map](rfl-clause-evidence-map.md) and [RFL Clause Status Register](rfl-clause-status-register.md) | Status, Championship relevance, record visibility, and validation gaps added. Still needs RFL/Head of Medical validation. |
 | Deferred | 4. Design the platform information architecture | Product blueprint update | Should wait until items 2, 3, 5, and 6 are better understood. |
@@ -15,27 +15,26 @@ This page records the next research tasks for a Rugby League CQC governance plat
 
 ## Working priorities
 
-The current priority is to complete research for items **2, 3, 5, and 6** before moving further into solution design.
+The current priority is to settle item **1** as a research scope question, then use that decision to decide how far to take items **2, 3, 5, and 6**.
 
-The research should answer four practical questions:
+The research should answer five practical questions:
 
-1. What evidence would a club reasonably need to hold?
-2. Which RFL requirements are mandatory, best practice, information-only, or competition-specific?
-3. What facts determine the CQC scope decision?
-4. Which existing tools solve parts of the problem, and what gaps remain?
+1. Who is the research for, and what decision should it support?
+2. What evidence would a club reasonably need to hold?
+3. Which RFL requirements are mandatory, best practice, information-only, or competition-specific?
+4. What facts determine the CQC scope decision?
+5. Which existing tools solve parts of the problem, and what gaps remain?
 
 ## Backlog detail
 
-### 1. Target users and buying groups
+### 1. Research audience and decision context
 
-The wiki should separate user needs by role:
+This item is now reframed in [Research Scope and Assumptions](research-scope-assumptions.md). The research should not start with a product buying group. It should first decide:
 
-- board and executive leaders need risk, assurance, and decision records;
-- Head of Medical needs operational control, clinical governance, and evidence production;
-- clinicians need efficient records, handovers, and professional independence;
-- safeguarding and welfare leads need escalation routes and protected information flows;
-- league or competition bodies may need aggregated assurance without inappropriate access to confidential medical records;
-- external providers need contract, scope, indemnity, and evidence boundaries.
+- whether the concrete reference is Sheffield Eagles, a generic Championship club, professional Rugby League, or professional sport more broadly;
+- whether the immediate output is a board/Head of Medical pack, a reusable framework, a validation plan, or future platform research;
+- which audiences need to make decisions now;
+- which product-shaped work should remain deferred.
 
 ### 2. Minimum viable compliance pack
 
@@ -97,6 +96,7 @@ Current output: [Platform Tool Landscape](platform-tool-landscape.md) and [Tool 
 ## Related pages
 
 - [Research Validation Plan](research-validation-plan.md)
+- [Research Scope and Assumptions](research-scope-assumptions.md)
 - [Platform Opportunity](platform-opportunity-tool-landscape.md)
 - [Minimum Compliance Pack Research](minimum-compliance-pack-research.md)
 - [Minimum Compliance Pack Scenario Matrix](minimum-compliance-pack-scenario-matrix.md)
