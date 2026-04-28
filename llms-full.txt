@@ -3083,6 +3083,8 @@ This page records visual and knowledge-map tools that could be added when the re
 
 The wiki currently uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) with [PyMdown SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences) configured for Mermaid diagrams.
 
+It also uses [mkdocs-network-graph-plugin](https://pypi.org/project/mkdocs-network-graph-plugin/) to add an Obsidian-like connected-pages graph to the site. The build sanitises the generated graph data so local source-file paths are not published. The plugin currently loads D3 from `d3js.org`, so this should be reviewed if the site later needs stricter dependency, privacy, or offline constraints.
+
 Mermaid is already suitable for:
 
 - decision trees;
@@ -3108,7 +3110,7 @@ It should remain the default for diagrams that are small enough to read directly
 | [mkdocs-table-reader-plugin](https://timvink.github.io/mkdocs-table-reader-plugin/) | Inserts tables from CSV, JSON, Excel, YAML, TSV, and related files. | Evidence maps, RFL clause registers, vendor comparisons, or maturity tables should become data files rather than hand-written Markdown tables. | Candidate when tables become large or repeated. |
 | [mkdocs-markmap](https://github.com/markmap/mkdocs_markmap) / [Markmap](https://markmap.js.org/docs/markmap) | Interactive mind maps from Markdown hierarchy. | A research topic needs a browsable concept map rather than a strict process diagram. | Candidate for research scoping and topic maps. |
 | [mkdocs-kroki-plugin](https://pypi.org/project/mkdocs-kroki-plugin/) / [Kroki](https://kroki.io/) | One route to many diagram languages, including PlantUML, C4, GraphViz, D2, BPMN, Excalidraw, Vega, Vega-Lite, WaveDrom, and more. | Mermaid and draw.io are not enough, or a specialist notation is needed. | Powerful but heavier; consider privacy and hosting before enabling. |
-| [mkdocs-network-graph-plugin](https://pypi.org/project/mkdocs-network-graph-plugin/) | Interactive knowledge network graph for Material for MkDocs, with full-site and local page connections. | The wiki needs an Obsidian-like site map showing how research pages connect. | Best MkDocs-native knowledge-map candidate. |
+| [mkdocs-network-graph-plugin](https://pypi.org/project/mkdocs-network-graph-plugin/) | Interactive knowledge network graph for Material for MkDocs, with full-site and local page connections. | The wiki needs an Obsidian-like site map showing how research pages connect. | Enabled, with generated graph data sanitised after build. |
 | [mkdocs-obsidian-interactive-graph-plugin](https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin) | Obsidian-like interactive graph for Material for MkDocs using ECharts and wikilinks. | The wiki moves toward Obsidian-style wikilinks and wants a closer Obsidian visual pattern. | Secondary knowledge-map candidate; more moving parts than network graph. |
 | [mkdocstrings/autorefs](https://github.com/mkdocstrings/autorefs) | Cross-page references, anchors, and backlink recording for other plugins or hooks. | Backlinks, referenced-by sections, or richer cross-reference behavior become important. | Infrastructure candidate, not a visual graph by itself. |
 | [Foam graph visualization](https://djplaner.github.io/foam-with-material-for-mkdocs/user/features/graph-visualization/) | VS Code knowledge graph for Markdown notes, including files, tags, links, filters, and hover/click navigation. | Editors want a local authoring graph while writing the wiki. | Authoring-side option, not a published MkDocs site feature. |
@@ -3122,7 +3124,7 @@ Yes. The closest published-wiki options are:
 3. **Foam graph visualization**: useful for local authoring in VS Code, but not a native published-site graph.
 4. **autorefs backlinks**: useful if the site needs backlink sections or graph data, but it does not itself render an Obsidian-style graph.
 
-The recommended first experiment is **mkdocs-network-graph-plugin** on a branch, because it is designed for Material for MkDocs, has simple `plugins: - graph` setup, and avoids changing the wiki writing style to wikilinks.
+The first experiment is **mkdocs-network-graph-plugin**, because it is designed for Material for MkDocs, has simple `plugins: - graph` setup, and avoids changing the wiki writing style to wikilinks. It is now enabled, with a build hook that removes local source paths from the generated graph JSON before publication.
 
 ## Use triggers
 
@@ -3145,7 +3147,7 @@ The recommended first experiment is **mkdocs-network-graph-plugin** on a branch,
 1. **Shortlist now**: Mermaid, draw.io, static SVG/PNG, glightbox, caption, markmap, table-reader, Vega-Lite, Plotly, Kroki, network graph, Obsidian interactive graph, autorefs, Foam.
 2. **Install only when needed**: do not add plugins without an immediate page or research output that will use them.
 3. **First likely install**: `mkdocs-drawio` and `mkdocs-glightbox`, because they directly improve board-facing diagrams and large evidence maps.
-4. **First knowledge-map experiment**: `mkdocs-network-graph-plugin` on a branch.
+4. **Knowledge-map experiment**: `mkdocs-network-graph-plugin` is enabled and should be reviewed against real use.
 5. **Data-visualisation install**: add table-reader and Vega-Lite/charts only after evidence registers are converted to structured data.
 6. **Kroki decision**: use only if we need specialist diagram languages and have decided whether to use hosted Kroki or a self-hosted service.
 
@@ -3156,6 +3158,7 @@ The recommended first experiment is **mkdocs-network-graph-plugin** on a branch,
 - Prefer static SVG exports for visuals that should remain stable in LLM exports, printed material, or board packs.
 - Avoid adding JavaScript-heavy interactive visuals unless they answer a real research question.
 - Check whether a plugin changes Markdown syntax, page loading, search, or GitHub Pages compatibility before enabling it.
+- Check generated output before publishing; the network graph plugin originally generated local source paths, so the wiki now strips those paths in a post-build hook.
 - Check privacy and dependency implications before using hosted rendering services such as Kroki.
 - Keep LLM wiki usability in mind: every important visual should also have a short textual explanation nearby.
 

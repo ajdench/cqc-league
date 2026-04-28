@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../stylesheets/extra.css">
     
+      <link rel="stylesheet" href="../../css/graph.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -1688,6 +1690,7 @@
 <p>This page records visual and knowledge-map tools that could be added when the research needs them. The intent is not to install every tool immediately. The intent is to keep a practical register so new information can be matched to the right visual form.</p>
 <h2 id="current-baseline">Current baseline<a class="headerlink" href="#current-baseline" title="Permanent link">&para;</a></h2>
 <p>The wiki currently uses <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> with <a href="https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences">PyMdown SuperFences</a> configured for Mermaid diagrams.</p>
+<p>It also uses <a href="https://pypi.org/project/mkdocs-network-graph-plugin/">mkdocs-network-graph-plugin</a> to add an Obsidian-like connected-pages graph to the site. The build sanitises the generated graph data so local source-file paths are not published. The plugin currently loads D3 from <code>d3js.org</code>, so this should be reviewed if the site later needs stricter dependency, privacy, or offline constraints.</p>
 <p>Mermaid is already suitable for:</p>
 <ul>
 <li>decision trees;</li>
@@ -1773,7 +1776,7 @@
 <td><a href="https://pypi.org/project/mkdocs-network-graph-plugin/">mkdocs-network-graph-plugin</a></td>
 <td>Interactive knowledge network graph for Material for MkDocs, with full-site and local page connections.</td>
 <td>The wiki needs an Obsidian-like site map showing how research pages connect.</td>
-<td>Best MkDocs-native knowledge-map candidate.</td>
+<td>Enabled, with generated graph data sanitised after build.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin">mkdocs-obsidian-interactive-graph-plugin</a></td>
@@ -1803,7 +1806,7 @@
 <li><strong>Foam graph visualization</strong>: useful for local authoring in VS Code, but not a native published-site graph.</li>
 <li><strong>autorefs backlinks</strong>: useful if the site needs backlink sections or graph data, but it does not itself render an Obsidian-style graph.</li>
 </ol>
-<p>The recommended first experiment is <strong>mkdocs-network-graph-plugin</strong> on a branch, because it is designed for Material for MkDocs, has simple <code>plugins: - graph</code> setup, and avoids changing the wiki writing style to wikilinks.</p>
+<p>The first experiment is <strong>mkdocs-network-graph-plugin</strong>, because it is designed for Material for MkDocs, has simple <code>plugins: - graph</code> setup, and avoids changing the wiki writing style to wikilinks. It is now enabled, with a build hook that removes local source paths from the generated graph JSON before publication.</p>
 <h2 id="use-triggers">Use triggers<a class="headerlink" href="#use-triggers" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
@@ -1864,7 +1867,7 @@
 <li><strong>Shortlist now</strong>: Mermaid, draw.io, static SVG/PNG, glightbox, caption, markmap, table-reader, Vega-Lite, Plotly, Kroki, network graph, Obsidian interactive graph, autorefs, Foam.</li>
 <li><strong>Install only when needed</strong>: do not add plugins without an immediate page or research output that will use them.</li>
 <li><strong>First likely install</strong>: <code>mkdocs-drawio</code> and <code>mkdocs-glightbox</code>, because they directly improve board-facing diagrams and large evidence maps.</li>
-<li><strong>First knowledge-map experiment</strong>: <code>mkdocs-network-graph-plugin</code> on a branch.</li>
+<li><strong>Knowledge-map experiment</strong>: <code>mkdocs-network-graph-plugin</code> is enabled and should be reviewed against real use.</li>
 <li><strong>Data-visualisation install</strong>: add table-reader and Vega-Lite/charts only after evidence registers are converted to structured data.</li>
 <li><strong>Kroki decision</strong>: use only if we need specialist diagram languages and have decided whether to use hosted Kroki or a self-hosted service.</li>
 </ol>
@@ -1875,6 +1878,7 @@
 <li>Prefer static SVG exports for visuals that should remain stable in LLM exports, printed material, or board packs.</li>
 <li>Avoid adding JavaScript-heavy interactive visuals unless they answer a real research question.</li>
 <li>Check whether a plugin changes Markdown syntax, page loading, search, or GitHub Pages compatibility before enabling it.</li>
+<li>Check generated output before publishing; the network graph plugin originally generated local source paths, so the wiki now strips those paths in a post-build hook.</li>
 <li>Check privacy and dependency implications before using hosted rendering services such as Kroki.</li>
 <li>Keep LLM wiki usability in mind: every important visual should also have a short textual explanation nearby.</li>
 </ul>
@@ -1946,6 +1950,10 @@
     
       <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
       
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+      
+        <script src="../../js/graph.js"></script>
+      
     
-  </body>
+  <script>window.graph_options = {    debug: false,    base_path: '/cqc-league/'};</script></body>
 </html>
