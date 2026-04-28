@@ -49,6 +49,23 @@ This page records the main sources used and the point each source supports.
 | [LLM Wiki](https://llm-wiki.org/) | Reference pattern for a Material for MkDocs-based LLM-facing wiki. |
 | [mkdocs-llms-source on PyPI](https://pypi.org/project/mkdocs-llms-source/) | LLM outputs: `/llms.txt`, `/llms-full.txt`, and per-page Markdown copies. |
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | Documentation theme and site structure. |
+| [Radar Healthcare: CQC Compliance Software](https://radarhealthcare.com/product/cqc-compliance-software/) | Example of CQC-focused compliance/evidence, audit, action, and inspection readiness tooling. |
+| [Radar Healthcare: Audit Management Software](https://radarhealthcare.com/product/audit-management-software/) | Example of healthcare audit workflow, action tracking, and evidence capture. |
+| [Vantage: Compliance and Quality Management](https://vantage-technologies.co.uk/compliance-and-quality-management/) | Example of CQC compliance, quality management, governance, audit, and evidence tooling for health and care providers. |
+| [QCS](https://www.qcs.co.uk/) | Example of policy, procedure, audit, and compliance support for regulated health and care providers. |
+| [Kitman Labs: Performance Medicine](https://www.kitmanlabs.com/platform/performance-medicine/) | Example of elite sports medicine records, injury/illness management, and athlete health workflow. |
+| [Teamworks AMS / Smartabase](https://teamworks.com/smartabase) | Example of athlete management, sports science, and medical data platform used in performance environments. |
+| [AthleteMonitoring: Electronic Medical Records](https://www.athletemonitoring.com/electronic-medical-records/) | Example of sports EMR, injury tracking, SOAP notes, medication, and return-to-play record capability. |
+| [SportsWareOnLine](https://sportswareonline.com/) | Example of athlete health record, injury, treatment, rehabilitation, and reporting software. |
+| [Orreco: Medical Notes](https://www.orreco.ai/modules/medical-notes) | Example of sports medical notes and athlete health data capture. |
+| [SportLoMo: Governance and Safe Sport](https://www.sportlomo.com/governance-and-safe-sport/) | Example of sports governance, safe sport, certification, and participant-management tooling. |
+| [Globocol: Health and Safety in Sport Software](https://www.globocol.com/health-safety-sport-software) | Example of sports health and safety, incident, risk, and compliance management tooling. |
+| [CPOMS StudentSafe for Sports Clubs](https://www.cpoms.co.uk/cpoms-studentsafe-for-sports-clubs/) | Example of safeguarding and welfare case-management tooling adapted to sports clubs. |
+| [Sport:80 Compliance Management](https://www.sport80.com/uk/features/compliance-management) | Example of sports compliance, eligibility, certifications, and document/workflow management. |
+| [ICO: Special category data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/) | Health data and confidentiality guardrails for player medical records and platform design. |
+| [NHS England DCB0129 standard](https://standards.nhs.uk/published-standards/clinical-risk-management-its-application-in-the-manufacture-of-health-it-systems) | Clinical safety risk-management standard relevant if the platform moves from records/evidence into clinical decision support. |
+| [NHS Digital: Clinical safety developer guidance](https://digital.nhs.uk/developer/guides-and-documentation/introduction-to-healthcare-technology/clinical-safety) | Practical clinical safety guidance for health IT developers. |
+| [MHRA: Software and AI as a Medical Device](https://www.gov.uk/government/publications/software-and-artificial-intelligence-ai-as-a-medical-device/software-and-artificial-intelligence-ai-as-a-medical-device) | Medical-device boundary for digital health software and AI-enabled decision support. |
 
 ## Internal application pages
 
@@ -57,3 +74,4 @@ This page records the main sources used and the point each source supports.
 | [Worked Examples](worked-examples.md) | Scenario testing for player-only care, public clinics, diagnostics, concussion, medicines, remote triage, contractors, and academy pathways. |
 | [Board Briefing](board-briefing.md) | Initial board-facing summary from Head of Medical, including CQC explanation, assessment process, Rugby League application, evidence pack, and response plan. |
 | [Assurance Pack Templates](assurance-pack-templates.md) | Practical evidence templates used by the worked examples. |
+| [Platform Opportunity and Tool Landscape](platform-opportunity-tool-landscape.md) | Product opportunity, competitor/tool landscape, CQC evidence mapping, MVP modules, and digital-health guardrails. |

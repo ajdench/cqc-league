@@ -21,6 +21,7 @@ The core conclusion is practical: most match-day and training-ground treatment f
 - Use [Registration Decision Model](research/registration-decision-model.md) as the working checklist before launching or changing a medical service.
 - Use [Governance Operating Model](research/governance-operating-model.md) as a board-to-pitch operating template.
 - Use [Assurance Pack Templates](research/assurance-pack-templates.md) to turn the research into repeatable governance documents.
+- Use [Platform Opportunity and Tool Landscape](research/platform-opportunity-tool-landscape.md) to shape an online product that combines CQC readiness, sports medical records, evidence management, and governance tooling.
 
 ## LLM Wiki outputs
 
@@ -38,3 +39,4 @@ The [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) build us
 - Applied service models are tested in [Worked Examples](research/worked-examples.md).
 - Rugby League-specific obligations are mapped from the [RFL Medical Standards 2026](https://www.rugby-league.com/uploads/docs/Medical%20Standards%202026.pdf).
 - Medicines and anti-doping controls use [UKAD Search Check Apply](https://www.ukad.org.uk/searchcheckapply) and [GMC prescribing guidance](https://www.gmc-uk.org/professional-standards/the-professional-standards/good-practice-in-prescribing-and-managing-medicines-and-devices).
+- The product opportunity is explored in [Platform Opportunity and Tool Landscape](research/platform-opportunity-tool-landscape.md), including external examples from CQC compliance platforms, sports medicine EMRs, safeguarding systems, and digital health compliance guidance.

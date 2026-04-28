@@ -23,4 +23,5 @@ This file is an index of documentation pages. For all content in a single file, 
 - [Registration Decision Model](https://ajdench.github.io/cqc-league/research/registration-decision-model.md)
 - [Governance Operating Model](https://ajdench.github.io/cqc-league/research/governance-operating-model.md)
 - [Assurance Pack Templates](https://ajdench.github.io/cqc-league/research/assurance-pack-templates.md)
+- [Platform Opportunity and Tool Landscape](https://ajdench.github.io/cqc-league/research/platform-opportunity-tool-landscape.md)
 - [Source Map](https://ajdench.github.io/cqc-league/research/source-map.md)
