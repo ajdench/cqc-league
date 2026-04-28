@@ -4,6 +4,9 @@ site_url: https://ajdench.github.io/cqc-league/
 docs_dir: docs
 site_dir: site
 
+hooks:
+  - hooks/sanitize_graph_json.py
+
 theme:
   name: material
   logo: assets/cqa-logo.svg
@@ -20,6 +23,7 @@ theme:
 
 plugins:
   - search
+  - graph
   - llms-source:
       full_output: true
       markdown_urls: true
